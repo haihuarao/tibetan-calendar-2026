@@ -53,26 +53,15 @@ def tibetan_day_short(display: str) -> str:
 
 
 def summary_for(entry: dict) -> str:
-    full_summary = (
-        f"藏历{entry['tibetan']['display']} · "
-        f"农历{entry['lunar']['display']}"
-    )
-    candidates = [
+    day = tibetan_day_short(entry["tibetan"]["display"])
+    gatherings = [
         note
         for note in entry["notes"]
-        if note not in GENERIC_NOTES
-        and note not in MONTH_LABELS
-        and not note.startswith("理发吉日：")
-        and not note.startswith("作何善恶成")
+        if note in {"莲师荟供日", "空行母荟供日"}
     ]
-    if candidates:
-        full_summary += "｜" + "、".join(candidates[:2])
-    elif "十斋日" in entry["notes"]:
-        full_summary += "｜十斋日"
-    elif "飞幡日" in entry["notes"]:
-        full_summary += "｜飞幡日"
-    return f"{tibetan_day_short(entry['tibetan']['display'])}\n{full_summary}"
-
+    if gatherings:
+        return f"{day} {'、'.join(gatherings)}"
+    return day
 
 def description_for(entry: dict) -> str:
     date = dt.date.fromisoformat(entry["date"])
