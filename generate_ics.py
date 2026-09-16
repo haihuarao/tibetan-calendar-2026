@@ -47,8 +47,13 @@ def fold_line(line: str, limit: int = 75) -> list[str]:
     return chunks
 
 
+def tibetan_day_short(display: str) -> str:
+    # 例如：八月初五 -> 初五；十一月闰初三 -> 闰初三。
+    return display.split("月", 1)[-1]
+
+
 def summary_for(entry: dict) -> str:
-    summary = (
+    full_summary = (
         f"藏历{entry['tibetan']['display']} · "
         f"农历{entry['lunar']['display']}"
     )
@@ -61,12 +66,12 @@ def summary_for(entry: dict) -> str:
         and not note.startswith("作何善恶成")
     ]
     if candidates:
-        summary += "｜" + "、".join(candidates[:2])
+        full_summary += "｜" + "、".join(candidates[:2])
     elif "十斋日" in entry["notes"]:
-        summary += "｜十斋日"
+        full_summary += "｜十斋日"
     elif "飞幡日" in entry["notes"]:
-        summary += "｜飞幡日"
-    return summary
+        full_summary += "｜飞幡日"
+    return f"{tibetan_day_short(entry['tibetan']['display'])}\n{full_summary}"
 
 
 def description_for(entry: dict) -> str:
