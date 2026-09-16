@@ -49,18 +49,23 @@ def summary_for(entry: dict) -> str:
 
 
 def location_for(entry: dict) -> str:
-    lines = [
-        f"藏历火马年：{entry['tibetan']['display']}",
-        f"藏历月名：{entry['tibetan']['month_name']}",
-    ]
-    kept_notes = [
+    notes = entry["notes"]
+    gatherings = [note for note in notes if "荟供日" in note]
+    merits = [note for note in notes if note.startswith("作何善恶成")]
+    hair_days = [note for note in notes if note.startswith("理发吉日：")]
+    specials = [
         note
-        for note in entry["notes"]
-        if not note.startswith("作何善恶成")
+        for note in notes
+        if note not in gatherings
+        and note not in merits
+        and note not in hair_days
     ]
-    lines.extend(kept_notes)
+    lines = [f"藏历{entry['tibetan']['display']}"]
+    lines.extend(gatherings)
+    lines.extend(specials)
+    lines.extend(merits)
+    lines.extend(hair_days)
     return "\n".join(lines)
-
 
 def build_calendar(data_path: Path, output_path: Path) -> None:
     payload = json.loads(data_path.read_text(encoding="utf-8"))
