@@ -52,16 +52,22 @@ def tibetan_day_short(display: str) -> str:
     return display.split("月", 1)[-1]
 
 
-def summary_for(entry: dict) -> str:
+def summary_for(entry: dict, fish: bool = False) -> str:
     day = tibetan_day_short(entry["tibetan"]["display"])
     gatherings = [
         note
         for note in entry["notes"]
         if note in {"莲师荟供日", "空行母荟供日"}
     ]
-    if gatherings:
-        return f"{day} {'、'.join(gatherings)}"
-    return day
+    result = f"{day} {'、'.join(gatherings)}" if gatherings else day
+    # 萨嘎月整月标记；其他月份只在藏历初八、十五、三十标记。
+    should_mark_fish = (
+        entry["tibetan"].get("month_name") == "萨嘎月"
+        or entry["tibetan"].get("day") in {8, 15, 30}
+    )
+    if fish and should_mark_fish:
+        result += " 🐟"
+    return result
 
 def description_for(entry: dict) -> str:
     date = dt.date.fromisoformat(entry["date"])
@@ -80,21 +86,28 @@ def description_for(entry: dict) -> str:
     return "\n".join(lines)
 
 
-def build_calendar(data_path: Path, output_path: Path) -> None:
+def build_calendar(data_path: Path, output_path: Path, *, fish: bool = False) -> None:
     payload = json.loads(data_path.read_text(encoding="utf-8"))
     entries = payload["entries"]
     if len(entries) != 365:
         raise ValueError(f"Expected 365 entries, got {len(entries)}")
 
     stamp = dt.datetime.now(dt.timezone.utc).strftime("%Y%m%dT%H%M%SZ")
+    calendar_name = "2026 藏历火马年 🐟" if fish else "2026 藏历火马年"
+    uid_prefix = "tibetan-2026-fish" if fish else "tibetan-2026"
+    calendar_description = (
+        "2026 藏历火马年（萨嘎月整月及每月藏历初八、十五、三十标记 🐟，详情保留第一版信息）"
+        if fish
+        else payload["title"] + "（公历、农历、藏历对照，来源为用户提供的月历 PDF）"
+    )
     lines = [
         "BEGIN:VCALENDAR",
         "VERSION:2.0",
         "PRODID:-//M.R Bao//2026 Tibetan Calendar//CN",
         "CALSCALE:GREGORIAN",
         "METHOD:PUBLISH",
-        "X-WR-CALNAME:2026 藏历火马年",
-        f"X-WR-CALDESC:{ics_escape(payload['title'] + '（公历、农历、藏历对照，来源为用户提供的月历 PDF）')}",
+        f"X-WR-CALNAME:{ics_escape(calendar_name)}",
+        f"X-WR-CALDESC:{ics_escape(calendar_description)}",
         "X-WR-TIMEZONE:Asia/Shanghai",
         "X-PUBLISHED-TTL:PT1H",
         "REFRESH-INTERVAL;VALUE=DURATION:PT1H",
@@ -104,14 +117,14 @@ def build_calendar(data_path: Path, output_path: Path) -> None:
     for entry in entries:
         start = dt.date.fromisoformat(entry["date"])
         end = start + dt.timedelta(days=1)
-        uid = f"tibetan-2026-{start:%Y%m%d}@tibetan-calendar.local"
+        uid = f"{uid_prefix}-{start:%Y%m%d}@tibetan-calendar.local"
         event_lines = [
             "BEGIN:VEVENT",
             f"UID:{uid}",
             f"DTSTAMP:{stamp}",
             f"DTSTART;VALUE=DATE:{start:%Y%m%d}",
             f"DTEND;VALUE=DATE:{end:%Y%m%d}",
-            f"SUMMARY:{ics_escape(summary_for(entry))}",
+            f"SUMMARY:{ics_escape(summary_for(entry, fish=fish))}",
             f"DESCRIPTION:{ics_escape(description_for(entry))}",
             "TRANSP:TRANSPARENT",
             "SEQUENCE:0",
@@ -133,8 +146,9 @@ def main() -> None:
     parser = argparse.ArgumentParser()
     parser.add_argument("--data", type=Path, default=DEFAULT_DATA)
     parser.add_argument("--output", type=Path, default=DEFAULT_OUTPUT)
+    parser.add_argument("--fish", action="store_true", help="Add 🐟 markers for Sagadawa month and Tibetan days 8, 15, and 30")
     args = parser.parse_args()
-    build_calendar(args.data, args.output)
+    build_calendar(args.data, args.output, fish=args.fish)
 
 
 if __name__ == "__main__":

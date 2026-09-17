@@ -49,3 +49,19 @@ python generate_ics.py
 
 生成器会检查记录数必须为 365。生成的 ICS 已使用 Python `icalendar` 解析验证：
 365 个 VEVENT、UID 唯一、日期型 DTSTART/DTEND、每条物理行不超过 RFC 5545 的 75 字节限制。
+
+## 🐟 标记版订阅
+
+在保留原订阅的同时，额外提供独立的鱼类标记日历：
+
+```text
+https://haihuarao.github.io/tibetan-calendar-2026/calendar-2026-fish.ics
+```
+
+规则：萨嘎月整月每天显示 🐟；其他月份只在藏历初八、十五、三十显示 🐟。
+
+生成命令：
+
+```powershell
+python generate_ics.py --fish --output calendar-2026-fish.ics
+```
