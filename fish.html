@@ -62,7 +62,7 @@
       <ol>
         <li>打开“设置 → 日历 → 账户 → 添加账户 → 其他”。</li>
         <li>选择“添加已订阅的日历”。</li>
-        <li>服务器地址填入 <code id="ics-url">https://cdn.jsdelivr.net/gh/haihuarao/tibetan-calendar-2026@main/calendar-2026-fish.ics?v=2</code>。</li>
+        <li>服务器地址填入 <code id="ics-url">https://cdn.jsdelivr.net/gh/haihuarao/tibetan-calendar-2026@7cca61161297ac1f2f69e0f0da38035bde96ee34/calendar-2026-fish.ics</code>。</li>
         <li>点击“下一步”并保存。</li>
       </ol>
     </section>
@@ -90,7 +90,7 @@
       if (location.protocol !== 'http:' && location.protocol !== 'https:') return;
       var base = location.href.replace(/index\.html(?:[?#].*)?$/, '').replace(/[?#].*$/, '');
       if (!base.endsWith('/')) base += '/';
-      var httpsUrl = 'https://cdn.jsdelivr.net/gh/haihuarao/tibetan-calendar-2026@main/calendar-2026-fish.ics?v=2';
+      var httpsUrl = 'https://cdn.jsdelivr.net/gh/haihuarao/tibetan-calendar-2026@7cca61161297ac1f2f69e0f0da38035bde96ee34/calendar-2026-fish.ics';
       document.getElementById('ics-url').textContent = httpsUrl;
       var copyButton = document.getElementById('copy-subscription');
       copyButton.addEventListener('click', async function () {
