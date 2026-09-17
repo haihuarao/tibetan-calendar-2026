@@ -4,7 +4,7 @@
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <meta name="theme-color" content="#8f2f1f">
-  <title>2026 藏历火马年 🐟 日历订阅</title>
+  <title>2026 藏历火马年_v2 日历订阅</title>
   <style>
     :root { color-scheme: light; --ink:#2d211d; --muted:#75645d; --red:#9f3825; --gold:#c9973f; --paper:#fbf7ef; --card:#fffdf8; }
     * { box-sizing: border-box; }
@@ -42,7 +42,7 @@
 
     <div class="actions">
       <button class="button primary" id="copy-subscription" type="button">复制 HTTPS 订阅地址</button>
-      <a class="button secondary" href="calendar-2026-fish.ics" download>下载 ICS 文件</a>
+      <a class="button secondary" href="calendar-2026-fish.ics?v=2" download>下载 ICS 文件</a>
     </div>
 
     <section>
@@ -54,7 +54,7 @@
         <li>保存后在账户中确认日历已启用。</li>
       </ol>
     
-      <p class="note">不要使用 webcal:// 链接；部分 iPhone 版本会把它当作非加密连接并提示“不安全连接”。上面的 jsDelivr 地址是 HTTPS 备用地址；原 GitHub Pages 地址仍可访问：<br><code>https://haihuarao.github.io/tibetan-calendar-2026/calendar-2026-fish.ics</code></p>
+      <p class="note">不要使用 webcal:// 链接；部分 iPhone 版本会把它当作非加密连接并提示“不安全连接”。上面的 jsDelivr 地址是 HTTPS 备用地址；原 GitHub Pages 地址仍可访问：<br><code>https://haihuarao.github.io/tibetan-calendar-2026/calendar-2026-fish.ics?v=2</code></p>
     </section>
 
     <section>
@@ -62,7 +62,7 @@
       <ol>
         <li>打开“设置 → 日历 → 账户 → 添加账户 → 其他”。</li>
         <li>选择“添加已订阅的日历”。</li>
-        <li>服务器地址填入 <code id="ics-url">https://cdn.jsdelivr.net/gh/haihuarao/tibetan-calendar-2026@main/calendar-2026-fish.ics</code>。</li>
+        <li>服务器地址填入 <code id="ics-url">https://cdn.jsdelivr.net/gh/haihuarao/tibetan-calendar-2026@main/calendar-2026-fish.ics?v=2</code>。</li>
         <li>点击“下一步”并保存。</li>
       </ol>
     </section>
@@ -90,7 +90,7 @@
       if (location.protocol !== 'http:' && location.protocol !== 'https:') return;
       var base = location.href.replace(/index\.html(?:[?#].*)?$/, '').replace(/[?#].*$/, '');
       if (!base.endsWith('/')) base += '/';
-      var httpsUrl = 'https://cdn.jsdelivr.net/gh/haihuarao/tibetan-calendar-2026@main/calendar-2026-fish.ics';
+      var httpsUrl = 'https://cdn.jsdelivr.net/gh/haihuarao/tibetan-calendar-2026@main/calendar-2026-fish.ics?v=2';
       document.getElementById('ics-url').textContent = httpsUrl;
       var copyButton = document.getElementById('copy-subscription');
       copyButton.addEventListener('click', async function () {

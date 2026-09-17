@@ -93,7 +93,7 @@ def build_calendar(data_path: Path, output_path: Path, *, fish: bool = False) ->
         raise ValueError(f"Expected 365 entries, got {len(entries)}")
 
     stamp = dt.datetime.now(dt.timezone.utc).strftime("%Y%m%dT%H%M%SZ")
-    calendar_name = "2026 藏历火马年 🐟" if fish else "2026 藏历火马年"
+    calendar_name = "2026 藏历火马年_v2" if fish else "2026 藏历火马年"
     uid_prefix = "tibetan-2026-fish" if fish else "tibetan-2026"
     calendar_description = (
         "2026 藏历火马年（萨嘎月整月及每月藏历初八、十五、三十标记 🐟，详情保留第一版信息）"
