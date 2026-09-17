@@ -16,7 +16,7 @@
     h1 { margin:0; font-size:clamp(30px,7vw,48px); line-height:1.15; letter-spacing:-.03em; }
     .subtitle { margin:14px 0 0; color:var(--muted); font-size:17px; }
     .actions { display:grid; gap:12px; grid-template-columns:1fr 1fr; margin:26px 0 34px; }
-    .button { display:flex; justify-content:center; align-items:center; min-height:54px; padding:12px 18px; border-radius:15px; text-decoration:none; font-weight:750; text-align:center; }
+    .button { display:flex; justify-content:center; align-items:center; min-height:54px; padding:12px 18px; border:0; border-radius:15px; text-decoration:none; font:inherit; font-weight:750; text-align:center; cursor:pointer; }
     .primary { color:#fff; background:var(--red); box-shadow:0 12px 24px rgba(159,56,37,.22); }
     .secondary { color:var(--red); background:#fff; border:1px solid rgba(159,56,37,.22); }
     section { padding:22px 24px; margin:16px 0; border:1px solid #eadfcd; border-radius:19px; background:rgba(255,255,255,.8); }
@@ -41,18 +41,20 @@
     </div>
 
     <div class="actions">
-      <a class="button primary" id="subscribe" href="calendar-2026-fish.ics">订阅带 🐟 的日历</a>
+      <button class="button primary" id="copy-subscription" type="button">复制 HTTPS 订阅地址</button>
       <a class="button secondary" href="calendar-2026-fish.ics" download>下载 ICS 文件</a>
     </div>
 
     <section>
-      <h2>iPhone 添加方法</h2>
+      <h2>iPhone 添加方法（安全 HTTPS）</h2>
       <ol>
-        <li>用 iPhone 的 Safari 打开本页。</li>
-        <li>点击“订阅带 🐟 的日历”。</li>
-        <li>系统弹出“订阅日历”后，点击“订阅”。</li>
-        <li>打开“设置 → 日历 → 账户”，确认“2026 藏历火马年 🐟”已启用。</li>
+        <li>点击“复制 HTTPS 订阅地址”。</li>
+        <li>打开“设置 → 日历 → 账户 → 添加账户 → 其他 → 添加已订阅的日历”。</li>
+        <li>粘贴复制的 HTTPS 地址。</li>
+        <li>保存后在账户中确认日历已启用。</li>
       </ol>
+    
+      <p class="note">不要使用 webcal:// 链接；部分 iPhone 版本会把它当作非加密连接并提示“不安全连接”。请始终使用 HTTPS 地址。</p>
     </section>
 
     <section>
@@ -90,7 +92,16 @@
       if (!base.endsWith('/')) base += '/';
       var httpsUrl = base + 'calendar-2026-fish.ics';
       document.getElementById('ics-url').textContent = httpsUrl;
-      document.getElementById('subscribe').href = 'webcal://' + httpsUrl.replace(/^https?:\/\//, '');
+      var copyButton = document.getElementById('copy-subscription');
+      copyButton.addEventListener('click', async function () {
+        try {
+          await navigator.clipboard.writeText(httpsUrl);
+          copyButton.textContent = '已复制 HTTPS 地址';
+          setTimeout(function () { copyButton.textContent = '复制 HTTPS 订阅地址'; }, 2500);
+        } catch (error) {
+          window.prompt('请复制订阅地址', httpsUrl);
+        }
+      });
     }());
   </script>
 </body>
