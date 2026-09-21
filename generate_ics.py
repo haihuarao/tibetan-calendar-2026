@@ -99,10 +99,10 @@ def summary_for(entry: dict, fish: bool = False, entries: list[dict] | None = No
         if note in {"莲师荟供日", "空行母荟供日"}
     ]
     parts = [day]
-    if gatherings:
-        parts.append("、".join(gatherings))
     if entries is not None:
         parts.extend(special_events(entry, entries))
+    if gatherings:
+        parts.append("、".join(gatherings))
     # 萨嘎月整月标记；其他月份只在藏历初八、十五、三十标记。
     should_mark_fish = (
         entry["tibetan"].get("month_name") == "萨嘎月"
