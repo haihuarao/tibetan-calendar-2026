@@ -1,0 +1,4647 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//M.R Bao//2026 Tibetan Calendar//CN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:2026 藏历火马年_v2_Android
+X-WR-CALDESC:2026 藏历火马年 Android 订阅（内容与 internal v2 
+ 相同，使用独立 UID）
+X-WR-TIMEZONE:Asia/Shanghai
+X-PUBLISHED-TTL:PT1H
+REFRESH-INTERVAL;VALUE=DURATION:PT1H
+X-APPLE-CALENDAR-COLOR:#C24B2A
+BEGIN:VEVENT
+UID:tibetan-fish-android-20260101@tibetan-calendar.local
+DTSTAMP:20260921T042059Z
+DTSTART;VALUE=DATE:20260101
+DTEND;VALUE=DATE:20260102
+SUMMARY:十三
+DESCRIPTION:公历：2026年1月1日 星期四\n藏历火马年：十一月
+ 十三\n藏历月名：庄严月\n农历丙午年：冬月十三\n事项
+ ：\n理发吉日：精进于佛法修持，最上\n元旦节\n来源：20
+ 26（农历）藏历火马年月历.pdf
+TRANSP:TRANSPARENT
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+UID:tibetan-fish-android-20260102@tibetan-calendar.local
+DTSTAMP:20260921T042059Z
+DTSTART;VALUE=DATE:20260102
+DTEND;VALUE=DATE:20260103
+SUMMARY:十四
+DESCRIPTION:公历：2026年1月2日 星期五\n藏历火马年：十一月
+ 十四\n藏历月名：庄严月\n农历丙午年：冬月十四\n事项
+ ：\n萨迦班智达圆寂纪念日\n理发吉日：财物增多\n十斋
+ 日\n来源：2026（农历）藏历火马年月历.pdf
+TRANSP:TRANSPARENT
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+UID:tibetan-fish-android-20260103@tibetan-calendar.local
+DTSTAMP:20260921T042059Z
+DTSTART;VALUE=DATE:20260103
+DTEND;VALUE=DATE:20260104
+SUMMARY:十五 法王涅槃日 🐟
+DESCRIPTION:公历：2026年1月3日 星期六\n藏历火马年：十一月
+ 十五\n藏历月名：庄严月\n农历丙午年：冬月十五\n事项
+ ：\n阿弥陀佛节日\n作何善恶成百万倍\n法王如意宝圆寂
+ 日\n十斋日\n理发吉日：福报增上\n来源：2026（农历）藏
+ 历火马年月历.pdf
+TRANSP:TRANSPARENT
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+UID:tibetan-fish-android-20260104@tibetan-calendar.local
+DTSTAMP:20260921T042059Z
+DTSTART;VALUE=DATE:20260104
+DTEND;VALUE=DATE:20260105
+SUMMARY:十六
+DESCRIPTION:公历：2026年1月4日 星期日\n藏历火马年：十一月
+ 十六\n藏历月名：庄严月\n农历丙午年：冬月十六\n事项
+ ：\n飞幡日\n来源：2026（农历）藏历火马年月历.pdf
+TRANSP:TRANSPARENT
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+UID:tibetan-fish-android-20260105@tibetan-calendar.local
+DTSTAMP:20260921T042059Z
+DTSTART;VALUE=DATE:20260105
+DTEND;VALUE=DATE:20260106
+SUMMARY:十七
+DESCRIPTION:公历：2026年1月5日 星期一\n藏历火马年：十一月
+ 十七\n藏历月名：庄严月\n农历丙午年：冬月十七\n事项
+ ：\n小寒\n来源：2026（农历）藏历火马年月历.pdf
+TRANSP:TRANSPARENT
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+UID:tibetan-fish-android-20260106@tibetan-calendar.local
+DTSTAMP:20260921T042059Z
+DTSTART;VALUE=DATE:20260106
+DTEND;VALUE=DATE:20260107
+SUMMARY:十八
+DESCRIPTION:公历：2026年1月6日 星期二\n藏历火马年：十一月
+ 十八\n藏历月名：庄严月\n农历丙午年：冬月十八\n事项
+ ：\n观音菩萨节日\n作何善恶成千万倍\n十斋日\n来源：202
+ 6（农历）藏历火马年月历.pdf
+TRANSP:TRANSPARENT
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+UID:tibetan-fish-android-20260107@tibetan-calendar.local
+DTSTAMP:20260921T042059Z
+DTSTART;VALUE=DATE:20260107
+DTEND;VALUE=DATE:20260108
+SUMMARY:十九
+DESCRIPTION:公历：2026年1月7日 星期三\n藏历火马年：十一月
+ 十九\n藏历月名：庄严月\n农历丙午年：冬月十九\n事项
+ ：\n理发吉日：增胜善法\n来源：2026（农历）藏历火马年
+ 月历.pdf
+TRANSP:TRANSPARENT
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+UID:tibetan-fish-android-20260108@tibetan-calendar.local
+DTSTAMP:20260921T042059Z
+DTSTART;VALUE=DATE:20260108
+DTEND;VALUE=DATE:20260109
+SUMMARY:二十
+DESCRIPTION:公历：2026年1月8日 星期四\n藏历火马年：十一月
+ 二十\n藏历月名：庄严月\n农历丙午年：冬月二十\n来源
+ ：2026（农历）藏历火马年月历.pdf
+TRANSP:TRANSPARENT
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+UID:tibetan-fish-android-20260109@tibetan-calendar.local
+DTSTAMP:20260921T042059Z
+DTSTART;VALUE=DATE:20260109
+DTEND;VALUE=DATE:20260110
+SUMMARY:廿一
+DESCRIPTION:公历：2026年1月9日 星期五\n藏历火马年：十一月
+ 廿一\n藏历月名：庄严月\n农历丙午年：冬月廿一\n事项
+ ：\n地藏王菩萨节日\n作何善恶成亿倍\n来源：2026（农历
+ ）藏历火马年月历.pdf
+TRANSP:TRANSPARENT
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+UID:tibetan-fish-android-20260110@tibetan-calendar.local
+DTSTAMP:20260921T042059Z
+DTSTART;VALUE=DATE:20260110
+DTEND;VALUE=DATE:20260111
+SUMMARY:廿二
+DESCRIPTION:公历：2026年1月10日 星期六\n藏历火马年：十一
+ 月廿二\n藏历月名：庄严月\n农历丙午年：冬月廿二\n来
+ 源：2026（农历）藏历火马年月历.pdf
+TRANSP:TRANSPARENT
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+UID:tibetan-fish-android-20260111@tibetan-calendar.local
+DTSTAMP:20260921T042059Z
+DTSTART;VALUE=DATE:20260111
+DTEND;VALUE=DATE:20260112
+SUMMARY:廿三
+DESCRIPTION:公历：2026年1月11日 星期日\n藏历火马年：十一
+ 月廿三\n藏历月名：庄严月\n农历丙午年：冬月廿三\n事
+ 项：\n理发吉日：增上财富\n来源：2026（农历）藏历火马
+ 年月历.pdf
+TRANSP:TRANSPARENT
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+UID:tibetan-fish-android-20260112@tibetan-calendar.local
+DTSTAMP:20260921T042059Z
+DTSTART;VALUE=DATE:20260112
+DTEND;VALUE=DATE:20260113
+SUMMARY:廿四
+DESCRIPTION:公历：2026年1月12日 星期一\n藏历火马年：十一
+ 月廿四\n藏历月名：庄严月\n农历丙午年：冬月廿四\n事
+ 项：\n十斋日\n来源：2026（农历）藏历火马年月历.pdf
+TRANSP:TRANSPARENT
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+UID:tibetan-fish-android-20260113@tibetan-calendar.local
+DTSTAMP:20260921T042059Z
+DTSTART;VALUE=DATE:20260113
+DTEND;VALUE=DATE:20260114
+SUMMARY:廿五 空行母荟供日
+DESCRIPTION:公历：2026年1月13日 星期二\n藏历火马年：十一
+ 月廿五\n藏历月名：庄严月\n农历丙午年：冬月廿五\n事
+ 项：\n空行母荟供日\n来源：2026（农历）藏历火马年月历
+ .pdf
+TRANSP:TRANSPARENT
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+UID:tibetan-fish-android-20260114@tibetan-calendar.local
+DTSTAMP:20260921T042059Z
+DTSTART;VALUE=DATE:20260114
+DTEND;VALUE=DATE:20260115
+SUMMARY:廿六
+DESCRIPTION:公历：2026年1月14日 星期三\n藏历火马年：十一
+ 月廿六\n藏历月名：庄严月\n农历丙午年：冬月廿六\n事
+ 项：\n理发吉日：增上安乐\n来源：2026（农历）藏历火马
+ 年月历.pdf
+TRANSP:TRANSPARENT
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+UID:tibetan-fish-android-20260115@tibetan-calendar.local
+DTSTAMP:20260921T042059Z
+DTSTART;VALUE=DATE:20260115
+DTEND;VALUE=DATE:20260116
+SUMMARY:廿七
+DESCRIPTION:公历：2026年1月15日 星期四\n藏历火马年：十一
+ 月廿七\n藏历月名：庄严月\n农历丙午年：冬月廿七\n事
+ 项：\n理发吉日：诸事吉祥\n十斋日\n来源：2026（农历）
+ 藏历火马年月历.pdf
+TRANSP:TRANSPARENT
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+UID:tibetan-fish-android-20260116@tibetan-calendar.local
+DTSTAMP:20260921T042059Z
+DTSTART;VALUE=DATE:20260116
+DTEND;VALUE=DATE:20260117
+SUMMARY:廿八
+DESCRIPTION:公历：2026年1月16日 星期五\n藏历火马年：十一
+ 月廿八\n藏历月名：庄严月\n农历丙午年：冬月廿八\n事
+ 项：\n十斋日\n来源：2026（农历）藏历火马年月历.pdf
+TRANSP:TRANSPARENT
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+UID:tibetan-fish-android-20260117@tibetan-calendar.local
+DTSTAMP:20260921T042059Z
+DTSTART;VALUE=DATE:20260117
+DTEND;VALUE=DATE:20260118
+SUMMARY:廿九
+DESCRIPTION:公历：2026年1月17日 星期六\n藏历火马年：十一
+ 月廿九\n藏历月名：庄严月\n农历丙午年：冬月廿九\n事
+ 项：\n十斋日\n来源：2026（农历）藏历火马年月历.pdf
+TRANSP:TRANSPARENT
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+UID:tibetan-fish-android-20260118@tibetan-calendar.local
+DTSTAMP:20260921T042059Z
+DTSTART;VALUE=DATE:20260118
+DTEND;VALUE=DATE:20260119
+SUMMARY:三十 🐟
+DESCRIPTION:公历：2026年1月18日 星期日\n藏历火马年：十一
+ 月三十\n藏历月名：庄严月\n农历丙午年：冬月三十\n事
+ 项：\n释迦牟尼佛节日\n十斋日\n作何善恶成九亿倍\n来源
+ ：2026（农历）藏历火马年月历.pdf
+TRANSP:TRANSPARENT
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+UID:tibetan-fish-android-20260119@tibetan-calendar.local
+DTSTAMP:20260921T042059Z
+DTSTART;VALUE=DATE:20260119
+DTEND;VALUE=DATE:20260120
+SUMMARY:初一
+DESCRIPTION:公历：2026年1月19日 星期一\n藏历火马年：十二
+ 月初一\n藏历月名：满意月\n农历丙午年：腊月初一\n事
+ 项：\n禅定胜王佛节日\n作何善恶成百倍\n飞幡日\n十斋日
+ \n来源：2026（农历）藏历火马年月历.pdf
+TRANSP:TRANSPARENT
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+UID:tibetan-fish-android-20260120@tibetan-calendar.local
+DTSTAMP:20260921T042059Z
+DTSTART;VALUE=DATE:20260120
+DTEND;VALUE=DATE:20260121
+SUMMARY:初二
+DESCRIPTION:公历：2026年1月20日 星期二\n藏历火马年：十二
+ 月初二\n藏历月名：满意月\n农历丙午年：腊月初二\n事
+ 项：\n大寒\n来源：2026（农历）藏历火马年月历.pdf
+TRANSP:TRANSPARENT
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+UID:tibetan-fish-android-20260121@tibetan-calendar.local
+DTSTAMP:20260921T042059Z
+DTSTART;VALUE=DATE:20260121
+DTEND;VALUE=DATE:20260122
+SUMMARY:初三
+DESCRIPTION:公历：2026年1月21日 星期三\n藏历火马年：十二
+ 月初三\n藏历月名：满意月\n农历丙午年：腊月初三\n事
+ 项：\n理发吉日：家族增长财富\n来源：2026（农历）藏历
+ 火马年月历.pdf
+TRANSP:TRANSPARENT
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+UID:tibetan-fish-android-20260122@tibetan-calendar.local
+DTSTAMP:20260921T042059Z
+DTSTART;VALUE=DATE:20260122
+DTEND;VALUE=DATE:20260123
+SUMMARY:初四
+DESCRIPTION:公历：2026年1月22日 星期四\n藏历火马年：十二
+ 月初四\n藏历月名：满意月\n农历丙午年：腊月初四\n事
+ 项：\n理发吉日：怀业增上，容光焕发\n来源：2026（农历
+ ）藏历火马年月历.pdf
+TRANSP:TRANSPARENT
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+UID:tibetan-fish-android-20260123@tibetan-calendar.local
+DTSTAMP:20260921T042059Z
+DTSTART;VALUE=DATE:20260123
+DTEND;VALUE=DATE:20260124
+SUMMARY:初五
+DESCRIPTION:公历：2026年1月23日 星期五\n藏历火马年：十二
+ 月初五\n藏历月名：满意月\n农历丙午年：腊月初五\n事
+ 项：\n理发吉日：聚集广大财富\n来源：2026（农历）藏历
+ 火马年月历.pdf
+TRANSP:TRANSPARENT
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+UID:tibetan-fish-android-20260124@tibetan-calendar.local
+DTSTAMP:20260921T042059Z
+DTSTART;VALUE=DATE:20260124
+DTEND;VALUE=DATE:20260125
+SUMMARY:初六
+DESCRIPTION:公历：2026年1月24日 星期六\n藏历火马年：十二
+ 月初六\n藏历月名：满意月\n农历丙午年：腊月初六\n来
+ 源：2026（农历）藏历火马年月历.pdf
+TRANSP:TRANSPARENT
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+UID:tibetan-fish-android-20260125@tibetan-calendar.local
+DTSTAMP:20260921T042059Z
+DTSTART;VALUE=DATE:20260125
+DTEND;VALUE=DATE:20260126
+SUMMARY:初七
+DESCRIPTION:公历：2026年1月25日 星期日\n藏历火马年：十二
+ 月初七\n藏历月名：满意月\n农历丙午年：腊月初七\n来
+ 源：2026（农历）藏历火马年月历.pdf
+TRANSP:TRANSPARENT
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+UID:tibetan-fish-android-20260126@tibetan-calendar.local
+DTSTAMP:20260921T042059Z
+DTSTART;VALUE=DATE:20260126
+DTEND;VALUE=DATE:20260127
+SUMMARY:初八 🐟
+DESCRIPTION:公历：2026年1月26日 星期一\n藏历火马年：十二
+ 月初八\n藏历月名：满意月\n农历丙午年：腊月初八\n事
+ 项：\n药师佛节日\n作何善恶成千倍\n十斋日\n理发吉日：
+ 长寿\n腊八节\n来源：2026（农历）藏历火马年月历.pdf
+TRANSP:TRANSPARENT
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+UID:tibetan-fish-android-20260127@tibetan-calendar.local
+DTSTAMP:20260921T042059Z
+DTSTART;VALUE=DATE:20260127
+DTEND;VALUE=DATE:20260128
+SUMMARY:初九
+DESCRIPTION:公历：2026年1月27日 星期二\n藏历火马年：十二
+ 月初九\n藏历月名：满意月\n农历丙午年：腊月初九\n事
+ 项：\n理发吉日：易遇佳人\n来源：2026（农历）藏历火马
+ 年月历.pdf
+TRANSP:TRANSPARENT
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+UID:tibetan-fish-android-20260128@tibetan-calendar.local
+DTSTAMP:20260921T042059Z
+DTSTART;VALUE=DATE:20260128
+DTEND;VALUE=DATE:20260129
+SUMMARY:初十 莲师荟供日
+DESCRIPTION:公历：2026年1月28日 星期三\n藏历火马年：十二
+ 月初十\n藏历月名：满意月\n农历丙午年：腊月初十\n事
+ 项：\n莲师荟供日\n作何善恶成十万倍\n理发吉日：增上
+ 欢喜\n来源：2026（农历）藏历火马年月历.pdf
+TRANSP:TRANSPARENT
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+UID:tibetan-fish-android-20260129@tibetan-calendar.local
+DTSTAMP:20260921T042059Z
+DTSTART;VALUE=DATE:20260129
+DTEND;VALUE=DATE:20260130
+SUMMARY:十一
+DESCRIPTION:公历：2026年1月29日 星期四\n藏历火马年：十二
+ 月十一\n藏历月名：满意月\n农历丙午年：腊月十一\n事
+ 项：\n理发吉日：增上智慧和世聪\n来源：2026（农历）藏
+ 历火马年月历.pdf
+TRANSP:TRANSPARENT
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+UID:tibetan-fish-android-20260130@tibetan-calendar.local
+DTSTAMP:20260921T042059Z
+DTSTART;VALUE=DATE:20260130
+DTEND;VALUE=DATE:20260131
+SUMMARY:十二
+DESCRIPTION:公历：2026年1月30日 星期五\n藏历火马年：十二
+ 月十二\n藏历月名：满意月\n农历丙午年：腊月十二\n来
+ 源：2026（农历）藏历火马年月历.pdf
+TRANSP:TRANSPARENT
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+UID:tibetan-fish-android-20260131@tibetan-calendar.local
+DTSTAMP:20260921T042059Z
+DTSTART;VALUE=DATE:20260131
+DTEND;VALUE=DATE:20260201
+SUMMARY:十四
+DESCRIPTION:公历：2026年1月31日 星期六\n藏历火马年：十二
+ 月十四\n藏历月名：满意月\n农历丙午年：腊月十三\n藏
+ 历备注：前一日为缺日\n事项：\n理发吉日：财物增多\n
+ 来源：2026（农历）藏历火马年月历.pdf
+TRANSP:TRANSPARENT
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+UID:tibetan-fish-android-20260201@tibetan-calendar.local
+DTSTAMP:20260921T042059Z
+DTSTART;VALUE=DATE:20260201
+DTEND;VALUE=DATE:20260202
+SUMMARY:十五 🐟
+DESCRIPTION:公历：2026年2月1日 星期日\n藏历火马年：十二月
+ 十五\n藏历月名：满意月\n农历丙午年：腊月十四\n事项
+ ：\n阿弥陀佛节日\n作何善恶成百万倍\n十斋日\n格萨尔诞
+ 辰日\n来源：2026（农历）藏历火马年月历.pdf
+TRANSP:TRANSPARENT
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+UID:tibetan-fish-android-20260202@tibetan-calendar.local
+DTSTAMP:20260921T042059Z
+DTSTART;VALUE=DATE:20260202
+DTEND;VALUE=DATE:20260203
+SUMMARY:十六
+DESCRIPTION:公历：2026年2月2日 星期一\n藏历火马年：十二月
+ 十六\n藏历月名：满意月\n农历丙午年：腊月十五\n事项
+ ：\n十斋日\n来源：2026（农历）藏历火马年月历.pdf
+TRANSP:TRANSPARENT
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+UID:tibetan-fish-android-20260203@tibetan-calendar.local
+DTSTAMP:20260921T042059Z
+DTSTART;VALUE=DATE:20260203
+DTEND;VALUE=DATE:20260204
+SUMMARY:十七
+DESCRIPTION:公历：2026年2月3日 星期二\n藏历火马年：十二月
+ 十七\n藏历月名：满意月\n农历丙午年：腊月十六\n来源
+ ：2026（农历）藏历火马年月历.pdf
+TRANSP:TRANSPARENT
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+UID:tibetan-fish-android-20260204@tibetan-calendar.local
+DTSTAMP:20260921T042059Z
+DTSTART;VALUE=DATE:20260204
+DTEND;VALUE=DATE:20260205
+SUMMARY:十八
+DESCRIPTION:公历：2026年2月4日 星期三\n藏历火马年：十二月
+ 十八\n藏历月名：满意月\n农历丙午年：腊月十七\n事项
+ ：\n观音菩萨节日\n作何善恶成千万倍\n立春\n龙钦巴尊者
+ 圆寂日\n来源：2026（农历）藏历火马年月历.pdf
+TRANSP:TRANSPARENT
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+UID:tibetan-fish-android-20260205@tibetan-calendar.local
+DTSTAMP:20260921T042059Z
+DTSTART;VALUE=DATE:20260205
+DTEND;VALUE=DATE:20260206
+SUMMARY:十九
+DESCRIPTION:公历：2026年2月5日 星期四\n藏历火马年：十二月
+ 十九\n藏历月名：满意月\n农历丙午年：腊月十八\n事项
+ ：\n理发吉日：增胜善法\n十斋日\n来源：2026（农历）藏
+ 历火马年月历.pdf
+TRANSP:TRANSPARENT
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+UID:tibetan-fish-android-20260206@tibetan-calendar.local
+DTSTAMP:20260921T042059Z
+DTSTART;VALUE=DATE:20260206
+DTEND;VALUE=DATE:20260207
+SUMMARY:二十
+DESCRIPTION:公历：2026年2月6日 星期五\n藏历火马年：十二月
+ 二十\n藏历月名：满意月\n农历丙午年：腊月十九\n来源
+ ：2026（农历）藏历火马年月历.pdf
+TRANSP:TRANSPARENT
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+UID:tibetan-fish-android-20260207@tibetan-calendar.local
+DTSTAMP:20260921T042059Z
+DTSTART;VALUE=DATE:20260207
+DTEND;VALUE=DATE:20260208
+SUMMARY:廿一
+DESCRIPTION:公历：2026年2月7日 星期六\n藏历火马年：十二月
+ 廿一\n藏历月名：满意月\n农历丙午年：腊月二十\n事项
+ ：\n地藏王菩萨节日\n作何善恶成亿倍\n来源：2026（农历
+ ）藏历火马年月历.pdf
+TRANSP:TRANSPARENT
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+UID:tibetan-fish-android-20260208@tibetan-calendar.local
+DTSTAMP:20260921T042059Z
+DTSTART;VALUE=DATE:20260208
+DTEND;VALUE=DATE:20260209
+SUMMARY:廿二
+DESCRIPTION:公历：2026年2月8日 星期日\n藏历火马年：十二月
+ 廿二\n藏历月名：满意月\n农历丙午年：腊月廿一\n来源
+ ：2026（农历）藏历火马年月历.pdf
+TRANSP:TRANSPARENT
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+UID:tibetan-fish-android-20260209@tibetan-calendar.local
+DTSTAMP:20260921T042059Z
+DTSTART;VALUE=DATE:20260209
+DTEND;VALUE=DATE:20260210
+SUMMARY:廿三
+DESCRIPTION:公历：2026年2月9日 星期一\n藏历火马年：十二月
+ 廿三\n藏历月名：满意月\n农历丙午年：腊月廿二\n事项
+ ：\n理发吉日：增上财富\n十斋日\n来源：2026（农历）藏
+ 历火马年月历.pdf
+TRANSP:TRANSPARENT
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+UID:tibetan-fish-android-20260210@tibetan-calendar.local
+DTSTAMP:20260921T042059Z
+DTSTART;VALUE=DATE:20260210
+DTEND;VALUE=DATE:20260211
+SUMMARY:廿四
+DESCRIPTION:公历：2026年2月10日 星期二\n藏历火马年：十二
+ 月廿四\n藏历月名：满意月\n农历丙午年：腊月廿三\n事
+ 项：\n十斋日\n北方小年\n来源：2026（农历）藏历火马年
+ 月历.pdf
+TRANSP:TRANSPARENT
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+UID:tibetan-fish-android-20260211@tibetan-calendar.local
+DTSTAMP:20260921T042059Z
+DTSTART;VALUE=DATE:20260211
+DTEND;VALUE=DATE:20260212
+SUMMARY:廿五 空行母荟供日
+DESCRIPTION:公历：2026年2月11日 星期三\n藏历火马年：十二
+ 月廿五\n藏历月名：满意月\n农历丙午年：腊月廿四\n事
+ 项：\n空行母荟供日\n十斋日\n南方小年\n来源：2026（农
+ 历）藏历火马年月历.pdf
+TRANSP:TRANSPARENT
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+UID:tibetan-fish-android-20260212@tibetan-calendar.local
+DTSTAMP:20260921T042059Z
+DTSTART;VALUE=DATE:20260212
+DTEND;VALUE=DATE:20260213
+SUMMARY:闰廿五
+DESCRIPTION:公历：2026年2月12日 星期四\n藏历火马年：十二
+ 月闰廿五\n藏历月名：满意月\n农历丙午年：腊月廿五\n
+ 来源：2026（农历）藏历火马年月历.pdf
+TRANSP:TRANSPARENT
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+UID:tibetan-fish-android-20260213@tibetan-calendar.local
+DTSTAMP:20260921T042059Z
+DTSTART;VALUE=DATE:20260213
+DTEND;VALUE=DATE:20260214
+SUMMARY:廿六
+DESCRIPTION:公历：2026年2月13日 星期五\n藏历火马年：十二
+ 月廿六\n藏历月名：满意月\n农历丙午年：腊月廿六\n事
+ 项：\n理发吉日：增上安乐\n来源：2026（农历）藏历火马
+ 年月历.pdf
+TRANSP:TRANSPARENT
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+UID:tibetan-fish-android-20260214@tibetan-calendar.local
+DTSTAMP:20260921T042059Z
+DTSTART;VALUE=DATE:20260214
+DTEND;VALUE=DATE:20260215
+SUMMARY:廿七
+DESCRIPTION:公历：2026年2月14日 星期六\n藏历火马年：十二
+ 月廿七\n藏历月名：满意月\n农历丙午年：腊月廿七\n事
+ 项：\n理发吉日：诸事吉祥\n十斋日\n来源：2026（农历）
+ 藏历火马年月历.pdf
+TRANSP:TRANSPARENT
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+UID:tibetan-fish-android-20260215@tibetan-calendar.local
+DTSTAMP:20260921T042059Z
+DTSTART;VALUE=DATE:20260215
+DTEND;VALUE=DATE:20260216
+SUMMARY:廿八
+DESCRIPTION:公历：2026年2月15日 星期日\n藏历火马年：十二
+ 月廿八\n藏历月名：满意月\n农历丙午年：腊月廿八\n事
+ 项：\n十斋日\n来源：2026（农历）藏历火马年月历.pdf
+TRANSP:TRANSPARENT
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+UID:tibetan-fish-android-20260216@tibetan-calendar.local
+DTSTAMP:20260921T042059Z
+DTSTART;VALUE=DATE:20260216
+DTEND;VALUE=DATE:20260217
+SUMMARY:廿九
+DESCRIPTION:公历：2026年2月16日 星期一\n藏历火马年：十二
+ 月廿九\n藏历月名：满意月\n农历丙午年：腊月廿九\n事
+ 项：\n十斋日\n除夕夜\n来源：2026（农历）藏历火马年月
+ 历.pdf
+TRANSP:TRANSPARENT
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+UID:tibetan-fish-android-20260217@tibetan-calendar.local
+DTSTAMP:20260921T042059Z
+DTSTART;VALUE=DATE:20260217
+DTEND;VALUE=DATE:20260218
+SUMMARY:三十 🐟
+DESCRIPTION:公历：2026年2月17日 星期二\n藏历火马年：十二
+ 月三十\n藏历月名：满意月\n农历丙午年：正月初一\n事
+ 项：\n释迦牟尼佛节日\n作何善恶成九亿倍\n十斋日\n春节
+ \n来源：2026（农历）藏历火马年月历.pdf
+TRANSP:TRANSPARENT
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+UID:tibetan-fish-android-20260218@tibetan-calendar.local
+DTSTAMP:20260921T042059Z
+DTSTART;VALUE=DATE:20260218
+DTEND;VALUE=DATE:20260219
+SUMMARY:初一
+DESCRIPTION:公历：2026年2月18日 星期三\n藏历火马年：一月
+ 初一\n藏历月名：神变月\n农历丙午年：正月初二\n事项
+ ：\n藏历新年\n雨水\n来源：2026（农历）藏历火马年月历.
+ pdf
+TRANSP:TRANSPARENT
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+UID:tibetan-fish-android-20260219@tibetan-calendar.local
+DTSTAMP:20260921T042059Z
+DTSTART;VALUE=DATE:20260219
+DTEND;VALUE=DATE:20260220
+SUMMARY:初二
+DESCRIPTION:公历：2026年2月19日 星期四\n藏历火马年：一月
+ 初二\n藏历月名：神变月\n农历丙午年：正月初三\n来源
+ ：2026（农历）藏历火马年月历.pdf
+TRANSP:TRANSPARENT
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+UID:tibetan-fish-android-20260220@tibetan-calendar.local
+DTSTAMP:20260921T042059Z
+DTSTART;VALUE=DATE:20260220
+DTEND;VALUE=DATE:20260221
+SUMMARY:初三
+DESCRIPTION:公历：2026年2月20日 星期五\n藏历火马年：一月
+ 初三\n藏历月名：神变月\n农历丙午年：正月初四\n事项
+ ：\n法王如意宝诞辰纪念日\n理发吉日：家族增长财富\n
+ 来源：2026（农历）藏历火马年月历.pdf
+TRANSP:TRANSPARENT
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+UID:tibetan-fish-android-20260221@tibetan-calendar.local
+DTSTAMP:20260921T042059Z
+DTSTART;VALUE=DATE:20260221
+DTEND;VALUE=DATE:20260222
+SUMMARY:初四
+DESCRIPTION:公历：2026年2月21日 星期六\n藏历火马年：一月
+ 初四\n藏历月名：神变月\n农历丙午年：正月初五\n事项
+ ：\n理发吉日：怀业增上，容光焕发\n来源：2026（农历）
+ 藏历火马年月历.pdf
+TRANSP:TRANSPARENT
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+UID:tibetan-fish-android-20260222@tibetan-calendar.local
+DTSTAMP:20260921T042059Z
+DTSTART;VALUE=DATE:20260222
+DTEND;VALUE=DATE:20260223
+SUMMARY:初五
+DESCRIPTION:公历：2026年2月22日 星期日\n藏历火马年：一月
+ 初五\n藏历月名：神变月\n农历丙午年：正月初六\n事项
+ ：\n理发吉日：聚集广大财富\n来源：2026（农历）藏历火
+ 马年月历.pdf
+TRANSP:TRANSPARENT
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+UID:tibetan-fish-android-20260223@tibetan-calendar.local
+DTSTAMP:20260921T042059Z
+DTSTART;VALUE=DATE:20260223
+DTEND;VALUE=DATE:20260224
+SUMMARY:初六
+DESCRIPTION:公历：2026年2月23日 星期一\n藏历火马年：一月
+ 初六\n藏历月名：神变月\n农历丙午年：正月初七\n来源
+ ：2026（农历）藏历火马年月历.pdf
+TRANSP:TRANSPARENT
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+UID:tibetan-fish-android-20260224@tibetan-calendar.local
+DTSTAMP:20260921T042059Z
+DTSTART;VALUE=DATE:20260224
+DTEND;VALUE=DATE:20260225
+SUMMARY:初八 🐟
+DESCRIPTION:公历：2026年2月24日 星期二\n藏历火马年：一月
+ 初八\n藏历月名：神变月\n农历丙午年：正月初八\n藏历
+ 备注：前一日为缺日\n事项：\n药师佛节日\n十斋日\n作何
+ 善恶成千倍\n理发吉日：长寿\n来源：2026（农历）藏历火
+ 马年月历.pdf
+TRANSP:TRANSPARENT
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+UID:tibetan-fish-android-20260225@tibetan-calendar.local
+DTSTAMP:20260921T042059Z
+DTSTART;VALUE=DATE:20260225
+DTEND;VALUE=DATE:20260226
+SUMMARY:初九
+DESCRIPTION:公历：2026年2月25日 星期三\n藏历火马年：一月
+ 初九\n藏历月名：神变月\n农历丙午年：正月初九\n事项
+ ：\n理发吉日：易遇佳人\n来源：2026（农历）藏历火马年
+ 月历.pdf
+TRANSP:TRANSPARENT
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+UID:tibetan-fish-android-20260226@tibetan-calendar.local
+DTSTAMP:20260921T042059Z
+DTSTART;VALUE=DATE:20260226
+DTEND;VALUE=DATE:20260227
+SUMMARY:初十 莲师荟供日
+DESCRIPTION:公历：2026年2月26日 星期四\n藏历火马年：一月
+ 初十\n藏历月名：神变月\n农历丙午年：正月初十\n事项
+ ：\n莲师荟供日\n飞幡日\n作何善恶成十万倍\n理发吉日：
+ 增上欢喜\n来源：2026（农历）藏历火马年月历.pdf
+TRANSP:TRANSPARENT
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+UID:tibetan-fish-android-20260227@tibetan-calendar.local
+DTSTAMP:20260921T042059Z
+DTSTART;VALUE=DATE:20260227
+DTEND;VALUE=DATE:20260228
+SUMMARY:十一
+DESCRIPTION:公历：2026年2月27日 星期五\n藏历火马年：一月
+ 十一\n藏历月名：神变月\n农历丙午年：正月十一\n事项
+ ：\n理发吉日：增上智慧和世聪\n来源：2026（农历）藏历
+ 火马年月历.pdf
+TRANSP:TRANSPARENT
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+UID:tibetan-fish-android-20260228@tibetan-calendar.local
+DTSTAMP:20260921T042059Z
+DTSTART;VALUE=DATE:20260228
+DTEND;VALUE=DATE:20260301
+SUMMARY:十二
+DESCRIPTION:公历：2026年2月28日 星期六\n藏历火马年：一月
+ 十二\n藏历月名：神变月\n农历丙午年：正月十二\n来源
+ ：2026（农历）藏历火马年月历.pdf
+TRANSP:TRANSPARENT
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+UID:tibetan-fish-android-20260301@tibetan-calendar.local
+DTSTAMP:20260921T042059Z
+DTSTART;VALUE=DATE:20260301
+DTEND;VALUE=DATE:20260302
+SUMMARY:十三
+DESCRIPTION:公历：2026年3月1日 星期日\n藏历火马年：一月十
+ 三\n藏历月名：神变月\n农历丙午年：正月十三\n事项：\n
+ 理发吉日：精进于佛法修持，最上\n来源：2026（农历）
+ 藏历火马年月历.pdf
+TRANSP:TRANSPARENT
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+UID:tibetan-fish-android-20260302@tibetan-calendar.local
+DTSTAMP:20260921T042059Z
+DTSTART;VALUE=DATE:20260302
+DTEND;VALUE=DATE:20260303
+SUMMARY:十四
+DESCRIPTION:公历：2026年3月2日 星期一\n藏历火马年：一月十
+ 四\n藏历月名：神变月\n农历丙午年：正月十四\n事项：\n
+ 米拉日巴尊者圆寂纪念日\n理发吉日：财物增多\n十斋日\
+ n来源：2026（农历）藏历火马年月历.pdf
+TRANSP:TRANSPARENT
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+UID:tibetan-fish-android-20260303@tibetan-calendar.local
+DTSTAMP:20260921T042059Z
+DTSTART;VALUE=DATE:20260303
+DTEND;VALUE=DATE:20260304
+SUMMARY:十五 🐟
+DESCRIPTION:公历：2026年3月3日 星期二\n藏历火马年：一月十
+ 五\n藏历月名：神变月\n农历丙午年：正月十五\n事项：\n
+ 阿弥陀佛节日\n十斋日\n作何善恶成百万倍\n理发吉日：
+ 福报增上\n元宵节\n来源：2026（农历）藏历火马年月历.pd
+ f
+TRANSP:TRANSPARENT
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+UID:tibetan-fish-android-20260304@tibetan-calendar.local
+DTSTAMP:20260921T042059Z
+DTSTART;VALUE=DATE:20260304
+DTEND;VALUE=DATE:20260305
+SUMMARY:十六
+DESCRIPTION:公历：2026年3月4日 星期三\n藏历火马年：一月十
+ 六\n藏历月名：神变月\n农历丙午年：正月十六\n来源：20
+ 26（农历）藏历火马年月历.pdf
+TRANSP:TRANSPARENT
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+UID:tibetan-fish-android-20260305@tibetan-calendar.local
+DTSTAMP:20260921T042059Z
+DTSTART;VALUE=DATE:20260305
+DTEND;VALUE=DATE:20260306
+SUMMARY:十七
+DESCRIPTION:公历：2026年3月5日 星期四\n藏历火马年：一月十
+ 七\n藏历月名：神变月\n农历丙午年：正月十七\n事项：\n
+ 惊蛰\n来源：2026（农历）藏历火马年月历.pdf
+TRANSP:TRANSPARENT
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+UID:tibetan-fish-android-20260306@tibetan-calendar.local
+DTSTAMP:20260921T042059Z
+DTSTART;VALUE=DATE:20260306
+DTEND;VALUE=DATE:20260307
+SUMMARY:十八
+DESCRIPTION:公历：2026年3月6日 星期五\n藏历火马年：一月十
+ 八\n藏历月名：神变月\n农历丙午年：正月十八\n事项：\n
+ 观音菩萨节日\n十斋日\n作何善恶成千万倍\n来源：2026（
+ 农历）藏历火马年月历.pdf
+TRANSP:TRANSPARENT
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+UID:tibetan-fish-android-20260307@tibetan-calendar.local
+DTSTAMP:20260921T042059Z
+DTSTART;VALUE=DATE:20260307
+DTEND;VALUE=DATE:20260308
+SUMMARY:十九
+DESCRIPTION:公历：2026年3月7日 星期六\n藏历火马年：一月十
+ 九\n藏历月名：神变月\n农历丙午年：正月十九\n事项：\n
+ 理发吉日：增胜善法\n来源：2026（农历）藏历火马年月
+ 历.pdf
+TRANSP:TRANSPARENT
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+UID:tibetan-fish-android-20260308@tibetan-calendar.local
+DTSTAMP:20260921T042059Z
+DTSTART;VALUE=DATE:20260308
+DTEND;VALUE=DATE:20260309
+SUMMARY:二十
+DESCRIPTION:公历：2026年3月8日 星期日\n藏历火马年：一月二
+ 十\n藏历月名：神变月\n农历丙午年：正月二十\n事项：\n
+ 妇女节\n来源：2026（农历）藏历火马年月历.pdf
+TRANSP:TRANSPARENT
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+UID:tibetan-fish-android-20260309@tibetan-calendar.local
+DTSTAMP:20260921T042059Z
+DTSTART;VALUE=DATE:20260309
+DTEND;VALUE=DATE:20260310
+SUMMARY:廿一
+DESCRIPTION:公历：2026年3月9日 星期一\n藏历火马年：一月廿
+ 一\n藏历月名：神变月\n农历丙午年：正月廿一\n事项：\n
+ 地藏王菩萨节日\n作何善恶成亿倍\n来源：2026（农历）藏
+ 历火马年月历.pdf
+TRANSP:TRANSPARENT
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+UID:tibetan-fish-android-20260310@tibetan-calendar.local
+DTSTAMP:20260921T042059Z
+DTSTART;VALUE=DATE:20260310
+DTEND;VALUE=DATE:20260311
+SUMMARY:廿二
+DESCRIPTION:公历：2026年3月10日 星期二\n藏历火马年：一月
+ 廿二\n藏历月名：神变月\n农历丙午年：正月廿二\n事项
+ ：\n飞幡日\n来源：2026（农历）藏历火马年月历.pdf
+TRANSP:TRANSPARENT
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+UID:tibetan-fish-android-20260311@tibetan-calendar.local
+DTSTAMP:20260921T042059Z
+DTSTART;VALUE=DATE:20260311
+DTEND;VALUE=DATE:20260312
+SUMMARY:廿三
+DESCRIPTION:公历：2026年3月11日 星期三\n藏历火马年：一月
+ 廿三\n藏历月名：神变月\n农历丙午年：正月廿三\n事项
+ ：\n理发吉日：增上财富\n十斋日\n来源：2026（农历）藏
+ 历火马年月历.pdf
+TRANSP:TRANSPARENT
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+UID:tibetan-fish-android-20260312@tibetan-calendar.local
+DTSTAMP:20260921T042059Z
+DTSTART;VALUE=DATE:20260312
+DTEND;VALUE=DATE:20260313
+SUMMARY:廿四
+DESCRIPTION:公历：2026年3月12日 星期四\n藏历火马年：一月
+ 廿四\n藏历月名：神变月\n农历丙午年：正月廿四\n事项
+ ：\n十斋日\n植树节\n来源：2026（农历）藏历火马年月历.
+ pdf
+TRANSP:TRANSPARENT
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+UID:tibetan-fish-android-20260313@tibetan-calendar.local
+DTSTAMP:20260921T042059Z
+DTSTART;VALUE=DATE:20260313
+DTEND;VALUE=DATE:20260314
+SUMMARY:廿五 空行母荟供日
+DESCRIPTION:公历：2026年3月13日 星期五\n藏历火马年：一月
+ 廿五\n藏历月名：神变月\n农历丙午年：正月廿五\n事项
+ ：\n空行母荟供日\n来源：2026（农历）藏历火马年月历.pd
+ f
+TRANSP:TRANSPARENT
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+UID:tibetan-fish-android-20260314@tibetan-calendar.local
+DTSTAMP:20260921T042059Z
+DTSTART;VALUE=DATE:20260314
+DTEND;VALUE=DATE:20260315
+SUMMARY:廿六
+DESCRIPTION:公历：2026年3月14日 星期六\n藏历火马年：一月
+ 廿六\n藏历月名：神变月\n农历丙午年：正月廿六\n事项
+ ：\n理发吉日：增上安乐\n来源：2026（农历）藏历火马年
+ 月历.pdf
+TRANSP:TRANSPARENT
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+UID:tibetan-fish-android-20260315@tibetan-calendar.local
+DTSTAMP:20260921T042059Z
+DTSTART;VALUE=DATE:20260315
+DTEND;VALUE=DATE:20260316
+SUMMARY:廿七
+DESCRIPTION:公历：2026年3月15日 星期日\n藏历火马年：一月
+ 廿七\n藏历月名：神变月\n农历丙午年：正月廿七\n事项
+ ：\n理发吉日：诸事吉祥\n十斋日\n来源：2026（农历）藏
+ 历火马年月历.pdf
+TRANSP:TRANSPARENT
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+UID:tibetan-fish-android-20260316@tibetan-calendar.local
+DTSTAMP:20260921T042059Z
+DTSTART;VALUE=DATE:20260316
+DTEND;VALUE=DATE:20260317
+SUMMARY:廿八
+DESCRIPTION:公历：2026年3月16日 星期一\n藏历火马年：一月
+ 廿八\n藏历月名：神变月\n农历丙午年：正月廿八\n事项
+ ：\n十斋日\n来源：2026（农历）藏历火马年月历.pdf
+TRANSP:TRANSPARENT
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+UID:tibetan-fish-android-20260317@tibetan-calendar.local
+DTSTAMP:20260921T042059Z
+DTSTART;VALUE=DATE:20260317
+DTEND;VALUE=DATE:20260318
+SUMMARY:廿九
+DESCRIPTION:公历：2026年3月17日 星期二\n藏历火马年：一月
+ 廿九\n藏历月名：神变月\n农历丙午年：正月廿九\n事项
+ ：\n十斋日\n来源：2026（农历）藏历火马年月历.pdf
+TRANSP:TRANSPARENT
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+UID:tibetan-fish-android-20260318@tibetan-calendar.local
+DTSTAMP:20260921T042059Z
+DTSTART;VALUE=DATE:20260318
+DTEND;VALUE=DATE:20260319
+SUMMARY:三十 🐟
+DESCRIPTION:公历：2026年3月18日 星期三\n藏历火马年：一月
+ 三十\n藏历月名：神变月\n农历丙午年：正月三十\n事项
+ ：\n释迦牟尼佛节日\n作何善恶成九亿倍\n十斋日\n来源：
+ 2026（农历）藏历火马年月历.pdf
+TRANSP:TRANSPARENT
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+UID:tibetan-fish-android-20260319@tibetan-calendar.local
+DTSTAMP:20260921T042059Z
+DTSTART;VALUE=DATE:20260319
+DTEND;VALUE=DATE:20260320
+SUMMARY:初一
+DESCRIPTION:公历：2026年3月19日 星期四\n藏历火马年：二月
+ 初一\n藏历月名：苦行月\n农历丙午年：二月初一\n事项
+ ：\n禅定胜王佛节日\n作何善恶成百倍\n十斋日\n来源：202
+ 6（农历）藏历火马年月历.pdf
+TRANSP:TRANSPARENT
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+UID:tibetan-fish-android-20260320@tibetan-calendar.local
+DTSTAMP:20260921T042059Z
+DTSTART;VALUE=DATE:20260320
+DTEND;VALUE=DATE:20260321
+SUMMARY:初二
+DESCRIPTION:公历：2026年3月20日 星期五\n藏历火马年：二月
+ 初二\n藏历月名：苦行月\n农历丙午年：二月初二\n事项
+ ：\n春分\n龙抬头\n来源：2026（农历）藏历火马年月历.pdf
+TRANSP:TRANSPARENT
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+UID:tibetan-fish-android-20260321@tibetan-calendar.local
+DTSTAMP:20260921T042059Z
+DTSTART;VALUE=DATE:20260321
+DTEND;VALUE=DATE:20260322
+SUMMARY:初三
+DESCRIPTION:公历：2026年3月21日 星期六\n藏历火马年：二月
+ 初三\n藏历月名：苦行月\n农历丙午年：二月初三\n事项
+ ：\n理发吉日：家族增长财富\n来源：2026（农历）藏历火
+ 马年月历.pdf
+TRANSP:TRANSPARENT
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+UID:tibetan-fish-android-20260322@tibetan-calendar.local
+DTSTAMP:20260921T042059Z
+DTSTART;VALUE=DATE:20260322
+DTEND;VALUE=DATE:20260323
+SUMMARY:初四
+DESCRIPTION:公历：2026年3月22日 星期日\n藏历火马年：二月
+ 初四\n藏历月名：苦行月\n农历丙午年：二月初四\n事项
+ ：\n理发吉日：怀业增上，容光焕发\n来源：2026（农历）
+ 藏历火马年月历.pdf
+TRANSP:TRANSPARENT
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+UID:tibetan-fish-android-20260323@tibetan-calendar.local
+DTSTAMP:20260921T042059Z
+DTSTART;VALUE=DATE:20260323
+DTEND;VALUE=DATE:20260324
+SUMMARY:初五
+DESCRIPTION:公历：2026年3月23日 星期一\n藏历火马年：二月
+ 初五\n藏历月名：苦行月\n农历丙午年：二月初五\n事项
+ ：\n理发吉日：聚集广大财富\n来源：2026（农历）藏历火
+ 马年月历.pdf
+TRANSP:TRANSPARENT
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+UID:tibetan-fish-android-20260324@tibetan-calendar.local
+DTSTAMP:20260921T042059Z
+DTSTART;VALUE=DATE:20260324
+DTEND;VALUE=DATE:20260325
+SUMMARY:初六
+DESCRIPTION:公历：2026年3月24日 星期二\n藏历火马年：二月
+ 初六\n藏历月名：苦行月\n农历丙午年：二月初六\n来源
+ ：2026（农历）藏历火马年月历.pdf
+TRANSP:TRANSPARENT
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+UID:tibetan-fish-android-20260325@tibetan-calendar.local
+DTSTAMP:20260921T042059Z
+DTSTART;VALUE=DATE:20260325
+DTEND;VALUE=DATE:20260326
+SUMMARY:初七
+DESCRIPTION:公历：2026年3月25日 星期三\n藏历火马年：二月
+ 初七\n藏历月名：苦行月\n农历丙午年：二月初七\n事项
+ ：\n飞幡日\n来源：2026（农历）藏历火马年月历.pdf
+TRANSP:TRANSPARENT
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+UID:tibetan-fish-android-20260326@tibetan-calendar.local
+DTSTAMP:20260921T042059Z
+DTSTART;VALUE=DATE:20260326
+DTEND;VALUE=DATE:20260327
+SUMMARY:初八 🐟
+DESCRIPTION:公历：2026年3月26日 星期四\n藏历火马年：二月
+ 初八\n藏历月名：苦行月\n农历丙午年：二月初八\n事项
+ ：\n药师佛节日\n十斋日\n作何善恶成千倍\n理发吉日：长
+ 寿\n来源：2026（农历）藏历火马年月历.pdf
+TRANSP:TRANSPARENT
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+UID:tibetan-fish-android-20260327@tibetan-calendar.local
+DTSTAMP:20260921T042059Z
+DTSTART;VALUE=DATE:20260327
+DTEND;VALUE=DATE:20260328
+SUMMARY:初九
+DESCRIPTION:公历：2026年3月27日 星期五\n藏历火马年：二月
+ 初九\n藏历月名：苦行月\n农历丙午年：二月初九\n事项
+ ：\n理发吉日：易遇佳人\n来源：2026（农历）藏历火马年
+ 月历.pdf
+TRANSP:TRANSPARENT
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+UID:tibetan-fish-android-20260328@tibetan-calendar.local
+DTSTAMP:20260921T042059Z
+DTSTART;VALUE=DATE:20260328
+DTEND;VALUE=DATE:20260329
+SUMMARY:初十 莲师荟供日
+DESCRIPTION:公历：2026年3月28日 星期六\n藏历火马年：二月
+ 初十\n藏历月名：苦行月\n农历丙午年：二月初十\n事项
+ ：\n莲师荟供日\n十斋日\n作何善恶成十万倍\n理发吉日：
+ 增上欢喜\n来源：2026（农历）藏历火马年月历.pdf
+TRANSP:TRANSPARENT
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+UID:tibetan-fish-android-20260329@tibetan-calendar.local
+DTSTAMP:20260921T042059Z
+DTSTART;VALUE=DATE:20260329
+DTEND;VALUE=DATE:20260330
+SUMMARY:十一
+DESCRIPTION:公历：2026年3月29日 星期日\n藏历火马年：二月
+ 十一\n藏历月名：苦行月\n农历丙午年：二月十一\n事项
+ ：\n理发吉日：增上智慧和世聪\n来源：2026（农历）藏历
+ 火马年月历.pdf
+TRANSP:TRANSPARENT
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+UID:tibetan-fish-android-20260330@tibetan-calendar.local
+DTSTAMP:20260921T042059Z
+DTSTART;VALUE=DATE:20260330
+DTEND;VALUE=DATE:20260331
+SUMMARY:十三
+DESCRIPTION:公历：2026年3月30日 星期一\n藏历火马年：二月
+ 十三\n藏历月名：苦行月\n农历丙午年：二月十二\n藏历
+ 备注：前一日为缺日\n事项：\n理发吉日：精进于佛法修
+ 持，最上\n来源：2026（农历）藏历火马年月历.pdf
+TRANSP:TRANSPARENT
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+UID:tibetan-fish-android-20260331@tibetan-calendar.local
+DTSTAMP:20260921T042059Z
+DTSTART;VALUE=DATE:20260331
+DTEND;VALUE=DATE:20260401
+SUMMARY:十四
+DESCRIPTION:公历：2026年3月31日 星期二\n藏历火马年：二月
+ 十四\n藏历月名：苦行月\n农历丙午年：二月十三\n事项
+ ：\n理发吉日：财物增多\n来源：2026（农历）藏历火马年
+ 月历.pdf
+TRANSP:TRANSPARENT
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+UID:tibetan-fish-android-20260401@tibetan-calendar.local
+DTSTAMP:20260921T042059Z
+DTSTART;VALUE=DATE:20260401
+DTEND;VALUE=DATE:20260402
+SUMMARY:十五 🐟
+DESCRIPTION:公历：2026年4月1日 星期三\n藏历火马年：二月十
+ 五\n藏历月名：苦行月\n农历丙午年：二月十四\n事项：\n
+ 阿弥陀佛节日\n作何善恶成百万倍\n理发吉日：福报增上\
+ n十斋日\n来源：2026（农历）藏历火马年月历.pdf
+TRANSP:TRANSPARENT
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+UID:tibetan-fish-android-20260402@tibetan-calendar.local
+DTSTAMP:20260921T042059Z
+DTSTART;VALUE=DATE:20260402
+DTEND;VALUE=DATE:20260403
+SUMMARY:十六
+DESCRIPTION:公历：2026年4月2日 星期四\n藏历火马年：二月十
+ 六\n藏历月名：苦行月\n农历丙午年：二月十五\n事项：\n
+ 十斋日\n来源：2026（农历）藏历火马年月历.pdf
+TRANSP:TRANSPARENT
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+UID:tibetan-fish-android-20260403@tibetan-calendar.local
+DTSTAMP:20260921T042059Z
+DTSTART;VALUE=DATE:20260403
+DTEND;VALUE=DATE:20260404
+SUMMARY:十七
+DESCRIPTION:公历：2026年4月3日 星期五\n藏历火马年：二月十
+ 七\n藏历月名：苦行月\n农历丙午年：二月十六\n来源：20
+ 26（农历）藏历火马年月历.pdf
+TRANSP:TRANSPARENT
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+UID:tibetan-fish-android-20260404@tibetan-calendar.local
+DTSTAMP:20260921T042059Z
+DTSTART;VALUE=DATE:20260404
+DTEND;VALUE=DATE:20260405
+SUMMARY:闰十七
+DESCRIPTION:公历：2026年4月4日 星期六\n藏历火马年：二月闰
+ 十七\n藏历月名：苦行月\n农历丙午年：二月十七\n来源
+ ：2026（农历）藏历火马年月历.pdf
+TRANSP:TRANSPARENT
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+UID:tibetan-fish-android-20260405@tibetan-calendar.local
+DTSTAMP:20260921T042059Z
+DTSTART;VALUE=DATE:20260405
+DTEND;VALUE=DATE:20260406
+SUMMARY:十八
+DESCRIPTION:公历：2026年4月5日 星期日\n藏历火马年：二月十
+ 八\n藏历月名：苦行月\n农历丙午年：二月十八\n事项：\n
+ 观音菩萨节日\n作何善恶成千万倍\n十斋日\n清明节\n来源
+ ：2026（农历）藏历火马年月历.pdf
+TRANSP:TRANSPARENT
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+UID:tibetan-fish-android-20260406@tibetan-calendar.local
+DTSTAMP:20260921T042059Z
+DTSTART;VALUE=DATE:20260406
+DTEND;VALUE=DATE:20260407
+SUMMARY:十九
+DESCRIPTION:公历：2026年4月6日 星期一\n藏历火马年：二月十
+ 九\n藏历月名：苦行月\n农历丙午年：二月十九\n事项：\n
+ 理发吉日：增胜善法\n飞幡日\n来源：2026（农历）藏历火
+ 马年月历.pdf
+TRANSP:TRANSPARENT
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+UID:tibetan-fish-android-20260407@tibetan-calendar.local
+DTSTAMP:20260921T042059Z
+DTSTART;VALUE=DATE:20260407
+DTEND;VALUE=DATE:20260408
+SUMMARY:二十
+DESCRIPTION:公历：2026年4月7日 星期二\n藏历火马年：二月二
+ 十\n藏历月名：苦行月\n农历丙午年：二月二十\n来源：20
+ 26（农历）藏历火马年月历.pdf
+TRANSP:TRANSPARENT
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+UID:tibetan-fish-android-20260408@tibetan-calendar.local
+DTSTAMP:20260921T042059Z
+DTSTART;VALUE=DATE:20260408
+DTEND;VALUE=DATE:20260409
+SUMMARY:廿一
+DESCRIPTION:公历：2026年4月8日 星期三\n藏历火马年：二月廿
+ 一\n藏历月名：苦行月\n农历丙午年：二月廿一\n事项：\n
+ 地藏王菩萨节日\n作何善恶成亿倍\n来源：2026（农历）藏
+ 历火马年月历.pdf
+TRANSP:TRANSPARENT
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+UID:tibetan-fish-android-20260409@tibetan-calendar.local
+DTSTAMP:20260921T042059Z
+DTSTART;VALUE=DATE:20260409
+DTEND;VALUE=DATE:20260410
+SUMMARY:廿二
+DESCRIPTION:公历：2026年4月9日 星期四\n藏历火马年：二月廿
+ 二\n藏历月名：苦行月\n农历丙午年：二月廿二\n来源：20
+ 26（农历）藏历火马年月历.pdf
+TRANSP:TRANSPARENT
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+UID:tibetan-fish-android-20260410@tibetan-calendar.local
+DTSTAMP:20260921T042059Z
+DTSTART;VALUE=DATE:20260410
+DTEND;VALUE=DATE:20260411
+SUMMARY:廿三
+DESCRIPTION:公历：2026年4月10日 星期五\n藏历火马年：二月
+ 廿三\n藏历月名：苦行月\n农历丙午年：二月廿三\n事项
+ ：\n理发吉日：增上财富\n十斋日\n来源：2026（农历）藏
+ 历火马年月历.pdf
+TRANSP:TRANSPARENT
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+UID:tibetan-fish-android-20260411@tibetan-calendar.local
+DTSTAMP:20260921T042059Z
+DTSTART;VALUE=DATE:20260411
+DTEND;VALUE=DATE:20260412
+SUMMARY:廿四
+DESCRIPTION:公历：2026年4月11日 星期六\n藏历火马年：二月
+ 廿四\n藏历月名：苦行月\n农历丙午年：二月廿四\n事项
+ ：\n十斋日\n来源：2026（农历）藏历火马年月历.pdf
+TRANSP:TRANSPARENT
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+UID:tibetan-fish-android-20260412@tibetan-calendar.local
+DTSTAMP:20260921T042059Z
+DTSTART;VALUE=DATE:20260412
+DTEND;VALUE=DATE:20260413
+SUMMARY:廿五 空行母荟供日
+DESCRIPTION:公历：2026年4月12日 星期日\n藏历火马年：二月
+ 廿五\n藏历月名：苦行月\n农历丙午年：二月廿五\n事项
+ ：\n空行母荟供日\n来源：2026（农历）藏历火马年月历.pd
+ f
+TRANSP:TRANSPARENT
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+UID:tibetan-fish-android-20260413@tibetan-calendar.local
+DTSTAMP:20260921T042059Z
+DTSTART;VALUE=DATE:20260413
+DTEND;VALUE=DATE:20260414
+SUMMARY:廿六
+DESCRIPTION:公历：2026年4月13日 星期一\n藏历火马年：二月
+ 廿六\n藏历月名：苦行月\n农历丙午年：二月廿六\n事项
+ ：\n理发吉日：增上安乐\n十斋日\n来源：2026（农历）藏
+ 历火马年月历.pdf
+TRANSP:TRANSPARENT
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+UID:tibetan-fish-android-20260414@tibetan-calendar.local
+DTSTAMP:20260921T042059Z
+DTSTART;VALUE=DATE:20260414
+DTEND;VALUE=DATE:20260415
+SUMMARY:廿七
+DESCRIPTION:公历：2026年4月14日 星期二\n藏历火马年：二月
+ 廿七\n藏历月名：苦行月\n农历丙午年：二月廿七\n事项
+ ：\n理发吉日：诸事吉祥\n十斋日\n来源：2026（农历）藏
+ 历火马年月历.pdf
+TRANSP:TRANSPARENT
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+UID:tibetan-fish-android-20260415@tibetan-calendar.local
+DTSTAMP:20260921T042059Z
+DTSTART;VALUE=DATE:20260415
+DTEND;VALUE=DATE:20260416
+SUMMARY:廿八
+DESCRIPTION:公历：2026年4月15日 星期三\n藏历火马年：二月
+ 廿八\n藏历月名：苦行月\n农历丙午年：二月廿八\n事项
+ ：\n十斋日\n来源：2026（农历）藏历火马年月历.pdf
+TRANSP:TRANSPARENT
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+UID:tibetan-fish-android-20260416@tibetan-calendar.local
+DTSTAMP:20260921T042059Z
+DTSTART;VALUE=DATE:20260416
+DTEND;VALUE=DATE:20260417
+SUMMARY:廿九
+DESCRIPTION:公历：2026年4月16日 星期四\n藏历火马年：二月
+ 廿九\n藏历月名：苦行月\n农历丙午年：二月廿九\n事项
+ ：\n十斋日\n来源：2026（农历）藏历火马年月历.pdf
+TRANSP:TRANSPARENT
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+UID:tibetan-fish-android-20260417@tibetan-calendar.local
+DTSTAMP:20260921T042059Z
+DTSTART;VALUE=DATE:20260417
+DTEND;VALUE=DATE:20260418
+SUMMARY:三十 🐟
+DESCRIPTION:公历：2026年4月17日 星期五\n藏历火马年：二月
+ 三十\n藏历月名：苦行月\n农历丙午年：三月初一\n事项
+ ：\n释迦牟尼佛节日\n作何善恶成九亿倍\n十斋日\n来源：
+ 2026（农历）藏历火马年月历.pdf
+TRANSP:TRANSPARENT
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+UID:tibetan-fish-android-20260418@tibetan-calendar.local
+DTSTAMP:20260921T042059Z
+DTSTART;VALUE=DATE:20260418
+DTEND;VALUE=DATE:20260419
+SUMMARY:初一
+DESCRIPTION:公历：2026年4月18日 星期六\n藏历火马年：三月
+ 初一\n藏历月名：具香月\n农历丙午年：三月初二\n事项
+ ：\n禅定胜王佛节日\n作何善恶成百倍\n十斋日\n来源：202
+ 6（农历）藏历火马年月历.pdf
+TRANSP:TRANSPARENT
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+UID:tibetan-fish-android-20260419@tibetan-calendar.local
+DTSTAMP:20260921T042059Z
+DTSTART;VALUE=DATE:20260419
+DTEND;VALUE=DATE:20260420
+SUMMARY:初二
+DESCRIPTION:公历：2026年4月19日 星期日\n藏历火马年：三月
+ 初二\n藏历月名：具香月\n农历丙午年：三月初三\n来源
+ ：2026（农历）藏历火马年月历.pdf
+TRANSP:TRANSPARENT
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+UID:tibetan-fish-android-20260420@tibetan-calendar.local
+DTSTAMP:20260921T042059Z
+DTSTART;VALUE=DATE:20260420
+DTEND;VALUE=DATE:20260421
+SUMMARY:初三
+DESCRIPTION:公历：2026年4月20日 星期一\n藏历火马年：三月
+ 初三\n藏历月名：具香月\n农历丙午年：三月初四\n事项
+ ：\n理发吉日：家族增长财富\n谷雨\n来源：2026（农历）
+ 藏历火马年月历.pdf
+TRANSP:TRANSPARENT
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+UID:tibetan-fish-android-20260421@tibetan-calendar.local
+DTSTAMP:20260921T042059Z
+DTSTART;VALUE=DATE:20260421
+DTEND;VALUE=DATE:20260422
+SUMMARY:初四
+DESCRIPTION:公历：2026年4月21日 星期二\n藏历火马年：三月
+ 初四\n藏历月名：具香月\n农历丙午年：三月初五\n事项
+ ：\n理发吉日：怀业增上，容光焕发\n飞幡日\n来源：2026
+ （农历）藏历火马年月历.pdf
+TRANSP:TRANSPARENT
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+UID:tibetan-fish-android-20260422@tibetan-calendar.local
+DTSTAMP:20260921T042059Z
+DTSTART;VALUE=DATE:20260422
+DTEND;VALUE=DATE:20260423
+SUMMARY:初六
+DESCRIPTION:公历：2026年4月22日 星期三\n藏历火马年：三月
+ 初六\n藏历月名：具香月\n农历丙午年：三月初六\n藏历
+ 备注：前一日为缺日\n来源：2026（农历）藏历火马年月
+ 历.pdf
+TRANSP:TRANSPARENT
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+UID:tibetan-fish-android-20260423@tibetan-calendar.local
+DTSTAMP:20260921T042059Z
+DTSTART;VALUE=DATE:20260423
+DTEND;VALUE=DATE:20260424
+SUMMARY:初七
+DESCRIPTION:公历：2026年4月23日 星期四\n藏历火马年：三月
+ 初七\n藏历月名：具香月\n农历丙午年：三月初七\n来源
+ ：2026（农历）藏历火马年月历.pdf
+TRANSP:TRANSPARENT
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+UID:tibetan-fish-android-20260424@tibetan-calendar.local
+DTSTAMP:20260921T042059Z
+DTSTART;VALUE=DATE:20260424
+DTEND;VALUE=DATE:20260425
+SUMMARY:初八 🐟
+DESCRIPTION:公历：2026年4月24日 星期五\n藏历火马年：三月
+ 初八\n藏历月名：具香月\n农历丙午年：三月初八\n事项
+ ：\n药师佛节日\n作何善恶成千倍\n十斋日\n理发吉日：长
+ 寿\n来源：2026（农历）藏历火马年月历.pdf
+TRANSP:TRANSPARENT
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+UID:tibetan-fish-android-20260425@tibetan-calendar.local
+DTSTAMP:20260921T042059Z
+DTSTART;VALUE=DATE:20260425
+DTEND;VALUE=DATE:20260426
+SUMMARY:初九
+DESCRIPTION:公历：2026年4月25日 星期六\n藏历火马年：三月
+ 初九\n藏历月名：具香月\n农历丙午年：三月初九\n事项
+ ：\n理发吉日：易遇佳人\n来源：2026（农历）藏历火马年
+ 月历.pdf
+TRANSP:TRANSPARENT
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+UID:tibetan-fish-android-20260426@tibetan-calendar.local
+DTSTAMP:20260921T042059Z
+DTSTART;VALUE=DATE:20260426
+DTEND;VALUE=DATE:20260427
+SUMMARY:初十 莲师荟供日
+DESCRIPTION:公历：2026年4月26日 星期日\n藏历火马年：三月
+ 初十\n藏历月名：具香月\n农历丙午年：三月初十\n事项
+ ：\n莲师荟供日\n作何善恶成十万倍\n理发吉日：增上欢
+ 喜\n来源：2026（农历）藏历火马年月历.pdf
+TRANSP:TRANSPARENT
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+UID:tibetan-fish-android-20260427@tibetan-calendar.local
+DTSTAMP:20260921T042059Z
+DTSTART;VALUE=DATE:20260427
+DTEND;VALUE=DATE:20260428
+SUMMARY:十一
+DESCRIPTION:公历：2026年4月27日 星期一\n藏历火马年：三月
+ 十一\n藏历月名：具香月\n农历丙午年：三月十一\n事项
+ ：\n理发吉日：增上智慧和世聪\n来源：2026（农历）藏历
+ 火马年月历.pdf
+TRANSP:TRANSPARENT
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+UID:tibetan-fish-android-20260428@tibetan-calendar.local
+DTSTAMP:20260921T042059Z
+DTSTART;VALUE=DATE:20260428
+DTEND;VALUE=DATE:20260429
+SUMMARY:十二
+DESCRIPTION:公历：2026年4月28日 星期二\n藏历火马年：三月
+ 十二\n藏历月名：具香月\n农历丙午年：三月十二\n来源
+ ：2026（农历）藏历火马年月历.pdf
+TRANSP:TRANSPARENT
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+UID:tibetan-fish-android-20260429@tibetan-calendar.local
+DTSTAMP:20260921T042059Z
+DTSTART;VALUE=DATE:20260429
+DTEND;VALUE=DATE:20260430
+SUMMARY:十三
+DESCRIPTION:公历：2026年4月29日 星期三\n藏历火马年：三月
+ 十三\n藏历月名：具香月\n农历丙午年：三月十三\n事项
+ ：\n理发吉日：精进于佛法修持，最上\n来源：2026（农历
+ ）藏历火马年月历.pdf
+TRANSP:TRANSPARENT
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+UID:tibetan-fish-android-20260430@tibetan-calendar.local
+DTSTAMP:20260921T042059Z
+DTSTART;VALUE=DATE:20260430
+DTEND;VALUE=DATE:20260501
+SUMMARY:十四
+DESCRIPTION:公历：2026年4月30日 星期四\n藏历火马年：三月
+ 十四\n藏历月名：具香月\n农历丙午年：三月十四\n事项
+ ：\n理发吉日：财物增多\n十斋日\n来源：2026（农历）藏
+ 历火马年月历.pdf
+TRANSP:TRANSPARENT
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+UID:tibetan-fish-android-20260501@tibetan-calendar.local
+DTSTAMP:20260921T042059Z
+DTSTART;VALUE=DATE:20260501
+DTEND;VALUE=DATE:20260502
+SUMMARY:十五 🐟
+DESCRIPTION:公历：2026年5月1日 星期五\n藏历火马年：三月十
+ 五\n藏历月名：具香月\n农历丙午年：三月十五\n事项：\n
+ 阿弥陀佛节日\n十斋日\n作何善恶成百万倍\n理发吉日：
+ 福报增上\n劳动节\n来源：2026（农历）藏历火马年月历.pd
+ f
+TRANSP:TRANSPARENT
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+UID:tibetan-fish-android-20260502@tibetan-calendar.local
+DTSTAMP:20260921T042059Z
+DTSTART;VALUE=DATE:20260502
+DTEND;VALUE=DATE:20260503
+SUMMARY:十六
+DESCRIPTION:公历：2026年5月2日 星期六\n藏历火马年：三月十
+ 六\n藏历月名：具香月\n农历丙午年：三月十六\n事项：\n
+ 飞幡日\n来源：2026（农历）藏历火马年月历.pdf
+TRANSP:TRANSPARENT
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+UID:tibetan-fish-android-20260503@tibetan-calendar.local
+DTSTAMP:20260921T042059Z
+DTSTART;VALUE=DATE:20260503
+DTEND;VALUE=DATE:20260504
+SUMMARY:十七
+DESCRIPTION:公历：2026年5月3日 星期日\n藏历火马年：三月十
+ 七\n藏历月名：具香月\n农历丙午年：三月十七\n来源：20
+ 26（农历）藏历火马年月历.pdf
+TRANSP:TRANSPARENT
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+UID:tibetan-fish-android-20260504@tibetan-calendar.local
+DTSTAMP:20260921T042059Z
+DTSTART;VALUE=DATE:20260504
+DTEND;VALUE=DATE:20260505
+SUMMARY:十八
+DESCRIPTION:公历：2026年5月4日 星期一\n藏历火马年：三月十
+ 八\n藏历月名：具香月\n农历丙午年：三月十八\n事项：\n
+ 观音菩萨节日\n十斋日\n作何善恶成千万倍\n青年节\n来源
+ ：2026（农历）藏历火马年月历.pdf
+TRANSP:TRANSPARENT
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+UID:tibetan-fish-android-20260505@tibetan-calendar.local
+DTSTAMP:20260921T042059Z
+DTSTART;VALUE=DATE:20260505
+DTEND;VALUE=DATE:20260506
+SUMMARY:十九
+DESCRIPTION:公历：2026年5月5日 星期二\n藏历火马年：三月十
+ 九\n藏历月名：具香月\n农历丙午年：三月十九\n事项：\n
+ 理发吉日：增胜善法\n立夏\n来源：2026（农历）藏历火马
+ 年月历.pdf
+TRANSP:TRANSPARENT
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+UID:tibetan-fish-android-20260506@tibetan-calendar.local
+DTSTAMP:20260921T042059Z
+DTSTART;VALUE=DATE:20260506
+DTEND;VALUE=DATE:20260507
+SUMMARY:二十
+DESCRIPTION:公历：2026年5月6日 星期三\n藏历火马年：三月二
+ 十\n藏历月名：具香月\n农历丙午年：三月二十\n来源：20
+ 26（农历）藏历火马年月历.pdf
+TRANSP:TRANSPARENT
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+UID:tibetan-fish-android-20260507@tibetan-calendar.local
+DTSTAMP:20260921T042059Z
+DTSTART;VALUE=DATE:20260507
+DTEND;VALUE=DATE:20260508
+SUMMARY:廿一
+DESCRIPTION:公历：2026年5月7日 星期四\n藏历火马年：三月廿
+ 一\n藏历月名：具香月\n农历丙午年：三月廿一\n事项：\n
+ 地藏王菩萨节日\n作何善恶成亿倍\n来源：2026（农历）藏
+ 历火马年月历.pdf
+TRANSP:TRANSPARENT
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+UID:tibetan-fish-android-20260508@tibetan-calendar.local
+DTSTAMP:20260921T042059Z
+DTSTART;VALUE=DATE:20260508
+DTEND;VALUE=DATE:20260509
+SUMMARY:廿二
+DESCRIPTION:公历：2026年5月8日 星期五\n藏历火马年：三月廿
+ 二\n藏历月名：具香月\n农历丙午年：三月廿二\n来源：20
+ 26（农历）藏历火马年月历.pdf
+TRANSP:TRANSPARENT
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+UID:tibetan-fish-android-20260509@tibetan-calendar.local
+DTSTAMP:20260921T042059Z
+DTSTART;VALUE=DATE:20260509
+DTEND;VALUE=DATE:20260510
+SUMMARY:闰廿二
+DESCRIPTION:公历：2026年5月9日 星期六\n藏历火马年：三月闰
+ 廿二\n藏历月名：具香月\n农历丙午年：三月廿三\n事项
+ ：\n十斋日\n来源：2026（农历）藏历火马年月历.pdf
+TRANSP:TRANSPARENT
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+UID:tibetan-fish-android-20260510@tibetan-calendar.local
+DTSTAMP:20260921T042059Z
+DTSTART;VALUE=DATE:20260510
+DTEND;VALUE=DATE:20260511
+SUMMARY:廿三
+DESCRIPTION:公历：2026年5月10日 星期日\n藏历火马年：三月
+ 廿三\n藏历月名：具香月\n农历丙午年：三月廿四\n事项
+ ：\n理发吉日：增上财富\n十斋日\n来源：2026（农历）藏
+ 历火马年月历.pdf
+TRANSP:TRANSPARENT
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+UID:tibetan-fish-android-20260511@tibetan-calendar.local
+DTSTAMP:20260921T042059Z
+DTSTART;VALUE=DATE:20260511
+DTEND;VALUE=DATE:20260512
+SUMMARY:廿四
+DESCRIPTION:公历：2026年5月11日 星期一\n藏历火马年：三月
+ 廿四\n藏历月名：具香月\n农历丙午年：三月廿五\n来源
+ ：2026（农历）藏历火马年月历.pdf
+TRANSP:TRANSPARENT
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+UID:tibetan-fish-android-20260512@tibetan-calendar.local
+DTSTAMP:20260921T042059Z
+DTSTART;VALUE=DATE:20260512
+DTEND;VALUE=DATE:20260513
+SUMMARY:廿五 空行母荟供日
+DESCRIPTION:公历：2026年5月12日 星期二\n藏历火马年：三月
+ 廿五\n藏历月名：具香月\n农历丙午年：三月廿六\n事项
+ ：\n空行母荟供日\n来源：2026（农历）藏历火马年月历.pd
+ f
+TRANSP:TRANSPARENT
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+UID:tibetan-fish-android-20260513@tibetan-calendar.local
+DTSTAMP:20260921T042059Z
+DTSTART;VALUE=DATE:20260513
+DTEND;VALUE=DATE:20260514
+SUMMARY:廿六
+DESCRIPTION:公历：2026年5月13日 星期三\n藏历火马年：三月
+ 廿六\n藏历月名：具香月\n农历丙午年：三月廿七\n事项
+ ：\n理发吉日：增上安乐\n十斋日\n来源：2026（农历）藏
+ 历火马年月历.pdf
+TRANSP:TRANSPARENT
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+UID:tibetan-fish-android-20260514@tibetan-calendar.local
+DTSTAMP:20260921T042059Z
+DTSTART;VALUE=DATE:20260514
+DTEND;VALUE=DATE:20260515
+SUMMARY:廿七
+DESCRIPTION:公历：2026年5月14日 星期四\n藏历火马年：三月
+ 廿七\n藏历月名：具香月\n农历丙午年：三月廿八\n事项
+ ：\n理发吉日：诸事吉祥\n十斋日\n来源：2026（农历）藏
+ 历火马年月历.pdf
+TRANSP:TRANSPARENT
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+UID:tibetan-fish-android-20260515@tibetan-calendar.local
+DTSTAMP:20260921T042059Z
+DTSTART;VALUE=DATE:20260515
+DTEND;VALUE=DATE:20260516
+SUMMARY:廿八
+DESCRIPTION:公历：2026年5月15日 星期五\n藏历火马年：三月
+ 廿八\n藏历月名：具香月\n农历丙午年：三月廿九\n事项
+ ：\n多罗那他尊者圆寂日\n十斋日\n来源：2026（农历）藏
+ 历火马年月历.pdf
+TRANSP:TRANSPARENT
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+UID:tibetan-fish-android-20260516@tibetan-calendar.local
+DTSTAMP:20260921T042059Z
+DTSTART;VALUE=DATE:20260516
+DTEND;VALUE=DATE:20260517
+SUMMARY:三十 🐟
+DESCRIPTION:公历：2026年5月16日 星期六\n藏历火马年：三月
+ 三十\n藏历月名：具香月\n农历丙午年：三月三十\n藏历
+ 备注：前一日为缺日\n事项：\n释迦牟尼佛节日\n作何善
+ 恶成九亿倍\n十斋日\n来源：2026（农历）藏历火马年月历
+ .pdf
+TRANSP:TRANSPARENT
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+UID:tibetan-fish-android-20260517@tibetan-calendar.local
+DTSTAMP:20260921T042059Z
+DTSTART;VALUE=DATE:20260517
+DTEND;VALUE=DATE:20260518
+SUMMARY:初一 🐟
+DESCRIPTION:公历：2026年5月17日 星期日\n藏历火马年：四月
+ 初一\n藏历月名：萨嘎月\n农历丙午年：四月初一\n事项
+ ：\n禅定胜王佛节日\n十斋日\n作何善恶成百倍\n飞幡日\n
+ 来源：2026（农历）藏历火马年月历.pdf
+TRANSP:TRANSPARENT
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+UID:tibetan-fish-android-20260518@tibetan-calendar.local
+DTSTAMP:20260921T042059Z
+DTSTART;VALUE=DATE:20260518
+DTEND;VALUE=DATE:20260519
+SUMMARY:初二 🐟
+DESCRIPTION:公历：2026年5月18日 星期一\n藏历火马年：四月
+ 初二\n藏历月名：萨嘎月\n农历丙午年：四月初二\n来源
+ ：2026（农历）藏历火马年月历.pdf
+TRANSP:TRANSPARENT
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+UID:tibetan-fish-android-20260519@tibetan-calendar.local
+DTSTAMP:20260921T042059Z
+DTSTART;VALUE=DATE:20260519
+DTEND;VALUE=DATE:20260520
+SUMMARY:初三 🐟
+DESCRIPTION:公历：2026年5月19日 星期二\n藏历火马年：四月
+ 初三\n藏历月名：萨嘎月\n农历丙午年：四月初三\n事项
+ ：\n理发吉日：家族增长财富\n来源：2026（农历）藏历火
+ 马年月历.pdf
+TRANSP:TRANSPARENT
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+UID:tibetan-fish-android-20260520@tibetan-calendar.local
+DTSTAMP:20260921T042059Z
+DTSTART;VALUE=DATE:20260520
+DTEND;VALUE=DATE:20260521
+SUMMARY:初四 🐟
+DESCRIPTION:公历：2026年5月20日 星期三\n藏历火马年：四月
+ 初四\n藏历月名：萨嘎月\n农历丙午年：四月初四\n事项
+ ：\n理发吉日：怀业增上，容光焕发\n来源：2026（农历）
+ 藏历火马年月历.pdf
+TRANSP:TRANSPARENT
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+UID:tibetan-fish-android-20260521@tibetan-calendar.local
+DTSTAMP:20260921T042059Z
+DTSTART;VALUE=DATE:20260521
+DTEND;VALUE=DATE:20260522
+SUMMARY:初五 🐟
+DESCRIPTION:公历：2026年5月21日 星期四\n藏历火马年：四月
+ 初五\n藏历月名：萨嘎月\n农历丙午年：四月初五\n事项
+ ：\n理发吉日：聚集广大财富\n小满\n来源：2026（农历）
+ 藏历火马年月历.pdf
+TRANSP:TRANSPARENT
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+UID:tibetan-fish-android-20260522@tibetan-calendar.local
+DTSTAMP:20260921T042059Z
+DTSTART;VALUE=DATE:20260522
+DTEND;VALUE=DATE:20260523
+SUMMARY:初六 🐟
+DESCRIPTION:公历：2026年5月22日 星期五\n藏历火马年：四月
+ 初六\n藏历月名：萨嘎月\n农历丙午年：四月初六\n来源
+ ：2026（农历）藏历火马年月历.pdf
+TRANSP:TRANSPARENT
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+UID:tibetan-fish-android-20260523@tibetan-calendar.local
+DTSTAMP:20260921T042059Z
+DTSTART;VALUE=DATE:20260523
+DTEND;VALUE=DATE:20260524
+SUMMARY:初七 随念本师法会 🐟
+DESCRIPTION:公历：2026年5月23日 星期六\n藏历火马年：四月
+ 初七\n藏历月名：萨嘎月\n农历丙午年：四月初七\n事项
+ ：\n释迦牟尼佛诞辰\n来源：2026（农历）藏历火马年月历
+ .pdf
+TRANSP:TRANSPARENT
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+UID:tibetan-fish-android-20260524@tibetan-calendar.local
+DTSTAMP:20260921T042059Z
+DTSTART;VALUE=DATE:20260524
+DTEND;VALUE=DATE:20260525
+SUMMARY:初八 随念本师法会 🐟
+DESCRIPTION:公历：2026年5月24日 星期日\n藏历火马年：四月
+ 初八\n藏历月名：萨嘎月\n农历丙午年：四月初八\n事项
+ ：\n药师佛节日\n作何善恶成千倍\n十斋日\n理发吉日：长
+ 寿\n来源：2026（农历）藏历火马年月历.pdf
+TRANSP:TRANSPARENT
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+UID:tibetan-fish-android-20260525@tibetan-calendar.local
+DTSTAMP:20260921T042059Z
+DTSTART;VALUE=DATE:20260525
+DTEND;VALUE=DATE:20260526
+SUMMARY:初九 金刚萨埵法会 🐟
+DESCRIPTION:公历：2026年5月25日 星期一\n藏历火马年：四月
+ 初九\n藏历月名：萨嘎月\n农历丙午年：四月初九\n事项
+ ：\n理发吉日：易遇佳人\n来源：2026（农历）藏历火马年
+ 月历.pdf
+TRANSP:TRANSPARENT
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+UID:tibetan-fish-android-20260526@tibetan-calendar.local
+DTSTAMP:20260921T042059Z
+DTSTART;VALUE=DATE:20260526
+DTEND;VALUE=DATE:20260527
+SUMMARY:初十 金刚萨埵法会 莲师荟供日 🐟
+DESCRIPTION:公历：2026年5月26日 星期二\n藏历火马年：四月
+ 初十\n藏历月名：萨嘎月\n农历丙午年：四月初十\n事项
+ ：\n莲师荟供日\n作何善恶成十万倍\n理发吉日：增上欢
+ 喜\n来源：2026（农历）藏历火马年月历.pdf
+TRANSP:TRANSPARENT
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+UID:tibetan-fish-android-20260527@tibetan-calendar.local
+DTSTAMP:20260921T042059Z
+DTSTART;VALUE=DATE:20260527
+DTEND;VALUE=DATE:20260528
+SUMMARY:十一 金刚萨埵法会 🐟
+DESCRIPTION:公历：2026年5月27日 星期三\n藏历火马年：四月
+ 十一\n藏历月名：萨嘎月\n农历丙午年：四月十一\n事项
+ ：\n理发吉日：增上智慧和世聪\n来源：2026（农历）藏历
+ 火马年月历.pdf
+TRANSP:TRANSPARENT
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+UID:tibetan-fish-android-20260528@tibetan-calendar.local
+DTSTAMP:20260921T042059Z
+DTSTART;VALUE=DATE:20260528
+DTEND;VALUE=DATE:20260529
+SUMMARY:十二 金刚萨埵法会 🐟
+DESCRIPTION:公历：2026年5月28日 星期四\n藏历火马年：四月
+ 十二\n藏历月名：萨嘎月\n农历丙午年：四月十二\n来源
+ ：2026（农历）藏历火马年月历.pdf
+TRANSP:TRANSPARENT
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+UID:tibetan-fish-android-20260529@tibetan-calendar.local
+DTSTAMP:20260921T042059Z
+DTSTART;VALUE=DATE:20260529
+DTEND;VALUE=DATE:20260530
+SUMMARY:十三 金刚萨埵法会 🐟
+DESCRIPTION:公历：2026年5月29日 星期五\n藏历火马年：四月
+ 十三\n藏历月名：萨嘎月\n农历丙午年：四月十三\n事项
+ ：\n理发吉日：精进于佛法修持，最上\n飞幡日\n来源：20
+ 26（农历）藏历火马年月历.pdf
+TRANSP:TRANSPARENT
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+UID:tibetan-fish-android-20260530@tibetan-calendar.local
+DTSTAMP:20260921T042059Z
+DTSTART;VALUE=DATE:20260530
+DTEND;VALUE=DATE:20260531
+SUMMARY:十四 金刚萨埵法会 🐟
+DESCRIPTION:公历：2026年5月30日 星期六\n藏历火马年：四月
+ 十四\n藏历月名：萨嘎月\n农历丙午年：四月十四\n事项
+ ：\n理发吉日：财物增多\n十斋日\n来源：2026（农历）藏
+ 历火马年月历.pdf
+TRANSP:TRANSPARENT
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+UID:tibetan-fish-android-20260531@tibetan-calendar.local
+DTSTAMP:20260921T042059Z
+DTSTART;VALUE=DATE:20260531
+DTEND;VALUE=DATE:20260601
+SUMMARY:十五 随念本师法会 🐟
+DESCRIPTION:公历：2026年5月31日 星期日\n藏历火马年：四月
+ 十五\n藏历月名：萨嘎月\n农历丙午年：四月十五\n事项
+ ：\n释迦牟尼佛成道日、涅槃日\n十斋日\n作何善恶成百
+ 万倍\n理发吉日：福报增上\n来源：2026（农历）藏历火马
+ 年月历.pdf
+TRANSP:TRANSPARENT
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+UID:tibetan-fish-android-20260601@tibetan-calendar.local
+DTSTAMP:20260921T042059Z
+DTSTART;VALUE=DATE:20260601
+DTEND;VALUE=DATE:20260602
+SUMMARY:十六 🐟
+DESCRIPTION:公历：2026年6月1日 星期一\n藏历火马年：四月十
+ 六\n藏历月名：萨嘎月\n农历丙午年：四月十六\n事项：\n
+ 儿童节\n来源：2026（农历）藏历火马年月历.pdf
+TRANSP:TRANSPARENT
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+UID:tibetan-fish-android-20260602@tibetan-calendar.local
+DTSTAMP:20260921T042059Z
+DTSTART;VALUE=DATE:20260602
+DTEND;VALUE=DATE:20260603
+SUMMARY:十七 🐟
+DESCRIPTION:公历：2026年6月2日 星期二\n藏历火马年：四月十
+ 七\n藏历月名：萨嘎月\n农历丙午年：四月十七\n来源：20
+ 26（农历）藏历火马年月历.pdf
+TRANSP:TRANSPARENT
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+UID:tibetan-fish-android-20260603@tibetan-calendar.local
+DTSTAMP:20260921T042059Z
+DTSTART;VALUE=DATE:20260603
+DTEND;VALUE=DATE:20260604
+SUMMARY:十八 🐟
+DESCRIPTION:公历：2026年6月3日 星期三\n藏历火马年：四月十
+ 八\n藏历月名：萨嘎月\n农历丙午年：四月十八\n事项：\n
+ 观音菩萨节日\n作何善恶成千万倍\n十斋日\n来源：2026（
+ 农历）藏历火马年月历.pdf
+TRANSP:TRANSPARENT
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+UID:tibetan-fish-android-20260604@tibetan-calendar.local
+DTSTAMP:20260921T042059Z
+DTSTART;VALUE=DATE:20260604
+DTEND;VALUE=DATE:20260605
+SUMMARY:十九 🐟
+DESCRIPTION:公历：2026年6月4日 星期四\n藏历火马年：四月十
+ 九\n藏历月名：萨嘎月\n农历丙午年：四月十九\n事项：\n
+ 理发吉日：增胜善法\n来源：2026（农历）藏历火马年月
+ 历.pdf
+TRANSP:TRANSPARENT
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+UID:tibetan-fish-android-20260605@tibetan-calendar.local
+DTSTAMP:20260921T042059Z
+DTSTART;VALUE=DATE:20260605
+DTEND;VALUE=DATE:20260606
+SUMMARY:二十 🐟
+DESCRIPTION:公历：2026年6月5日 星期五\n藏历火马年：四月二
+ 十\n藏历月名：萨嘎月\n农历丙午年：四月二十\n事项：\n
+ 芒种\n来源：2026（农历）藏历火马年月历.pdf
+TRANSP:TRANSPARENT
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+UID:tibetan-fish-android-20260606@tibetan-calendar.local
+DTSTAMP:20260921T042059Z
+DTSTART;VALUE=DATE:20260606
+DTEND;VALUE=DATE:20260607
+SUMMARY:廿一 🐟
+DESCRIPTION:公历：2026年6月6日 星期六\n藏历火马年：四月廿
+ 一\n藏历月名：萨嘎月\n农历丙午年：四月廿一\n事项：\n
+ 地藏王菩萨节日\n作何善恶成亿倍\n来源：2026（农历）藏
+ 历火马年月历.pdf
+TRANSP:TRANSPARENT
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+UID:tibetan-fish-android-20260607@tibetan-calendar.local
+DTSTAMP:20260921T042059Z
+DTSTART;VALUE=DATE:20260607
+DTEND;VALUE=DATE:20260608
+SUMMARY:廿二 🐟
+DESCRIPTION:公历：2026年6月7日 星期日\n藏历火马年：四月廿
+ 二\n藏历月名：萨嘎月\n农历丙午年：四月廿二\n来源：20
+ 26（农历）藏历火马年月历.pdf
+TRANSP:TRANSPARENT
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+UID:tibetan-fish-android-20260608@tibetan-calendar.local
+DTSTAMP:20260921T042059Z
+DTSTART;VALUE=DATE:20260608
+DTEND;VALUE=DATE:20260609
+SUMMARY:廿三 🐟
+DESCRIPTION:公历：2026年6月8日 星期一\n藏历火马年：四月廿
+ 三\n藏历月名：萨嘎月\n农历丙午年：四月廿三\n事项：\n
+ 理发吉日：增上财富\n十斋日\n来源：2026（农历）藏历火
+ 马年月历.pdf
+TRANSP:TRANSPARENT
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+UID:tibetan-fish-android-20260609@tibetan-calendar.local
+DTSTAMP:20260921T042059Z
+DTSTART;VALUE=DATE:20260609
+DTEND;VALUE=DATE:20260610
+SUMMARY:廿四 🐟
+DESCRIPTION:公历：2026年6月9日 星期二\n藏历火马年：四月廿
+ 四\n藏历月名：萨嘎月\n农历丙午年：四月廿四\n事项：\n
+ 十斋日\n来源：2026（农历）藏历火马年月历.pdf
+TRANSP:TRANSPARENT
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+UID:tibetan-fish-android-20260610@tibetan-calendar.local
+DTSTAMP:20260921T042059Z
+DTSTART;VALUE=DATE:20260610
+DTEND;VALUE=DATE:20260611
+SUMMARY:廿五 空行母荟供日 🐟
+DESCRIPTION:公历：2026年6月10日 星期三\n藏历火马年：四月
+ 廿五\n藏历月名：萨嘎月\n农历丙午年：四月廿五\n事项
+ ：\n空行母荟供日\n来源：2026（农历）藏历火马年月历.pd
+ f
+TRANSP:TRANSPARENT
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+UID:tibetan-fish-android-20260611@tibetan-calendar.local
+DTSTAMP:20260921T042059Z
+DTSTART;VALUE=DATE:20260611
+DTEND;VALUE=DATE:20260612
+SUMMARY:廿六 🐟
+DESCRIPTION:公历：2026年6月11日 星期四\n藏历火马年：四月
+ 廿六\n藏历月名：萨嘎月\n农历丙午年：四月廿六\n事项
+ ：\n理发吉日：增上安乐\n来源：2026（农历）藏历火马年
+ 月历.pdf
+TRANSP:TRANSPARENT
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+UID:tibetan-fish-android-20260612@tibetan-calendar.local
+DTSTAMP:20260921T042059Z
+DTSTART;VALUE=DATE:20260612
+DTEND;VALUE=DATE:20260613
+SUMMARY:廿七 🐟
+DESCRIPTION:公历：2026年6月12日 星期五\n藏历火马年：四月
+ 廿七\n藏历月名：萨嘎月\n农历丙午年：四月廿七\n事项
+ ：\n理发吉日：诸事吉祥\n十斋日\n来源：2026（农历）藏
+ 历火马年月历.pdf
+TRANSP:TRANSPARENT
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+UID:tibetan-fish-android-20260613@tibetan-calendar.local
+DTSTAMP:20260921T042059Z
+DTSTART;VALUE=DATE:20260613
+DTEND;VALUE=DATE:20260614
+SUMMARY:廿八 三祖师涅槃法会-法王如意宝 🐟
+DESCRIPTION:公历：2026年6月13日 星期六\n藏历火马年：四月
+ 廿八\n藏历月名：萨嘎月\n农历丙午年：四月廿八\n事项
+ ：\n十斋日\n来源：2026（农历）藏历火马年月历.pdf
+TRANSP:TRANSPARENT
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+UID:tibetan-fish-android-20260614@tibetan-calendar.local
+DTSTAMP:20260921T042059Z
+DTSTART;VALUE=DATE:20260614
+DTEND;VALUE=DATE:20260615
+SUMMARY:廿九 三祖师涅槃法会-麦彭仁波切 🐟
+DESCRIPTION:公历：2026年6月14日 星期日\n藏历火马年：四月
+ 廿九\n藏历月名：萨嘎月\n农历丙午年：四月廿九\n事项
+ ：\n麦彭仁波切圆寂纪念日\n十斋日\n来源：2026（农历）
+ 藏历火马年月历.pdf
+TRANSP:TRANSPARENT
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+UID:tibetan-fish-android-20260615@tibetan-calendar.local
+DTSTAMP:20260921T042059Z
+DTSTART;VALUE=DATE:20260615
+DTEND;VALUE=DATE:20260616
+SUMMARY:三十 三祖师涅槃法会-白玛邓灯尊者 🐟
+DESCRIPTION:公历：2026年6月15日 星期一\n藏历火马年：四月
+ 三十\n藏历月名：萨嘎月\n农历丙午年：五月初一\n事项
+ ：\n释迦牟尼佛节日\n作何善恶成九亿倍\n十斋日\n来源：
+ 2026（农历）藏历火马年月历.pdf
+TRANSP:TRANSPARENT
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+UID:tibetan-fish-android-20260616@tibetan-calendar.local
+DTSTAMP:20260921T042059Z
+DTSTART;VALUE=DATE:20260616
+DTEND;VALUE=DATE:20260617
+SUMMARY:初一
+DESCRIPTION:公历：2026年6月16日 星期二\n藏历火马年：五月
+ 初一\n藏历月名：作净月\n农历丙午年：五月初二\n事项
+ ：\n禅定胜王佛节日\n作何善恶成百倍\n来源：2026（农历
+ ）藏历火马年月历.pdf
+TRANSP:TRANSPARENT
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+UID:tibetan-fish-android-20260617@tibetan-calendar.local
+DTSTAMP:20260921T042059Z
+DTSTART;VALUE=DATE:20260617
+DTEND;VALUE=DATE:20260618
+SUMMARY:初三
+DESCRIPTION:公历：2026年6月17日 星期三\n藏历火马年：五月
+ 初三\n藏历月名：作净月\n农历丙午年：五月初三\n藏历
+ 备注：前一日为缺日\n事项：\n理发吉日：家族增长财富\
+ n来源：2026（农历）藏历火马年月历.pdf
+TRANSP:TRANSPARENT
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+UID:tibetan-fish-android-20260618@tibetan-calendar.local
+DTSTAMP:20260921T042059Z
+DTSTART;VALUE=DATE:20260618
+DTEND;VALUE=DATE:20260619
+SUMMARY:初四
+DESCRIPTION:公历：2026年6月18日 星期四\n藏历火马年：五月
+ 初四\n藏历月名：作净月\n农历丙午年：五月初四\n事项
+ ：\n理发吉日：怀业增上，容光焕发\n来源：2026（农历）
+ 藏历火马年月历.pdf
+TRANSP:TRANSPARENT
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+UID:tibetan-fish-android-20260619@tibetan-calendar.local
+DTSTAMP:20260921T042059Z
+DTSTART;VALUE=DATE:20260619
+DTEND;VALUE=DATE:20260620
+SUMMARY:初五
+DESCRIPTION:公历：2026年6月19日 星期五\n藏历火马年：五月
+ 初五\n藏历月名：作净月\n农历丙午年：五月初五\n事项
+ ：\n理发吉日：聚集广大财富\n端午节\n来源：2026（农历
+ ）藏历火马年月历.pdf
+TRANSP:TRANSPARENT
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+UID:tibetan-fish-android-20260620@tibetan-calendar.local
+DTSTAMP:20260921T042059Z
+DTSTART;VALUE=DATE:20260620
+DTEND;VALUE=DATE:20260621
+SUMMARY:初六
+DESCRIPTION:公历：2026年6月20日 星期六\n藏历火马年：五月
+ 初六\n藏历月名：作净月\n农历丙午年：五月初六\n来源
+ ：2026（农历）藏历火马年月历.pdf
+TRANSP:TRANSPARENT
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+UID:tibetan-fish-android-20260621@tibetan-calendar.local
+DTSTAMP:20260921T042059Z
+DTSTART;VALUE=DATE:20260621
+DTEND;VALUE=DATE:20260622
+SUMMARY:初七
+DESCRIPTION:公历：2026年6月21日 星期日\n藏历火马年：五月
+ 初七\n藏历月名：作净月\n农历丙午年：五月初七\n事项
+ ：\n父亲节\n夏至\n来源：2026（农历）藏历火马年月历.pdf
+TRANSP:TRANSPARENT
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+UID:tibetan-fish-android-20260622@tibetan-calendar.local
+DTSTAMP:20260921T042059Z
+DTSTART;VALUE=DATE:20260622
+DTEND;VALUE=DATE:20260623
+SUMMARY:初八 🐟
+DESCRIPTION:公历：2026年6月22日 星期一\n藏历火马年：五月
+ 初八\n藏历月名：作净月\n农历丙午年：五月初八\n事项
+ ：\n药师佛节日\n作何善恶成千倍\n十斋日\n理发吉日：长
+ 寿\n来源：2026（农历）藏历火马年月历.pdf
+TRANSP:TRANSPARENT
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+UID:tibetan-fish-android-20260623@tibetan-calendar.local
+DTSTAMP:20260921T042059Z
+DTSTART;VALUE=DATE:20260623
+DTEND;VALUE=DATE:20260624
+SUMMARY:初九
+DESCRIPTION:公历：2026年6月23日 星期二\n藏历火马年：五月
+ 初九\n藏历月名：作净月\n农历丙午年：五月初九\n事项
+ ：\n理发吉日：易遇佳人\n来源：2026（农历）藏历火马年
+ 月历.pdf
+TRANSP:TRANSPARENT
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+UID:tibetan-fish-android-20260624@tibetan-calendar.local
+DTSTAMP:20260921T042059Z
+DTSTART;VALUE=DATE:20260624
+DTEND;VALUE=DATE:20260625
+SUMMARY:初十 莲师荟供日
+DESCRIPTION:公历：2026年6月24日 星期三\n藏历火马年：五月
+ 初十\n藏历月名：作净月\n农历丙午年：五月初十\n事项
+ ：\n莲师荟供日\n作何善恶成十万倍\n飞幡日\n理发吉日：
+ 增上欢喜\n来源：2026（农历）藏历火马年月历.pdf
+TRANSP:TRANSPARENT
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+UID:tibetan-fish-android-20260625@tibetan-calendar.local
+DTSTAMP:20260921T042059Z
+DTSTART;VALUE=DATE:20260625
+DTEND;VALUE=DATE:20260626
+SUMMARY:十一
+DESCRIPTION:公历：2026年6月25日 星期四\n藏历火马年：五月
+ 十一\n藏历月名：作净月\n农历丙午年：五月十一\n事项
+ ：\n理发吉日：增上智慧和世聪\n来源：2026（农历）藏历
+ 火马年月历.pdf
+TRANSP:TRANSPARENT
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+UID:tibetan-fish-android-20260626@tibetan-calendar.local
+DTSTAMP:20260921T042059Z
+DTSTART;VALUE=DATE:20260626
+DTEND;VALUE=DATE:20260627
+SUMMARY:十二
+DESCRIPTION:公历：2026年6月26日 星期五\n藏历火马年：五月
+ 十二\n藏历月名：作净月\n农历丙午年：五月十二\n来源
+ ：2026（农历）藏历火马年月历.pdf
+TRANSP:TRANSPARENT
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+UID:tibetan-fish-android-20260627@tibetan-calendar.local
+DTSTAMP:20260921T042059Z
+DTSTART;VALUE=DATE:20260627
+DTEND;VALUE=DATE:20260628
+SUMMARY:十三
+DESCRIPTION:公历：2026年6月27日 星期六\n藏历火马年：五月
+ 十三\n藏历月名：作净月\n农历丙午年：五月十三\n事项
+ ：\n理发吉日：精进于佛法修持，最上\n来源：2026（农历
+ ）藏历火马年月历.pdf
+TRANSP:TRANSPARENT
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+UID:tibetan-fish-android-20260628@tibetan-calendar.local
+DTSTAMP:20260921T042059Z
+DTSTART;VALUE=DATE:20260628
+DTEND;VALUE=DATE:20260629
+SUMMARY:十四
+DESCRIPTION:公历：2026年6月28日 星期日\n藏历火马年：五月
+ 十四\n藏历月名：作净月\n农历丙午年：五月十四\n事项
+ ：\n理发吉日：财物增多\n十斋日\n来源：2026（农历）藏
+ 历火马年月历.pdf
+TRANSP:TRANSPARENT
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+UID:tibetan-fish-android-20260629@tibetan-calendar.local
+DTSTAMP:20260921T042059Z
+DTSTART;VALUE=DATE:20260629
+DTEND;VALUE=DATE:20260630
+SUMMARY:十五 🐟
+DESCRIPTION:公历：2026年6月29日 星期一\n藏历火马年：五月
+ 十五\n藏历月名：作净月\n农历丙午年：五月十五\n事项
+ ：\n阿弥陀佛节日\n作何善恶成百万倍\n十斋日\n理发吉日
+ ：福报增上\n来源：2026（农历）藏历火马年月历.pdf
+TRANSP:TRANSPARENT
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+UID:tibetan-fish-android-20260630@tibetan-calendar.local
+DTSTAMP:20260921T042059Z
+DTSTART;VALUE=DATE:20260630
+DTEND;VALUE=DATE:20260701
+SUMMARY:十六
+DESCRIPTION:公历：2026年6月30日 星期二\n藏历火马年：五月
+ 十六\n藏历月名：作净月\n农历丙午年：五月十六\n来源
+ ：2026（农历）藏历火马年月历.pdf
+TRANSP:TRANSPARENT
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+UID:tibetan-fish-android-20260701@tibetan-calendar.local
+DTSTAMP:20260921T042059Z
+DTSTART;VALUE=DATE:20260701
+DTEND;VALUE=DATE:20260702
+SUMMARY:十七
+DESCRIPTION:公历：2026年7月1日 星期三\n藏历火马年：五月十
+ 七\n藏历月名：作净月\n农历丙午年：五月十七\n事项：\n
+ 建党节\n来源：2026（农历）藏历火马年月历.pdf
+TRANSP:TRANSPARENT
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+UID:tibetan-fish-android-20260702@tibetan-calendar.local
+DTSTAMP:20260921T042059Z
+DTSTART;VALUE=DATE:20260702
+DTEND;VALUE=DATE:20260703
+SUMMARY:闰十七
+DESCRIPTION:公历：2026年7月2日 星期四\n藏历火马年：五月闰
+ 十七\n藏历月名：作净月\n农历丙午年：五月十八\n事项
+ ：\n十斋日\n来源：2026（农历）藏历火马年月历.pdf
+TRANSP:TRANSPARENT
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+UID:tibetan-fish-android-20260703@tibetan-calendar.local
+DTSTAMP:20260921T042059Z
+DTSTART;VALUE=DATE:20260703
+DTEND;VALUE=DATE:20260704
+SUMMARY:十八
+DESCRIPTION:公历：2026年7月3日 星期五\n藏历火马年：五月十
+ 八\n藏历月名：作净月\n农历丙午年：五月十九\n事项：\n
+ 观音菩萨节日\n作何善恶成千万倍\n来源：2026（农历）藏
+ 历火马年月历.pdf
+TRANSP:TRANSPARENT
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+UID:tibetan-fish-android-20260704@tibetan-calendar.local
+DTSTAMP:20260921T042059Z
+DTSTART;VALUE=DATE:20260704
+DTEND;VALUE=DATE:20260705
+SUMMARY:十九
+DESCRIPTION:公历：2026年7月4日 星期六\n藏历火马年：五月十
+ 九\n藏历月名：作净月\n农历丙午年：五月二十\n事项：\n
+ 理发吉日：增胜善法\n来源：2026（农历）藏历火马年月
+ 历.pdf
+TRANSP:TRANSPARENT
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+UID:tibetan-fish-android-20260705@tibetan-calendar.local
+DTSTAMP:20260921T042059Z
+DTSTART;VALUE=DATE:20260705
+DTEND;VALUE=DATE:20260706
+SUMMARY:二十
+DESCRIPTION:公历：2026年7月5日 星期日\n藏历火马年：五月二
+ 十\n藏历月名：作净月\n农历丙午年：五月廿一\n来源：20
+ 26（农历）藏历火马年月历.pdf
+TRANSP:TRANSPARENT
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+UID:tibetan-fish-android-20260706@tibetan-calendar.local
+DTSTAMP:20260921T042059Z
+DTSTART;VALUE=DATE:20260706
+DTEND;VALUE=DATE:20260707
+SUMMARY:廿一
+DESCRIPTION:公历：2026年7月6日 星期一\n藏历火马年：五月廿
+ 一\n藏历月名：作净月\n农历丙午年：五月廿二\n事项：\n
+ 地藏王菩萨节日\n作何善恶成亿倍\n来源：2026（农历）藏
+ 历火马年月历.pdf
+TRANSP:TRANSPARENT
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+UID:tibetan-fish-android-20260707@tibetan-calendar.local
+DTSTAMP:20260921T042059Z
+DTSTART;VALUE=DATE:20260707
+DTEND;VALUE=DATE:20260708
+SUMMARY:廿二
+DESCRIPTION:公历：2026年7月7日 星期二\n藏历火马年：五月廿
+ 二\n藏历月名：作净月\n农历丙午年：五月廿三\n事项：\n
+ 飞幡日\n小暑\n十斋日\n来源：2026（农历）藏历火马年月
+ 历.pdf
+TRANSP:TRANSPARENT
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+UID:tibetan-fish-android-20260708@tibetan-calendar.local
+DTSTAMP:20260921T042059Z
+DTSTART;VALUE=DATE:20260708
+DTEND;VALUE=DATE:20260709
+SUMMARY:廿三
+DESCRIPTION:公历：2026年7月8日 星期三\n藏历火马年：五月廿
+ 三\n藏历月名：作净月\n农历丙午年：五月廿四\n事项：\n
+ 尊者喇嘛仁波切圆寂纪念日\n来源：2026（农历）藏历火
+ 马年月历.pdf
+TRANSP:TRANSPARENT
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+UID:tibetan-fish-android-20260709@tibetan-calendar.local
+DTSTAMP:20260921T042059Z
+DTSTART;VALUE=DATE:20260709
+DTEND;VALUE=DATE:20260710
+SUMMARY:廿四
+DESCRIPTION:公历：2026年7月9日 星期四\n藏历火马年：五月廿
+ 四\n藏历月名：作净月\n农历丙午年：五月廿五\n来源：20
+ 26（农历）藏历火马年月历.pdf
+TRANSP:TRANSPARENT
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+UID:tibetan-fish-android-20260710@tibetan-calendar.local
+DTSTAMP:20260921T042059Z
+DTSTART;VALUE=DATE:20260710
+DTEND;VALUE=DATE:20260711
+SUMMARY:廿六
+DESCRIPTION:公历：2026年7月10日 星期五\n藏历火马年：五月
+ 廿六\n藏历月名：作净月\n农历丙午年：五月廿六\n藏历
+ 备注：前一日为缺日\n事项：\n理发吉日：增上安乐\n来
+ 源：2026（农历）藏历火马年月历.pdf
+TRANSP:TRANSPARENT
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+UID:tibetan-fish-android-20260711@tibetan-calendar.local
+DTSTAMP:20260921T042059Z
+DTSTART;VALUE=DATE:20260711
+DTEND;VALUE=DATE:20260712
+SUMMARY:廿七
+DESCRIPTION:公历：2026年7月11日 星期六\n藏历火马年：五月
+ 廿七\n藏历月名：作净月\n农历丙午年：五月廿七\n事项
+ ：\n理发吉日：诸事吉祥\n十斋日\n来源：2026（农历）藏
+ 历火马年月历.pdf
+TRANSP:TRANSPARENT
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+UID:tibetan-fish-android-20260712@tibetan-calendar.local
+DTSTAMP:20260921T042059Z
+DTSTART;VALUE=DATE:20260712
+DTEND;VALUE=DATE:20260713
+SUMMARY:廿八
+DESCRIPTION:公历：2026年7月12日 星期日\n藏历火马年：五月
+ 廿八\n藏历月名：作净月\n农历丙午年：五月廿八\n事项
+ ：\n十斋日\n来源：2026（农历）藏历火马年月历.pdf
+TRANSP:TRANSPARENT
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+UID:tibetan-fish-android-20260713@tibetan-calendar.local
+DTSTAMP:20260921T042059Z
+DTSTART;VALUE=DATE:20260713
+DTEND;VALUE=DATE:20260714
+SUMMARY:廿九
+DESCRIPTION:公历：2026年7月13日 星期一\n藏历火马年：五月
+ 廿九\n藏历月名：作净月\n农历丙午年：五月廿九\n事项
+ ：\n十斋日\n来源：2026（农历）藏历火马年月历.pdf
+TRANSP:TRANSPARENT
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+UID:tibetan-fish-android-20260714@tibetan-calendar.local
+DTSTAMP:20260921T042059Z
+DTSTART;VALUE=DATE:20260714
+DTEND;VALUE=DATE:20260715
+SUMMARY:三十 🐟
+DESCRIPTION:公历：2026年7月14日 星期二\n藏历火马年：五月
+ 三十\n藏历月名：作净月\n农历丙午年：六月初一\n事项
+ ：\n释迦牟尼佛节日\n作何善恶成九亿倍\n十斋日\n来源：
+ 2026（农历）藏历火马年月历.pdf
+TRANSP:TRANSPARENT
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+UID:tibetan-fish-android-20260715@tibetan-calendar.local
+DTSTAMP:20260921T042059Z
+DTSTART;VALUE=DATE:20260715
+DTEND;VALUE=DATE:20260716
+SUMMARY:初一 地藏法会
+DESCRIPTION:公历：2026年7月15日 星期三\n藏历火马年：六月
+ 初一\n藏历月名：明净月\n农历丙午年：六月初二\n事项
+ ：\n初伏\n禅定胜王佛节日\n作何善恶成百倍\n来源：2026
+ （农历）藏历火马年月历.pdf
+TRANSP:TRANSPARENT
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+UID:tibetan-fish-android-20260716@tibetan-calendar.local
+DTSTAMP:20260921T042059Z
+DTSTART;VALUE=DATE:20260716
+DTEND;VALUE=DATE:20260717
+SUMMARY:初二 地藏法会
+DESCRIPTION:公历：2026年7月16日 星期四\n藏历火马年：六月
+ 初二\n藏历月名：明净月\n农历丙午年：六月初三\n来源
+ ：2026（农历）藏历火马年月历.pdf
+TRANSP:TRANSPARENT
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+UID:tibetan-fish-android-20260717@tibetan-calendar.local
+DTSTAMP:20260921T042059Z
+DTSTART;VALUE=DATE:20260717
+DTEND;VALUE=DATE:20260718
+SUMMARY:初三 地藏法会
+DESCRIPTION:公历：2026年7月17日 星期五\n藏历火马年：六月
+ 初三\n藏历月名：明净月\n农历丙午年：六月初四\n事项
+ ：\n理发吉日：家族增长财富\n来源：2026（农历）藏历火
+ 马年月历.pdf
+TRANSP:TRANSPARENT
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+UID:tibetan-fish-android-20260718@tibetan-calendar.local
+DTSTAMP:20260921T042059Z
+DTSTART;VALUE=DATE:20260718
+DTEND;VALUE=DATE:20260719
+SUMMARY:初四 大藏经法会
+DESCRIPTION:公历：2026年7月18日 星期六\n藏历火马年：六月
+ 初四\n藏历月名：明净月\n农历丙午年：六月初五\n事项
+ ：\n释迦牟尼佛初转法轮日\n理发吉日：怀业增上，容光
+ 焕发\n来源：2026（农历）藏历火马年月历.pdf
+TRANSP:TRANSPARENT
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+UID:tibetan-fish-android-20260719@tibetan-calendar.local
+DTSTAMP:20260921T042059Z
+DTSTART;VALUE=DATE:20260719
+DTEND;VALUE=DATE:20260720
+SUMMARY:初五 大藏经法会
+DESCRIPTION:公历：2026年7月19日 星期日\n藏历火马年：六月
+ 初五\n藏历月名：明净月\n农历丙午年：六月初六\n事项
+ ：\n理发吉日：聚集广大财富\n来源：2026（农历）藏历火
+ 马年月历.pdf
+TRANSP:TRANSPARENT
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+UID:tibetan-fish-android-20260720@tibetan-calendar.local
+DTSTAMP:20260921T042059Z
+DTSTART;VALUE=DATE:20260720
+DTEND;VALUE=DATE:20260721
+SUMMARY:初六 大藏经法会
+DESCRIPTION:公历：2026年7月20日 星期一\n藏历火马年：六月
+ 初六\n藏历月名：明净月\n农历丙午年：六月初七\n来源
+ ：2026（农历）藏历火马年月历.pdf
+TRANSP:TRANSPARENT
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+UID:tibetan-fish-android-20260721@tibetan-calendar.local
+DTSTAMP:20260921T042059Z
+DTSTART;VALUE=DATE:20260721
+DTEND;VALUE=DATE:20260722
+SUMMARY:初七 大藏经法会
+DESCRIPTION:公历：2026年7月21日 星期二\n藏历火马年：六月
+ 初七\n藏历月名：明净月\n农历丙午年：六月初八\n事项
+ ：\n飞幡日\n十斋日\n来源：2026（农历）藏历火马年月历.
+ pdf
+TRANSP:TRANSPARENT
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+UID:tibetan-fish-android-20260722@tibetan-calendar.local
+DTSTAMP:20260921T042059Z
+DTSTART;VALUE=DATE:20260722
+DTEND;VALUE=DATE:20260723
+SUMMARY:初八 大藏经法会 🐟
+DESCRIPTION:公历：2026年7月22日 星期三\n藏历火马年：六月
+ 初八\n藏历月名：明净月\n农历丙午年：六月初九\n事项
+ ：\n药师佛节日\n作何善恶成千倍\n理发吉日：长寿\n来源
+ ：2026（农历）藏历火马年月历.pdf
+TRANSP:TRANSPARENT
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+UID:tibetan-fish-android-20260723@tibetan-calendar.local
+DTSTAMP:20260921T042059Z
+DTSTART;VALUE=DATE:20260723
+DTEND;VALUE=DATE:20260724
+SUMMARY:初九 大藏经法会
+DESCRIPTION:公历：2026年7月23日 星期四\n藏历火马年：六月
+ 初九\n藏历月名：明净月\n农历丙午年：六月初十\n事项
+ ：\n理发吉日：易遇佳人\n大暑\n来源：2026（农历）藏历
+ 火马年月历.pdf
+TRANSP:TRANSPARENT
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+UID:tibetan-fish-android-20260724@tibetan-calendar.local
+DTSTAMP:20260921T042059Z
+DTSTART;VALUE=DATE:20260724
+DTEND;VALUE=DATE:20260725
+SUMMARY:初十 大藏经法会 莲师荟供日
+DESCRIPTION:公历：2026年7月24日 星期五\n藏历火马年：六月
+ 初十\n藏历月名：明净月\n农历丙午年：六月十一\n事项
+ ：\n莲师诞生日\n莲师荟供日\n作何善恶成十万倍\n理发吉
+ 日：增上欢喜\n来源：2026（农历）藏历火马年月历.pdf
+TRANSP:TRANSPARENT
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+UID:tibetan-fish-android-20260725@tibetan-calendar.local
+DTSTAMP:20260921T042059Z
+DTSTART;VALUE=DATE:20260725
+DTEND;VALUE=DATE:20260726
+SUMMARY:十一 大藏经法会
+DESCRIPTION:公历：2026年7月25日 星期六\n藏历火马年：六月
+ 十一\n藏历月名：明净月\n农历丙午年：六月十二\n事项
+ ：\n理发吉日：增上智慧和世聪\n中伏\n来源：2026（农历
+ ）藏历火马年月历.pdf
+TRANSP:TRANSPARENT
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+UID:tibetan-fish-android-20260726@tibetan-calendar.local
+DTSTAMP:20260921T042059Z
+DTSTART;VALUE=DATE:20260726
+DTEND;VALUE=DATE:20260727
+SUMMARY:十二 大藏经法会
+DESCRIPTION:公历：2026年7月26日 星期日\n藏历火马年：六月
+ 十二\n藏历月名：明净月\n农历丙午年：六月十三\n来源
+ ：2026（农历）藏历火马年月历.pdf
+TRANSP:TRANSPARENT
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+UID:tibetan-fish-android-20260727@tibetan-calendar.local
+DTSTAMP:20260921T042059Z
+DTSTART;VALUE=DATE:20260727
+DTEND;VALUE=DATE:20260728
+SUMMARY:十三 大藏经法会
+DESCRIPTION:公历：2026年7月27日 星期一\n藏历火马年：六月
+ 十三\n藏历月名：明净月\n农历丙午年：六月十四\n事项
+ ：\n理发吉日：精进于佛法修持，最上\n十斋日\n来源：20
+ 26（农历）藏历火马年月历.pdf
+TRANSP:TRANSPARENT
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+UID:tibetan-fish-android-20260728@tibetan-calendar.local
+DTSTAMP:20260921T042059Z
+DTSTART;VALUE=DATE:20260728
+DTEND;VALUE=DATE:20260729
+SUMMARY:十四 大藏经法会
+DESCRIPTION:公历：2026年7月28日 星期二\n藏历火马年：六月
+ 十四\n藏历月名：明净月\n农历丙午年：六月十五\n事项
+ ：\n理发吉日：财物增多\n十斋日\n来源：2026（农历）藏
+ 历火马年月历.pdf
+TRANSP:TRANSPARENT
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+UID:tibetan-fish-android-20260729@tibetan-calendar.local
+DTSTAMP:20260921T042059Z
+DTSTART;VALUE=DATE:20260729
+DTEND;VALUE=DATE:20260730
+SUMMARY:十五 大藏经法会 🐟
+DESCRIPTION:公历：2026年7月29日 星期三\n藏历火马年：六月
+ 十五\n藏历月名：明净月\n农历丙午年：六月十六\n事项
+ ：\n释迦牟尼佛入胎日\n作何善恶成百万倍\n理发吉日：
+ 福报增上\n来源：2026（农历）藏历火马年月历.pdf
+TRANSP:TRANSPARENT
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+UID:tibetan-fish-android-20260730@tibetan-calendar.local
+DTSTAMP:20260921T042059Z
+DTSTART;VALUE=DATE:20260730
+DTEND;VALUE=DATE:20260731
+SUMMARY:十六 大藏经法会
+DESCRIPTION:公历：2026年7月30日 星期四\n藏历火马年：六月
+ 十六\n藏历月名：明净月\n农历丙午年：六月十七\n来源
+ ：2026（农历）藏历火马年月历.pdf
+TRANSP:TRANSPARENT
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+UID:tibetan-fish-android-20260731@tibetan-calendar.local
+DTSTAMP:20260921T042059Z
+DTSTART;VALUE=DATE:20260731
+DTEND;VALUE=DATE:20260801
+SUMMARY:十七 大藏经法会
+DESCRIPTION:公历：2026年7月31日 星期五\n藏历火马年：六月
+ 十七\n藏历月名：明净月\n农历丙午年：六月十八\n事项
+ ：\n十斋日\n来源：2026（农历）藏历火马年月历.pdf
+TRANSP:TRANSPARENT
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+UID:tibetan-fish-android-20260801@tibetan-calendar.local
+DTSTAMP:20260921T042059Z
+DTSTART;VALUE=DATE:20260801
+DTEND;VALUE=DATE:20260802
+SUMMARY:十八 大藏经法会
+DESCRIPTION:公历：2026年8月1日 星期六\n藏历火马年：六月十
+ 八\n藏历月名：明净月\n农历丙午年：六月十九\n事项：\n
+ 观音菩萨节日\n作何善恶成千万倍\n建军节\n来源：2026（
+ 农历）藏历火马年月历.pdf
+TRANSP:TRANSPARENT
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+UID:tibetan-fish-android-20260802@tibetan-calendar.local
+DTSTAMP:20260921T042059Z
+DTSTART;VALUE=DATE:20260802
+DTEND;VALUE=DATE:20260803
+SUMMARY:十九 大藏经法会
+DESCRIPTION:公历：2026年8月2日 星期日\n藏历火马年：六月十
+ 九\n藏历月名：明净月\n农历丙午年：六月二十\n事项：\n
+ 理发吉日：增胜善法\n来源：2026（农历）藏历火马年月
+ 历.pdf
+TRANSP:TRANSPARENT
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+UID:tibetan-fish-android-20260803@tibetan-calendar.local
+DTSTAMP:20260921T042059Z
+DTSTART;VALUE=DATE:20260803
+DTEND;VALUE=DATE:20260804
+SUMMARY:二十 大藏经法会
+DESCRIPTION:公历：2026年8月3日 星期一\n藏历火马年：六月二
+ 十\n藏历月名：明净月\n农历丙午年：六月廿一\n来源：20
+ 26（农历）藏历火马年月历.pdf
+TRANSP:TRANSPARENT
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+UID:tibetan-fish-android-20260804@tibetan-calendar.local
+DTSTAMP:20260921T042059Z
+DTSTART;VALUE=DATE:20260804
+DTEND;VALUE=DATE:20260805
+SUMMARY:廿一 大藏经法会
+DESCRIPTION:公历：2026年8月4日 星期二\n藏历火马年：六月廿
+ 一\n藏历月名：明净月\n农历丙午年：六月廿二\n事项：\n
+ 地藏王菩萨节日\n作何善恶成亿倍\n来源：2026（农历）藏
+ 历火马年月历.pdf
+TRANSP:TRANSPARENT
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+UID:tibetan-fish-android-20260805@tibetan-calendar.local
+DTSTAMP:20260921T042059Z
+DTSTART;VALUE=DATE:20260805
+DTEND;VALUE=DATE:20260806
+SUMMARY:廿二 大藏经法会
+DESCRIPTION:公历：2026年8月5日 星期三\n藏历火马年：六月廿
+ 二\n藏历月名：明净月\n农历丙午年：六月廿三\n事项：\n
+ 十斋日\n来源：2026（农历）藏历火马年月历.pdf
+TRANSP:TRANSPARENT
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+UID:tibetan-fish-android-20260806@tibetan-calendar.local
+DTSTAMP:20260921T042059Z
+DTSTART;VALUE=DATE:20260806
+DTEND;VALUE=DATE:20260807
+SUMMARY:廿三 大藏经法会
+DESCRIPTION:公历：2026年8月6日 星期四\n藏历火马年：六月廿
+ 三\n藏历月名：明净月\n农历丙午年：六月廿四\n事项：\n
+ 理发吉日：增上财富\n十斋日\n来源：2026（农历）藏历火
+ 马年月历.pdf
+TRANSP:TRANSPARENT
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+UID:tibetan-fish-android-20260807@tibetan-calendar.local
+DTSTAMP:20260921T042059Z
+DTSTART;VALUE=DATE:20260807
+DTEND;VALUE=DATE:20260808
+SUMMARY:廿四 大藏经法会
+DESCRIPTION:公历：2026年8月7日 星期五\n藏历火马年：六月廿
+ 四\n藏历月名：明净月\n农历丙午年：六月廿五\n事项：\n
+ 立秋\n来源：2026（农历）藏历火马年月历.pdf
+TRANSP:TRANSPARENT
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+UID:tibetan-fish-android-20260808@tibetan-calendar.local
+DTSTAMP:20260921T042059Z
+DTSTART;VALUE=DATE:20260808
+DTEND;VALUE=DATE:20260809
+SUMMARY:廿五 大藏经法会 空行母荟供日
+DESCRIPTION:公历：2026年8月8日 星期六\n藏历火马年：六月廿
+ 五\n藏历月名：明净月\n农历丙午年：六月廿六\n事项：\n
+ 空行母荟供日\n来源：2026（农历）藏历火马年月历.pdf
+TRANSP:TRANSPARENT
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+UID:tibetan-fish-android-20260809@tibetan-calendar.local
+DTSTAMP:20260921T042059Z
+DTSTART;VALUE=DATE:20260809
+DTEND;VALUE=DATE:20260810
+SUMMARY:廿六 大藏经法会
+DESCRIPTION:公历：2026年8月9日 星期日\n藏历火马年：六月廿
+ 六\n藏历月名：明净月\n农历丙午年：六月廿七\n事项：\n
+ 理发吉日：增上安乐\n十斋日\n来源：2026（农历）藏历火
+ 马年月历.pdf
+TRANSP:TRANSPARENT
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+UID:tibetan-fish-android-20260810@tibetan-calendar.local
+DTSTAMP:20260921T042059Z
+DTSTART;VALUE=DATE:20260810
+DTEND;VALUE=DATE:20260811
+SUMMARY:廿七 大藏经法会
+DESCRIPTION:公历：2026年8月10日 星期一\n藏历火马年：六月
+ 廿七\n藏历月名：明净月\n农历丙午年：六月廿八\n事项
+ ：\n理发吉日：诸事吉祥\n十斋日\n来源：2026（农历）藏
+ 历火马年月历.pdf
+TRANSP:TRANSPARENT
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+UID:tibetan-fish-android-20260811@tibetan-calendar.local
+DTSTAMP:20260921T042059Z
+DTSTART;VALUE=DATE:20260811
+DTEND;VALUE=DATE:20260812
+SUMMARY:廿九 大藏经法会
+DESCRIPTION:公历：2026年8月11日 星期二\n藏历火马年：六月
+ 廿九\n藏历月名：明净月\n农历丙午年：六月廿九\n藏历
+ 备注：前一日为缺日\n事项：\n十斋日\n来源：2026（农历
+ ）藏历火马年月历.pdf
+TRANSP:TRANSPARENT
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+UID:tibetan-fish-android-20260812@tibetan-calendar.local
+DTSTAMP:20260921T042059Z
+DTSTART;VALUE=DATE:20260812
+DTEND;VALUE=DATE:20260813
+SUMMARY:三十 大藏经法会 🐟
+DESCRIPTION:公历：2026年8月12日 星期三\n藏历火马年：六月
+ 三十\n藏历月名：明净月\n农历丙午年：六月三十\n事项
+ ：\n释迦牟尼佛节日\n十斋日\n作何善恶成九亿倍\n来源：
+ 2026（农历）藏历火马年月历.pdf
+TRANSP:TRANSPARENT
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+UID:tibetan-fish-android-20260813@tibetan-calendar.local
+DTSTAMP:20260921T042059Z
+DTSTART;VALUE=DATE:20260813
+DTEND;VALUE=DATE:20260814
+SUMMARY:初一 大藏经法会
+DESCRIPTION:公历：2026年8月13日 星期四\n藏历火马年：七月
+ 初一\n藏历月名：具醉月\n农历丙午年：七月初一\n事项
+ ：\n禅定胜王佛节日\n作何善恶成百倍\n十斋日\n来源：202
+ 6（农历）藏历火马年月历.pdf
+TRANSP:TRANSPARENT
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+UID:tibetan-fish-android-20260814@tibetan-calendar.local
+DTSTAMP:20260921T042059Z
+DTSTART;VALUE=DATE:20260814
+DTEND;VALUE=DATE:20260815
+SUMMARY:初二 大藏经法会
+DESCRIPTION:公历：2026年8月14日 星期五\n藏历火马年：七月
+ 初二\n藏历月名：具醉月\n农历丙午年：七月初二\n事项
+ ：\n末伏\n来源：2026（农历）藏历火马年月历.pdf
+TRANSP:TRANSPARENT
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+UID:tibetan-fish-android-20260815@tibetan-calendar.local
+DTSTAMP:20260921T042059Z
+DTSTART;VALUE=DATE:20260815
+DTEND;VALUE=DATE:20260816
+SUMMARY:初三 大藏经法会
+DESCRIPTION:公历：2026年8月15日 星期六\n藏历火马年：七月
+ 初三\n藏历月名：具醉月\n农历丙午年：七月初三\n事项
+ ：\n理发吉日：家族增长财富\n来源：2026（农历）藏历火
+ 马年月历.pdf
+TRANSP:TRANSPARENT
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+UID:tibetan-fish-android-20260816@tibetan-calendar.local
+DTSTAMP:20260921T042059Z
+DTSTART;VALUE=DATE:20260816
+DTEND;VALUE=DATE:20260817
+SUMMARY:初四
+DESCRIPTION:公历：2026年8月16日 星期日\n藏历火马年：七月
+ 初四\n藏历月名：具醉月\n农历丙午年：七月初四\n事项
+ ：\n理发吉日：怀业增上，容光焕发\n来源：2026（农历）
+ 藏历火马年月历.pdf
+TRANSP:TRANSPARENT
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+UID:tibetan-fish-android-20260817@tibetan-calendar.local
+DTSTAMP:20260921T042059Z
+DTSTART;VALUE=DATE:20260817
+DTEND;VALUE=DATE:20260818
+SUMMARY:初五
+DESCRIPTION:公历：2026年8月17日 星期一\n藏历火马年：七月
+ 初五\n藏历月名：具醉月\n农历丙午年：七月初五\n事项
+ ：\n理发吉日：聚集广大财富\n来源：2026（农历）藏历火
+ 马年月历.pdf
+TRANSP:TRANSPARENT
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+UID:tibetan-fish-android-20260818@tibetan-calendar.local
+DTSTAMP:20260921T042059Z
+DTSTART;VALUE=DATE:20260818
+DTEND;VALUE=DATE:20260819
+SUMMARY:初六
+DESCRIPTION:公历：2026年8月18日 星期二\n藏历火马年：七月
+ 初六\n藏历月名：具醉月\n农历丙午年：七月初六\n来源
+ ：2026（农历）藏历火马年月历.pdf
+TRANSP:TRANSPARENT
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+UID:tibetan-fish-android-20260819@tibetan-calendar.local
+DTSTAMP:20260921T042059Z
+DTSTART;VALUE=DATE:20260819
+DTEND;VALUE=DATE:20260820
+SUMMARY:初七
+DESCRIPTION:公历：2026年8月19日 星期三\n藏历火马年：七月
+ 初七\n藏历月名：具醉月\n农历丙午年：七月初七\n事项
+ ：\n七夕节\n来源：2026（农历）藏历火马年月历.pdf
+TRANSP:TRANSPARENT
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+UID:tibetan-fish-android-20260820@tibetan-calendar.local
+DTSTAMP:20260921T042059Z
+DTSTART;VALUE=DATE:20260820
+DTEND;VALUE=DATE:20260821
+SUMMARY:初八 大恩上师诞辰 🐟
+DESCRIPTION:公历：2026年8月20日 星期四\n藏历火马年：七月
+ 初八\n藏历月名：具醉月\n农历丙午年：七月初八\n事项
+ ：\n药师佛节日\n十斋日\n作何善恶成千倍\n理发吉日：长
+ 寿\n来源：2026（农历）藏历火马年月历.pdf
+TRANSP:TRANSPARENT
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+UID:tibetan-fish-android-20260821@tibetan-calendar.local
+DTSTAMP:20260921T042059Z
+DTSTART;VALUE=DATE:20260821
+DTEND;VALUE=DATE:20260822
+SUMMARY:初九
+DESCRIPTION:公历：2026年8月21日 星期五\n藏历火马年：七月
+ 初九\n藏历月名：具醉月\n农历丙午年：七月初九\n事项
+ ：\n理发吉日：易遇佳人\n来源：2026（农历）藏历火马年
+ 月历.pdf
+TRANSP:TRANSPARENT
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+UID:tibetan-fish-android-20260822@tibetan-calendar.local
+DTSTAMP:20260921T042059Z
+DTSTART;VALUE=DATE:20260822
+DTEND;VALUE=DATE:20260823
+SUMMARY:初十 莲师荟供日
+DESCRIPTION:公历：2026年8月22日 星期六\n藏历火马年：七月
+ 初十\n藏历月名：具醉月\n农历丙午年：七月初十\n事项
+ ：\n莲师荟供日\n作何善恶成十万倍\n理发吉日：增上欢
+ 喜\n来源：2026（农历）藏历火马年月历.pdf
+TRANSP:TRANSPARENT
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+UID:tibetan-fish-android-20260823@tibetan-calendar.local
+DTSTAMP:20260921T042059Z
+DTSTART;VALUE=DATE:20260823
+DTEND;VALUE=DATE:20260824
+SUMMARY:十一
+DESCRIPTION:公历：2026年8月23日 星期日\n藏历火马年：七月
+ 十一\n藏历月名：具醉月\n农历丙午年：七月十一\n事项
+ ：\n理发吉日：增上智慧和世聪\n处暑\n来源：2026（农历
+ ）藏历火马年月历.pdf
+TRANSP:TRANSPARENT
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+UID:tibetan-fish-android-20260824@tibetan-calendar.local
+DTSTAMP:20260921T042059Z
+DTSTART;VALUE=DATE:20260824
+DTEND;VALUE=DATE:20260825
+SUMMARY:十二
+DESCRIPTION:公历：2026年8月24日 星期一\n藏历火马年：七月
+ 十二\n藏历月名：具醉月\n农历丙午年：七月十二\n事项
+ ：\n出伏\n来源：2026（农历）藏历火马年月历.pdf
+TRANSP:TRANSPARENT
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+UID:tibetan-fish-android-20260825@tibetan-calendar.local
+DTSTAMP:20260921T042059Z
+DTSTART;VALUE=DATE:20260825
+DTEND;VALUE=DATE:20260826
+SUMMARY:十三
+DESCRIPTION:公历：2026年8月25日 星期二\n藏历火马年：七月
+ 十三\n藏历月名：具醉月\n农历丙午年：七月十三\n事项
+ ：\n理发吉日：精进于佛法修持，最上\n来源：2026（农历
+ ）藏历火马年月历.pdf
+TRANSP:TRANSPARENT
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+UID:tibetan-fish-android-20260826@tibetan-calendar.local
+DTSTAMP:20260921T042059Z
+DTSTART;VALUE=DATE:20260826
+DTEND;VALUE=DATE:20260827
+SUMMARY:十四
+DESCRIPTION:公历：2026年8月26日 星期三\n藏历火马年：七月
+ 十四\n藏历月名：具醉月\n农历丙午年：七月十四\n事项
+ ：\n理发吉日：财物增多\n十斋日\n来源：2026（农历）藏
+ 历火马年月历.pdf
+TRANSP:TRANSPARENT
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+UID:tibetan-fish-android-20260827@tibetan-calendar.local
+DTSTAMP:20260921T042059Z
+DTSTART;VALUE=DATE:20260827
+DTEND;VALUE=DATE:20260828
+SUMMARY:闰十四
+DESCRIPTION:公历：2026年8月27日 星期四\n藏历火马年：七月
+ 闰十四\n藏历月名：具醉月\n农历丙午年：七月十五\n事
+ 项：\n理发吉日：财物增多\n十斋日\n盂兰盆节\n来源：202
+ 6（农历）藏历火马年月历.pdf
+TRANSP:TRANSPARENT
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+UID:tibetan-fish-android-20260828@tibetan-calendar.local
+DTSTAMP:20260921T042059Z
+DTSTART;VALUE=DATE:20260828
+DTEND;VALUE=DATE:20260829
+SUMMARY:十五 🐟
+DESCRIPTION:公历：2026年8月28日 星期五\n藏历火马年：七月
+ 十五\n藏历月名：具醉月\n农历丙午年：七月十六\n事项
+ ：\n阿弥陀佛节日\n作何善恶成百万倍\n理发吉日：福报
+ 增上\n来源：2026（农历）藏历火马年月历.pdf
+TRANSP:TRANSPARENT
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+UID:tibetan-fish-android-20260829@tibetan-calendar.local
+DTSTAMP:20260921T042059Z
+DTSTART;VALUE=DATE:20260829
+DTEND;VALUE=DATE:20260830
+SUMMARY:十六
+DESCRIPTION:公历：2026年8月29日 星期六\n藏历火马年：七月
+ 十六\n藏历月名：具醉月\n农历丙午年：七月十七\n来源
+ ：2026（农历）藏历火马年月历.pdf
+TRANSP:TRANSPARENT
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+UID:tibetan-fish-android-20260830@tibetan-calendar.local
+DTSTAMP:20260921T042059Z
+DTSTART;VALUE=DATE:20260830
+DTEND;VALUE=DATE:20260831
+SUMMARY:十七
+DESCRIPTION:公历：2026年8月30日 星期日\n藏历火马年：七月
+ 十七\n藏历月名：具醉月\n农历丙午年：七月十八\n事项
+ ：\n十斋日\n来源：2026（农历）藏历火马年月历.pdf
+TRANSP:TRANSPARENT
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+UID:tibetan-fish-android-20260831@tibetan-calendar.local
+DTSTAMP:20260921T042059Z
+DTSTART;VALUE=DATE:20260831
+DTEND;VALUE=DATE:20260901
+SUMMARY:十八
+DESCRIPTION:公历：2026年8月31日 星期一\n藏历火马年：七月
+ 十八\n藏历月名：具醉月\n农历丙午年：七月十九\n事项
+ ：\n观音菩萨节日\n作何善恶成千万倍\n来源：2026（农历
+ ）藏历火马年月历.pdf
+TRANSP:TRANSPARENT
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+UID:tibetan-fish-android-20260901@tibetan-calendar.local
+DTSTAMP:20260921T042059Z
+DTSTART;VALUE=DATE:20260901
+DTEND;VALUE=DATE:20260902
+SUMMARY:十九
+DESCRIPTION:公历：2026年9月1日 星期二\n藏历火马年：七月十
+ 九\n藏历月名：具醉月\n农历丙午年：七月二十\n事项：\n
+ 理发吉日：增胜善法\n来源：2026（农历）藏历火马年月
+ 历.pdf
+TRANSP:TRANSPARENT
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+UID:tibetan-fish-android-20260902@tibetan-calendar.local
+DTSTAMP:20260921T042059Z
+DTSTART;VALUE=DATE:20260902
+DTEND;VALUE=DATE:20260903
+SUMMARY:廿一
+DESCRIPTION:公历：2026年9月2日 星期三\n藏历火马年：七月廿
+ 一\n藏历月名：具醉月\n农历丙午年：七月廿一\n藏历备
+ 注：前一日为缺日\n事项：\n地藏王菩萨节日\n作何善恶
+ 成亿倍\n来源：2026（农历）藏历火马年月历.pdf
+TRANSP:TRANSPARENT
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+UID:tibetan-fish-android-20260903@tibetan-calendar.local
+DTSTAMP:20260921T042059Z
+DTSTART;VALUE=DATE:20260903
+DTEND;VALUE=DATE:20260904
+SUMMARY:廿二
+DESCRIPTION:公历：2026年9月3日 星期四\n藏历火马年：七月廿
+ 二\n藏历月名：具醉月\n农历丙午年：七月廿二\n来源：20
+ 26（农历）藏历火马年月历.pdf
+TRANSP:TRANSPARENT
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+UID:tibetan-fish-android-20260904@tibetan-calendar.local
+DTSTAMP:20260921T042059Z
+DTSTART;VALUE=DATE:20260904
+DTEND;VALUE=DATE:20260905
+SUMMARY:廿三
+DESCRIPTION:公历：2026年9月4日 星期五\n藏历火马年：七月廿
+ 三\n藏历月名：具醉月\n农历丙午年：七月廿三\n事项：\n
+ 理发吉日：增上财富\n十斋日\n来源：2026（农历）藏历火
+ 马年月历.pdf
+TRANSP:TRANSPARENT
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+UID:tibetan-fish-android-20260905@tibetan-calendar.local
+DTSTAMP:20260921T042059Z
+DTSTART;VALUE=DATE:20260905
+DTEND;VALUE=DATE:20260906
+SUMMARY:廿四
+DESCRIPTION:公历：2026年9月5日 星期六\n藏历火马年：七月廿
+ 四\n藏历月名：具醉月\n农历丙午年：七月廿四\n事项：\n
+ 十斋日\n来源：2026（农历）藏历火马年月历.pdf
+TRANSP:TRANSPARENT
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+UID:tibetan-fish-android-20260906@tibetan-calendar.local
+DTSTAMP:20260921T042059Z
+DTSTART;VALUE=DATE:20260906
+DTEND;VALUE=DATE:20260907
+SUMMARY:廿五 空行母荟供日
+DESCRIPTION:公历：2026年9月6日 星期日\n藏历火马年：七月廿
+ 五\n藏历月名：具醉月\n农历丙午年：七月廿五\n事项：\n
+ 空行母荟供日\n来源：2026（农历）藏历火马年月历.pdf
+TRANSP:TRANSPARENT
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+UID:tibetan-fish-android-20260907@tibetan-calendar.local
+DTSTAMP:20260921T042059Z
+DTSTART;VALUE=DATE:20260907
+DTEND;VALUE=DATE:20260908
+SUMMARY:廿六
+DESCRIPTION:公历：2026年9月7日 星期一\n藏历火马年：七月廿
+ 六\n藏历月名：具醉月\n农历丙午年：七月廿六\n事项：\n
+ 理发吉日：增上安乐\n白露\n来源：2026（农历）藏历火马
+ 年月历.pdf
+TRANSP:TRANSPARENT
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+UID:tibetan-fish-android-20260908@tibetan-calendar.local
+DTSTAMP:20260921T042059Z
+DTSTART;VALUE=DATE:20260908
+DTEND;VALUE=DATE:20260909
+SUMMARY:廿七
+DESCRIPTION:公历：2026年9月8日 星期二\n藏历火马年：七月廿
+ 七\n藏历月名：具醉月\n农历丙午年：七月廿七\n事项：\n
+ 理发吉日：诸事吉祥\n十斋日\n来源：2026（农历）藏历火
+ 马年月历.pdf
+TRANSP:TRANSPARENT
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+UID:tibetan-fish-android-20260909@tibetan-calendar.local
+DTSTAMP:20260921T042059Z
+DTSTART;VALUE=DATE:20260909
+DTEND;VALUE=DATE:20260910
+SUMMARY:廿八
+DESCRIPTION:公历：2026年9月9日 星期三\n藏历火马年：七月廿
+ 八\n藏历月名：具醉月\n农历丙午年：七月廿八\n事项：\n
+ 十斋日\n来源：2026（农历）藏历火马年月历.pdf
+TRANSP:TRANSPARENT
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+UID:tibetan-fish-android-20260910@tibetan-calendar.local
+DTSTAMP:20260921T042059Z
+DTSTART;VALUE=DATE:20260910
+DTEND;VALUE=DATE:20260911
+SUMMARY:廿九
+DESCRIPTION:公历：2026年9月10日 星期四\n藏历火马年：七月
+ 廿九\n藏历月名：具醉月\n农历丙午年：七月廿九\n事项
+ ：\n十斋日\n教师节\n来源：2026（农历）藏历火马年月历.
+ pdf
+TRANSP:TRANSPARENT
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+UID:tibetan-fish-android-20260911@tibetan-calendar.local
+DTSTAMP:20260921T042059Z
+DTSTART;VALUE=DATE:20260911
+DTEND;VALUE=DATE:20260912
+SUMMARY:三十 🐟
+DESCRIPTION:公历：2026年9月11日 星期五\n藏历火马年：七月
+ 三十\n藏历月名：具醉月\n农历丙午年：八月初一\n事项
+ ：\n释迦牟尼佛节日\n作何善恶成九亿倍\n十斋日\n来源：
+ 2026（农历）藏历火马年月历.pdf
+TRANSP:TRANSPARENT
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+UID:tibetan-fish-android-20260912@tibetan-calendar.local
+DTSTAMP:20260921T042059Z
+DTSTART;VALUE=DATE:20260912
+DTEND;VALUE=DATE:20260913
+SUMMARY:初一
+DESCRIPTION:公历：2026年9月12日 星期六\n藏历火马年：八月
+ 初一\n藏历月名：具贤月\n农历丙午年：八月初二\n事项
+ ：\n禅定胜王佛节日\n作何善恶成百倍\n飞幡日\n来源：202
+ 6（农历）藏历火马年月历.pdf
+TRANSP:TRANSPARENT
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+UID:tibetan-fish-android-20260913@tibetan-calendar.local
+DTSTAMP:20260921T042059Z
+DTSTART;VALUE=DATE:20260913
+DTEND;VALUE=DATE:20260914
+SUMMARY:初二
+DESCRIPTION:公历：2026年9月13日 星期日\n藏历火马年：八月
+ 初二\n藏历月名：具贤月\n农历丙午年：八月初三\n来源
+ ：2026（农历）藏历火马年月历.pdf
+TRANSP:TRANSPARENT
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+UID:tibetan-fish-android-20260914@tibetan-calendar.local
+DTSTAMP:20260921T042059Z
+DTSTART;VALUE=DATE:20260914
+DTEND;VALUE=DATE:20260915
+SUMMARY:初三
+DESCRIPTION:公历：2026年9月14日 星期一\n藏历火马年：八月
+ 初三\n藏历月名：具贤月\n农历丙午年：八月初四\n事项
+ ：\n理发吉日：家族增长财富\n十斋日\n来源：2026（农历
+ ）藏历火马年月历.pdf
+TRANSP:TRANSPARENT
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+UID:tibetan-fish-android-20260915@tibetan-calendar.local
+DTSTAMP:20260921T042059Z
+DTSTART;VALUE=DATE:20260915
+DTEND;VALUE=DATE:20260916
+SUMMARY:初四
+DESCRIPTION:公历：2026年9月15日 星期二\n藏历火马年：八月
+ 初四\n藏历月名：具贤月\n农历丙午年：八月初五\n事项
+ ：\n理发吉日：怀业增上，容光焕发\n来源：2026（农历）
+ 藏历火马年月历.pdf
+TRANSP:TRANSPARENT
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+UID:tibetan-fish-android-20260916@tibetan-calendar.local
+DTSTAMP:20260921T042059Z
+DTSTART;VALUE=DATE:20260916
+DTEND;VALUE=DATE:20260917
+SUMMARY:初五
+DESCRIPTION:公历：2026年9月16日 星期三\n藏历火马年：八月
+ 初五\n藏历月名：具贤月\n农历丙午年：八月初六\n事项
+ ：\n理发吉日：聚集广大财富\n来源：2026（农历）藏历火
+ 马年月历.pdf
+TRANSP:TRANSPARENT
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+UID:tibetan-fish-android-20260917@tibetan-calendar.local
+DTSTAMP:20260921T042059Z
+DTSTART;VALUE=DATE:20260917
+DTEND;VALUE=DATE:20260918
+SUMMARY:初六
+DESCRIPTION:公历：2026年9月17日 星期四\n藏历火马年：八月
+ 初六\n藏历月名：具贤月\n农历丙午年：八月初七\n来源
+ ：2026（农历）藏历火马年月历.pdf
+TRANSP:TRANSPARENT
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+UID:tibetan-fish-android-20260918@tibetan-calendar.local
+DTSTAMP:20260921T042059Z
+DTSTART;VALUE=DATE:20260918
+DTEND;VALUE=DATE:20260919
+SUMMARY:初七
+DESCRIPTION:公历：2026年9月18日 星期五\n藏历火马年：八月
+ 初七\n藏历月名：具贤月\n农历丙午年：八月初八\n事项
+ ：\n十斋日\n来源：2026（农历）藏历火马年月历.pdf
+TRANSP:TRANSPARENT
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+UID:tibetan-fish-android-20260919@tibetan-calendar.local
+DTSTAMP:20260921T042059Z
+DTSTART;VALUE=DATE:20260919
+DTEND;VALUE=DATE:20260920
+SUMMARY:初八 🐟
+DESCRIPTION:公历：2026年9月19日 星期六\n藏历火马年：八月
+ 初八\n藏历月名：具贤月\n农历丙午年：八月初九\n事项
+ ：\n药师佛节日\n作何善恶成千倍\n理发吉日：长寿\n来源
+ ：2026（农历）藏历火马年月历.pdf
+TRANSP:TRANSPARENT
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+UID:tibetan-fish-android-20260920@tibetan-calendar.local
+DTSTAMP:20260921T042059Z
+DTSTART;VALUE=DATE:20260920
+DTEND;VALUE=DATE:20260921
+SUMMARY:初九
+DESCRIPTION:公历：2026年9月20日 星期日\n藏历火马年：八月
+ 初九\n藏历月名：具贤月\n农历丙午年：八月初十\n事项
+ ：\n理发吉日：易遇佳人\n来源：2026（农历）藏历火马年
+ 月历.pdf
+TRANSP:TRANSPARENT
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+UID:tibetan-fish-android-20260921@tibetan-calendar.local
+DTSTAMP:20260921T042059Z
+DTSTART;VALUE=DATE:20260921
+DTEND;VALUE=DATE:20260922
+SUMMARY:初十 莲师荟供日
+DESCRIPTION:公历：2026年9月21日 星期一\n藏历火马年：八月
+ 初十\n藏历月名：具贤月\n农历丙午年：八月十一\n事项
+ ：\n莲师荟供日\n作何善恶成十万倍\n理发吉日：增上欢
+ 喜\n来源：2026（农历）藏历火马年月历.pdf
+TRANSP:TRANSPARENT
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+UID:tibetan-fish-android-20260922@tibetan-calendar.local
+DTSTAMP:20260921T042059Z
+DTSTART;VALUE=DATE:20260922
+DTEND;VALUE=DATE:20260923
+SUMMARY:十一
+DESCRIPTION:公历：2026年9月22日 星期二\n藏历火马年：八月
+ 十一\n藏历月名：具贤月\n农历丙午年：八月十二\n事项
+ ：\n理发吉日：增上智慧和世聪\n来源：2026（农历）藏历
+ 火马年月历.pdf
+TRANSP:TRANSPARENT
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+UID:tibetan-fish-android-20260923@tibetan-calendar.local
+DTSTAMP:20260921T042059Z
+DTSTART;VALUE=DATE:20260923
+DTEND;VALUE=DATE:20260924
+SUMMARY:十二
+DESCRIPTION:公历：2026年9月23日 星期三\n藏历火马年：八月
+ 十二\n藏历月名：具贤月\n农历丙午年：八月十三\n事项
+ ：\n秋分\n来源：2026（农历）藏历火马年月历.pdf
+TRANSP:TRANSPARENT
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+UID:tibetan-fish-android-20260924@tibetan-calendar.local
+DTSTAMP:20260921T042059Z
+DTSTART;VALUE=DATE:20260924
+DTEND;VALUE=DATE:20260925
+SUMMARY:十三
+DESCRIPTION:公历：2026年9月24日 星期四\n藏历火马年：八月
+ 十三\n藏历月名：具贤月\n农历丙午年：八月十四\n事项
+ ：\n理发吉日：精进于佛法修持，最上\n十斋日\n飞幡日\n
+ 来源：2026（农历）藏历火马年月历.pdf
+TRANSP:TRANSPARENT
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+UID:tibetan-fish-android-20260925@tibetan-calendar.local
+DTSTAMP:20260921T042059Z
+DTSTART;VALUE=DATE:20260925
+DTEND;VALUE=DATE:20260926
+SUMMARY:十四
+DESCRIPTION:公历：2026年9月25日 星期五\n藏历火马年：八月
+ 十四\n藏历月名：具贤月\n农历丙午年：八月十五\n事项
+ ：\n理发吉日：财物增多\n中秋节\n十斋日\n来源：2026（
+ 农历）藏历火马年月历.pdf
+TRANSP:TRANSPARENT
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+UID:tibetan-fish-android-20260926@tibetan-calendar.local
+DTSTAMP:20260921T042059Z
+DTSTART;VALUE=DATE:20260926
+DTEND;VALUE=DATE:20260927
+SUMMARY:十五 🐟
+DESCRIPTION:公历：2026年9月26日 星期六\n藏历火马年：八月
+ 十五\n藏历月名：具贤月\n农历丙午年：八月十六\n事项
+ ：\n阿弥陀佛节日\n作何善恶成百万倍\n理发吉日：福报
+ 增上\n来源：2026（农历）藏历火马年月历.pdf
+TRANSP:TRANSPARENT
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+UID:tibetan-fish-android-20260927@tibetan-calendar.local
+DTSTAMP:20260921T042059Z
+DTSTART;VALUE=DATE:20260927
+DTEND;VALUE=DATE:20260928
+SUMMARY:十六
+DESCRIPTION:公历：2026年9月27日 星期日\n藏历火马年：八月
+ 十六\n藏历月名：具贤月\n农历丙午年：八月十七\n来源
+ ：2026（农历）藏历火马年月历.pdf
+TRANSP:TRANSPARENT
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+UID:tibetan-fish-android-20260928@tibetan-calendar.local
+DTSTAMP:20260921T042059Z
+DTSTART;VALUE=DATE:20260928
+DTEND;VALUE=DATE:20260929
+SUMMARY:十七
+DESCRIPTION:公历：2026年9月28日 星期一\n藏历火马年：八月
+ 十七\n藏历月名：具贤月\n农历丙午年：八月十八\n事项
+ ：\n十斋日\n来源：2026（农历）藏历火马年月历.pdf
+TRANSP:TRANSPARENT
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+UID:tibetan-fish-android-20260929@tibetan-calendar.local
+DTSTAMP:20260921T042059Z
+DTSTART;VALUE=DATE:20260929
+DTEND;VALUE=DATE:20260930
+SUMMARY:十八
+DESCRIPTION:公历：2026年9月29日 星期二\n藏历火马年：八月
+ 十八\n藏历月名：具贤月\n农历丙午年：八月十九\n事项
+ ：\n观音菩萨节日\n作何善恶成千万倍\n来源：2026（农历
+ ）藏历火马年月历.pdf
+TRANSP:TRANSPARENT
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+UID:tibetan-fish-android-20260930@tibetan-calendar.local
+DTSTAMP:20260921T042059Z
+DTSTART;VALUE=DATE:20260930
+DTEND;VALUE=DATE:20261001
+SUMMARY:十九
+DESCRIPTION:公历：2026年9月30日 星期三\n藏历火马年：八月
+ 十九\n藏历月名：具贤月\n农历丙午年：八月二十\n事项
+ ：\n理发吉日：增胜善法\n来源：2026（农历）藏历火马年
+ 月历.pdf
+TRANSP:TRANSPARENT
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+UID:tibetan-fish-android-20261001@tibetan-calendar.local
+DTSTAMP:20260921T042059Z
+DTSTART;VALUE=DATE:20261001
+DTEND;VALUE=DATE:20261002
+SUMMARY:二十
+DESCRIPTION:公历：2026年10月1日 星期四\n藏历火马年：八月
+ 二十\n藏历月名：具贤月\n农历丙午年：八月廿一\n事项
+ ：\n国庆节\n来源：2026（农历）藏历火马年月历.pdf
+TRANSP:TRANSPARENT
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+UID:tibetan-fish-android-20261002@tibetan-calendar.local
+DTSTAMP:20260921T042059Z
+DTSTART;VALUE=DATE:20261002
+DTEND;VALUE=DATE:20261003
+SUMMARY:廿一
+DESCRIPTION:公历：2026年10月2日 星期五\n藏历火马年：八月
+ 廿一\n藏历月名：具贤月\n农历丙午年：八月廿二\n事项
+ ：\n地藏王菩萨节日\n作何善恶成亿倍\n来源：2026（农历
+ ）藏历火马年月历.pdf
+TRANSP:TRANSPARENT
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+UID:tibetan-fish-android-20261003@tibetan-calendar.local
+DTSTAMP:20260921T042059Z
+DTSTART;VALUE=DATE:20261003
+DTEND;VALUE=DATE:20261004
+SUMMARY:廿二
+DESCRIPTION:公历：2026年10月3日 星期六\n藏历火马年：八月
+ 廿二\n藏历月名：具贤月\n农历丙午年：八月廿三\n事项
+ ：\n十斋日\n来源：2026（农历）藏历火马年月历.pdf
+TRANSP:TRANSPARENT
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+UID:tibetan-fish-android-20261004@tibetan-calendar.local
+DTSTAMP:20260921T042059Z
+DTSTART;VALUE=DATE:20261004
+DTEND;VALUE=DATE:20261005
+SUMMARY:廿三
+DESCRIPTION:公历：2026年10月4日 星期日\n藏历火马年：八月
+ 廿三\n藏历月名：具贤月\n农历丙午年：八月廿四\n事项
+ ：\n理发吉日：增上财富\n十斋日\n来源：2026（农历）藏
+ 历火马年月历.pdf
+TRANSP:TRANSPARENT
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+UID:tibetan-fish-android-20261005@tibetan-calendar.local
+DTSTAMP:20260921T042059Z
+DTSTART;VALUE=DATE:20261005
+DTEND;VALUE=DATE:20261006
+SUMMARY:廿五 嘎瓦上师诞辰 空行母荟供日
+DESCRIPTION:公历：2026年10月5日 星期一\n藏历火马年：八月
+ 廿五\n藏历月名：具贤月\n农历丙午年：八月廿五\n藏历
+ 备注：前一日为缺日\n事项：\n空行母荟供日\n来源：2026
+ （农历）藏历火马年月历.pdf
+TRANSP:TRANSPARENT
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+UID:tibetan-fish-android-20261006@tibetan-calendar.local
+DTSTAMP:20260921T042059Z
+DTSTART;VALUE=DATE:20261006
+DTEND;VALUE=DATE:20261007
+SUMMARY:廿六
+DESCRIPTION:公历：2026年10月6日 星期二\n藏历火马年：八月
+ 廿六\n藏历月名：具贤月\n农历丙午年：八月廿六\n事项
+ ：\n理发吉日：增上安乐\n来源：2026（农历）藏历火马年
+ 月历.pdf
+TRANSP:TRANSPARENT
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+UID:tibetan-fish-android-20261007@tibetan-calendar.local
+DTSTAMP:20260921T042059Z
+DTSTART;VALUE=DATE:20261007
+DTEND;VALUE=DATE:20261008
+SUMMARY:廿七
+DESCRIPTION:公历：2026年10月7日 星期三\n藏历火马年：八月
+ 廿七\n藏历月名：具贤月\n农历丙午年：八月廿七\n事项
+ ：\n理发吉日：诸事吉祥\n十斋日\n来源：2026（农历）藏
+ 历火马年月历.pdf
+TRANSP:TRANSPARENT
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+UID:tibetan-fish-android-20261008@tibetan-calendar.local
+DTSTAMP:20260921T042059Z
+DTSTART;VALUE=DATE:20261008
+DTEND;VALUE=DATE:20261009
+SUMMARY:廿八
+DESCRIPTION:公历：2026年10月8日 星期四\n藏历火马年：八月
+ 廿八\n藏历月名：具贤月\n农历丙午年：八月廿八\n事项
+ ：\n寒露\n十斋日\n来源：2026（农历）藏历火马年月历.pdf
+TRANSP:TRANSPARENT
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+UID:tibetan-fish-android-20261009@tibetan-calendar.local
+DTSTAMP:20260921T042059Z
+DTSTART;VALUE=DATE:20261009
+DTEND;VALUE=DATE:20261010
+SUMMARY:廿九
+DESCRIPTION:公历：2026年10月9日 星期五\n藏历火马年：八月
+ 廿九\n藏历月名：具贤月\n农历丙午年：八月廿九\n事项
+ ：\n十斋日\n来源：2026（农历）藏历火马年月历.pdf
+TRANSP:TRANSPARENT
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+UID:tibetan-fish-android-20261010@tibetan-calendar.local
+DTSTAMP:20260921T042059Z
+DTSTART;VALUE=DATE:20261010
+DTEND;VALUE=DATE:20261011
+SUMMARY:三十 🐟
+DESCRIPTION:公历：2026年10月10日 星期六\n藏历火马年：八月
+ 三十\n藏历月名：具贤月\n农历丙午年：九月初一\n事项
+ ：\n释迦牟尼佛节日\n作何善恶成九亿倍\n辛亥革命纪念
+ 日\n十斋日\n来源：2026（农历）藏历火马年月历.pdf
+TRANSP:TRANSPARENT
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+UID:tibetan-fish-android-20261011@tibetan-calendar.local
+DTSTAMP:20260921T042059Z
+DTSTART;VALUE=DATE:20261011
+DTEND;VALUE=DATE:20261012
+SUMMARY:初一
+DESCRIPTION:公历：2026年10月11日 星期日\n藏历火马年：九月
+ 初一\n藏历月名：天降月\n农历丙午年：九月初二\n事项
+ ：\n禅定胜王佛节日\n作何善恶成百倍\n来源：2026（农历
+ ）藏历火马年月历.pdf
+TRANSP:TRANSPARENT
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+UID:tibetan-fish-android-20261012@tibetan-calendar.local
+DTSTAMP:20260921T042059Z
+DTSTART;VALUE=DATE:20261012
+DTEND;VALUE=DATE:20261013
+SUMMARY:初二
+DESCRIPTION:公历：2026年10月12日 星期一\n藏历火马年：九月
+ 初二\n藏历月名：天降月\n农历丙午年：九月初三\n来源
+ ：2026（农历）藏历火马年月历.pdf
+TRANSP:TRANSPARENT
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+UID:tibetan-fish-android-20261013@tibetan-calendar.local
+DTSTAMP:20260921T042059Z
+DTSTART;VALUE=DATE:20261013
+DTEND;VALUE=DATE:20261014
+SUMMARY:初三
+DESCRIPTION:公历：2026年10月13日 星期二\n藏历火马年：九月
+ 初三\n藏历月名：天降月\n农历丙午年：九月初四\n事项
+ ：\n晋美林巴尊者圆寂纪念日\n理发吉日：家族增长财富\
+ n来源：2026（农历）藏历火马年月历.pdf
+TRANSP:TRANSPARENT
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+UID:tibetan-fish-android-20261014@tibetan-calendar.local
+DTSTAMP:20260921T042059Z
+DTSTART;VALUE=DATE:20261014
+DTEND;VALUE=DATE:20261015
+SUMMARY:初四
+DESCRIPTION:公历：2026年10月14日 星期三\n藏历火马年：九月
+ 初四\n藏历月名：天降月\n农历丙午年：九月初五\n事项
+ ：\n理发吉日：怀业增上，容光焕发\n来源：2026（农历）
+ 藏历火马年月历.pdf
+TRANSP:TRANSPARENT
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+UID:tibetan-fish-android-20261015@tibetan-calendar.local
+DTSTAMP:20260921T042059Z
+DTSTART;VALUE=DATE:20261015
+DTEND;VALUE=DATE:20261016
+SUMMARY:初五
+DESCRIPTION:公历：2026年10月15日 星期四\n藏历火马年：九月
+ 初五\n藏历月名：天降月\n农历丙午年：九月初六\n事项
+ ：\n理发吉日：聚集广大财富\n来源：2026（农历）藏历火
+ 马年月历.pdf
+TRANSP:TRANSPARENT
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+UID:tibetan-fish-android-20261016@tibetan-calendar.local
+DTSTAMP:20260921T042059Z
+DTSTART;VALUE=DATE:20261016
+DTEND;VALUE=DATE:20261017
+SUMMARY:初六
+DESCRIPTION:公历：2026年10月16日 星期五\n藏历火马年：九月
+ 初六\n藏历月名：天降月\n农历丙午年：九月初七\n来源
+ ：2026（农历）藏历火马年月历.pdf
+TRANSP:TRANSPARENT
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+UID:tibetan-fish-android-20261017@tibetan-calendar.local
+DTSTAMP:20260921T042059Z
+DTSTART;VALUE=DATE:20261017
+DTEND;VALUE=DATE:20261018
+SUMMARY:初七
+DESCRIPTION:公历：2026年10月17日 星期六\n藏历火马年：九月
+ 初七\n藏历月名：天降月\n农历丙午年：九月初八\n事项
+ ：\n十斋日\n来源：2026（农历）藏历火马年月历.pdf
+TRANSP:TRANSPARENT
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+UID:tibetan-fish-android-20261018@tibetan-calendar.local
+DTSTAMP:20260921T042059Z
+DTSTART;VALUE=DATE:20261018
+DTEND;VALUE=DATE:20261019
+SUMMARY:初八 🐟
+DESCRIPTION:公历：2026年10月18日 星期日\n藏历火马年：九月
+ 初八\n藏历月名：天降月\n农历丙午年：九月初九\n事项
+ ：\n药师佛节日\n重阳节\n作何善恶成千倍\n理发吉日：长
+ 寿\n来源：2026（农历）藏历火马年月历.pdf
+TRANSP:TRANSPARENT
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+UID:tibetan-fish-android-20261019@tibetan-calendar.local
+DTSTAMP:20260921T042059Z
+DTSTART;VALUE=DATE:20261019
+DTEND;VALUE=DATE:20261020
+SUMMARY:初九
+DESCRIPTION:公历：2026年10月19日 星期一\n藏历火马年：九月
+ 初九\n藏历月名：天降月\n农历丙午年：九月初十\n事项
+ ：\n理发吉日：易遇佳人\n来源：2026（农历）藏历火马年
+ 月历.pdf
+TRANSP:TRANSPARENT
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+UID:tibetan-fish-android-20261020@tibetan-calendar.local
+DTSTAMP:20260921T042059Z
+DTSTART;VALUE=DATE:20261020
+DTEND;VALUE=DATE:20261021
+SUMMARY:闰初九
+DESCRIPTION:公历：2026年10月20日 星期二\n藏历火马年：九月
+ 闰初九\n藏历月名：天降月\n农历丙午年：九月十一\n来
+ 源：2026（农历）藏历火马年月历.pdf
+TRANSP:TRANSPARENT
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+UID:tibetan-fish-android-20261021@tibetan-calendar.local
+DTSTAMP:20260921T042059Z
+DTSTART;VALUE=DATE:20261021
+DTEND;VALUE=DATE:20261022
+SUMMARY:初十 莲师荟供日
+DESCRIPTION:公历：2026年10月21日 星期三\n藏历火马年：九月
+ 初十\n藏历月名：天降月\n农历丙午年：九月十二\n事项
+ ：\n莲师荟供日\n作何善恶成十万倍\n飞幡日\n理发吉日：
+ 增上欢喜\n来源：2026（农历）藏历火马年月历.pdf
+TRANSP:TRANSPARENT
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+UID:tibetan-fish-android-20261022@tibetan-calendar.local
+DTSTAMP:20260921T042059Z
+DTSTART;VALUE=DATE:20261022
+DTEND;VALUE=DATE:20261023
+SUMMARY:十一
+DESCRIPTION:公历：2026年10月22日 星期四\n藏历火马年：九月
+ 十一\n藏历月名：天降月\n农历丙午年：九月十三\n事项
+ ：\n理发吉日：增上智慧和世聪\n来源：2026（农历）藏历
+ 火马年月历.pdf
+TRANSP:TRANSPARENT
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+UID:tibetan-fish-android-20261023@tibetan-calendar.local
+DTSTAMP:20260921T042059Z
+DTSTART;VALUE=DATE:20261023
+DTEND;VALUE=DATE:20261024
+SUMMARY:十二
+DESCRIPTION:公历：2026年10月23日 星期五\n藏历火马年：九月
+ 十二\n藏历月名：天降月\n农历丙午年：九月十四\n事项
+ ：\n十斋日\n霜降\n来源：2026（农历）藏历火马年月历.pdf
+TRANSP:TRANSPARENT
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+UID:tibetan-fish-android-20261024@tibetan-calendar.local
+DTSTAMP:20260921T042059Z
+DTSTART;VALUE=DATE:20261024
+DTEND;VALUE=DATE:20261025
+SUMMARY:十三
+DESCRIPTION:公历：2026年10月24日 星期六\n藏历火马年：九月
+ 十三\n藏历月名：天降月\n农历丙午年：九月十五\n事项
+ ：\n十斋日\n理发吉日：精进于佛法修持，最上\n来源：20
+ 26（农历）藏历火马年月历.pdf
+TRANSP:TRANSPARENT
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+UID:tibetan-fish-android-20261025@tibetan-calendar.local
+DTSTAMP:20260921T042059Z
+DTSTART;VALUE=DATE:20261025
+DTEND;VALUE=DATE:20261026
+SUMMARY:十四
+DESCRIPTION:公历：2026年10月25日 星期日\n藏历火马年：九月
+ 十四\n藏历月名：天降月\n农历丙午年：九月十六\n事项
+ ：\n理发吉日：财物增多\n来源：2026（农历）藏历火马年
+ 月历.pdf
+TRANSP:TRANSPARENT
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+UID:tibetan-fish-android-20261026@tibetan-calendar.local
+DTSTAMP:20260921T042059Z
+DTSTART;VALUE=DATE:20261026
+DTEND;VALUE=DATE:20261027
+SUMMARY:十五 极乐法会 🐟
+DESCRIPTION:公历：2026年10月26日 星期一\n藏历火马年：九月
+ 十五\n藏历月名：天降月\n农历丙午年：九月十七\n事项
+ ：\n阿弥陀佛节日\n作何善恶成百万倍\n理发吉日：福报
+ 增上\n来源：2026（农历）藏历火马年月历.pdf
+TRANSP:TRANSPARENT
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+UID:tibetan-fish-android-20261027@tibetan-calendar.local
+DTSTAMP:20260921T042059Z
+DTSTART;VALUE=DATE:20261027
+DTEND;VALUE=DATE:20261028
+SUMMARY:十六 极乐法会
+DESCRIPTION:公历：2026年10月27日 星期二\n藏历火马年：九月
+ 十六\n藏历月名：天降月\n农历丙午年：九月十八\n事项
+ ：\n十斋日\n来源：2026（农历）藏历火马年月历.pdf
+TRANSP:TRANSPARENT
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+UID:tibetan-fish-android-20261028@tibetan-calendar.local
+DTSTAMP:20260921T042059Z
+DTSTART;VALUE=DATE:20261028
+DTEND;VALUE=DATE:20261029
+SUMMARY:十八 极乐法会
+DESCRIPTION:公历：2026年10月28日 星期三\n藏历火马年：九月
+ 十八\n藏历月名：天降月\n农历丙午年：九月十九\n藏历
+ 备注：前一日为缺日\n事项：\n观音菩萨节日\n作何善恶
+ 成千万倍\n阿底峡尊者圆寂日\n来源：2026（农历）藏历火
+ 马年月历.pdf
+TRANSP:TRANSPARENT
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+UID:tibetan-fish-android-20261029@tibetan-calendar.local
+DTSTAMP:20260921T042059Z
+DTSTART;VALUE=DATE:20261029
+DTEND;VALUE=DATE:20261030
+SUMMARY:十九 极乐法会
+DESCRIPTION:公历：2026年10月29日 星期四\n藏历火马年：九月
+ 十九\n藏历月名：天降月\n农历丙午年：九月二十\n事项
+ ：\n理发吉日：增胜善法\n来源：2026（农历）藏历火马年
+ 月历.pdf
+TRANSP:TRANSPARENT
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+UID:tibetan-fish-android-20261030@tibetan-calendar.local
+DTSTAMP:20260921T042059Z
+DTSTART;VALUE=DATE:20261030
+DTEND;VALUE=DATE:20261031
+SUMMARY:二十 极乐法会
+DESCRIPTION:公历：2026年10月30日 星期五\n藏历火马年：九月
+ 二十\n藏历月名：天降月\n农历丙午年：九月廿一\n事项
+ ：\n释迦牟尼佛天降日\n来源：2026（农历）藏历火马年月
+ 历.pdf
+TRANSP:TRANSPARENT
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+UID:tibetan-fish-android-20261031@tibetan-calendar.local
+DTSTAMP:20260921T042059Z
+DTSTART;VALUE=DATE:20261031
+DTEND;VALUE=DATE:20261101
+SUMMARY:廿一 极乐法会
+DESCRIPTION:公历：2026年10月31日 星期六\n藏历火马年：九月
+ 廿一\n藏历月名：天降月\n农历丙午年：九月廿二\n事项
+ ：\n地藏王菩萨节日\n作何善恶成亿倍\n来源：2026（农历
+ ）藏历火马年月历.pdf
+TRANSP:TRANSPARENT
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+UID:tibetan-fish-android-20261101@tibetan-calendar.local
+DTSTAMP:20260921T042059Z
+DTSTART;VALUE=DATE:20261101
+DTEND;VALUE=DATE:20261102
+SUMMARY:廿二 极乐法会
+DESCRIPTION:公历：2026年11月1日 星期日\n藏历火马年：九月
+ 廿二\n藏历月名：天降月\n农历丙午年：九月廿三\n事项
+ ：\n释迦牟尼佛天降日\n飞幡日\n十斋日\n来源：2026（农
+ 历）藏历火马年月历.pdf
+TRANSP:TRANSPARENT
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+UID:tibetan-fish-android-20261102@tibetan-calendar.local
+DTSTAMP:20260921T042059Z
+DTSTART;VALUE=DATE:20261102
+DTEND;VALUE=DATE:20261103
+SUMMARY:廿三
+DESCRIPTION:公历：2026年11月2日 星期一\n藏历火马年：九月
+ 廿三\n藏历月名：天降月\n农历丙午年：九月廿四\n事项
+ ：\n理发吉日：增上财富\n十斋日\n来源：2026（农历）藏
+ 历火马年月历.pdf
+TRANSP:TRANSPARENT
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+UID:tibetan-fish-android-20261103@tibetan-calendar.local
+DTSTAMP:20260921T042059Z
+DTSTART;VALUE=DATE:20261103
+DTEND;VALUE=DATE:20261104
+SUMMARY:廿四
+DESCRIPTION:公历：2026年11月3日 星期二\n藏历火马年：九月
+ 廿四\n藏历月名：天降月\n农历丙午年：九月廿五\n来源
+ ：2026（农历）藏历火马年月历.pdf
+TRANSP:TRANSPARENT
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+UID:tibetan-fish-android-20261104@tibetan-calendar.local
+DTSTAMP:20260921T042059Z
+DTSTART;VALUE=DATE:20261104
+DTEND;VALUE=DATE:20261105
+SUMMARY:廿五 空行母荟供日
+DESCRIPTION:公历：2026年11月4日 星期三\n藏历火马年：九月
+ 廿五\n藏历月名：天降月\n农历丙午年：九月廿六\n事项
+ ：\n空行母荟供日\n来源：2026（农历）藏历火马年月历.pd
+ f
+TRANSP:TRANSPARENT
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+UID:tibetan-fish-android-20261105@tibetan-calendar.local
+DTSTAMP:20260921T042059Z
+DTSTART;VALUE=DATE:20261105
+DTEND;VALUE=DATE:20261106
+SUMMARY:廿六
+DESCRIPTION:公历：2026年11月5日 星期四\n藏历火马年：九月
+ 廿六\n藏历月名：天降月\n农历丙午年：九月廿七\n事项
+ ：\n理发吉日：增上安乐\n十斋日\n来源：2026（农历）藏
+ 历火马年月历.pdf
+TRANSP:TRANSPARENT
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+UID:tibetan-fish-android-20261106@tibetan-calendar.local
+DTSTAMP:20260921T042059Z
+DTSTART;VALUE=DATE:20261106
+DTEND;VALUE=DATE:20261107
+SUMMARY:廿七
+DESCRIPTION:公历：2026年11月6日 星期五\n藏历火马年：九月
+ 廿七\n藏历月名：天降月\n农历丙午年：九月廿八\n事项
+ ：\n理发吉日：诸事吉祥\n十斋日\n来源：2026（农历）藏
+ 历火马年月历.pdf
+TRANSP:TRANSPARENT
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+UID:tibetan-fish-android-20261107@tibetan-calendar.local
+DTSTAMP:20260921T042059Z
+DTSTART;VALUE=DATE:20261107
+DTEND;VALUE=DATE:20261108
+SUMMARY:廿八
+DESCRIPTION:公历：2026年11月7日 星期六\n藏历火马年：九月
+ 廿八\n藏历月名：天降月\n农历丙午年：九月廿九\n事项
+ ：\n十斋日\n立冬\n来源：2026（农历）藏历火马年月历.pdf
+TRANSP:TRANSPARENT
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+UID:tibetan-fish-android-20261108@tibetan-calendar.local
+DTSTAMP:20260921T042059Z
+DTSTART;VALUE=DATE:20261108
+DTEND;VALUE=DATE:20261109
+SUMMARY:廿九
+DESCRIPTION:公历：2026年11月8日 星期日\n藏历火马年：九月
+ 廿九\n藏历月名：天降月\n农历丙午年：九月三十\n事项
+ ：\n十斋日\n来源：2026（农历）藏历火马年月历.pdf
+TRANSP:TRANSPARENT
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+UID:tibetan-fish-android-20261109@tibetan-calendar.local
+DTSTAMP:20260921T042059Z
+DTSTART;VALUE=DATE:20261109
+DTEND;VALUE=DATE:20261110
+SUMMARY:三十 🐟
+DESCRIPTION:公历：2026年11月9日 星期一\n藏历火马年：九月
+ 三十\n藏历月名：天降月\n农历丙午年：十月初一\n事项
+ ：\n释迦牟尼佛节日\n作何善恶成百倍\n十斋日\n来源：202
+ 6（农历）藏历火马年月历.pdf
+TRANSP:TRANSPARENT
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+UID:tibetan-fish-android-20261110@tibetan-calendar.local
+DTSTAMP:20260921T042059Z
+DTSTART;VALUE=DATE:20261110
+DTEND;VALUE=DATE:20261111
+SUMMARY:初一
+DESCRIPTION:公历：2026年11月10日 星期二\n藏历火马年：十月
+ 初一\n藏历月名：持众月\n农历丙午年：十月初二\n事项
+ ：\n禅定胜王佛节日\n作何善恶成百倍\n来源：2026（农历
+ ）藏历火马年月历.pdf
+TRANSP:TRANSPARENT
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+UID:tibetan-fish-android-20261111@tibetan-calendar.local
+DTSTAMP:20260921T042059Z
+DTSTART;VALUE=DATE:20261111
+DTEND;VALUE=DATE:20261112
+SUMMARY:初二
+DESCRIPTION:公历：2026年11月11日 星期三\n藏历火马年：十月
+ 初二\n藏历月名：持众月\n农历丙午年：十月初三\n来源
+ ：2026（农历）藏历火马年月历.pdf
+TRANSP:TRANSPARENT
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+UID:tibetan-fish-android-20261112@tibetan-calendar.local
+DTSTAMP:20260921T042059Z
+DTSTART;VALUE=DATE:20261112
+DTEND;VALUE=DATE:20261113
+SUMMARY:初三
+DESCRIPTION:公历：2026年11月12日 星期四\n藏历火马年：十月
+ 初三\n藏历月名：持众月\n农历丙午年：十月初四\n事项
+ ：\n理发吉日：家族增长财富\n来源：2026（农历）藏历火
+ 马年月历.pdf
+TRANSP:TRANSPARENT
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+UID:tibetan-fish-android-20261113@tibetan-calendar.local
+DTSTAMP:20260921T042059Z
+DTSTART;VALUE=DATE:20261113
+DTEND;VALUE=DATE:20261114
+SUMMARY:初四
+DESCRIPTION:公历：2026年11月13日 星期五\n藏历火马年：十月
+ 初四\n藏历月名：持众月\n农历丙午年：十月初五\n事项
+ ：\n理发吉日：怀业增上，容光焕发\n来源：2026（农历）
+ 藏历火马年月历.pdf
+TRANSP:TRANSPARENT
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+UID:tibetan-fish-android-20261114@tibetan-calendar.local
+DTSTAMP:20260921T042059Z
+DTSTART;VALUE=DATE:20261114
+DTEND;VALUE=DATE:20261115
+SUMMARY:初五
+DESCRIPTION:公历：2026年11月14日 星期六\n藏历火马年：十月
+ 初五\n藏历月名：持众月\n农历丙午年：十月初六\n事项
+ ：\n全知麦彭仁波切诞辰日\n理发吉日：聚集广大财富\n
+ 来源：2026（农历）藏历火马年月历.pdf
+TRANSP:TRANSPARENT
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+UID:tibetan-fish-android-20261115@tibetan-calendar.local
+DTSTAMP:20260921T042059Z
+DTSTART;VALUE=DATE:20261115
+DTEND;VALUE=DATE:20261116
+SUMMARY:初六
+DESCRIPTION:公历：2026年11月15日 星期日\n藏历火马年：十月
+ 初六\n藏历月名：持众月\n农历丙午年：十月初七\n来源
+ ：2026（农历）藏历火马年月历.pdf
+TRANSP:TRANSPARENT
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+UID:tibetan-fish-android-20261116@tibetan-calendar.local
+DTSTAMP:20260921T042059Z
+DTSTART;VALUE=DATE:20261116
+DTEND;VALUE=DATE:20261117
+SUMMARY:初七
+DESCRIPTION:公历：2026年11月16日 星期一\n藏历火马年：十月
+ 初七\n藏历月名：持众月\n农历丙午年：十月初八\n事项
+ ：\n十斋日\n飞幡日\n来源：2026（农历）藏历火马年月历.
+ pdf
+TRANSP:TRANSPARENT
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+UID:tibetan-fish-android-20261117@tibetan-calendar.local
+DTSTAMP:20260921T042059Z
+DTSTART;VALUE=DATE:20261117
+DTEND;VALUE=DATE:20261118
+SUMMARY:初八 🐟
+DESCRIPTION:公历：2026年11月17日 星期二\n藏历火马年：十月
+ 初八\n藏历月名：持众月\n农历丙午年：十月初九\n事项
+ ：\n药师佛节日\n作何善恶成千倍\n理发吉日：长寿\n来源
+ ：2026（农历）藏历火马年月历.pdf
+TRANSP:TRANSPARENT
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+UID:tibetan-fish-android-20261118@tibetan-calendar.local
+DTSTAMP:20260921T042059Z
+DTSTART;VALUE=DATE:20261118
+DTEND;VALUE=DATE:20261119
+SUMMARY:初九
+DESCRIPTION:公历：2026年11月18日 星期三\n藏历火马年：十月
+ 初九\n藏历月名：持众月\n农历丙午年：十月初十\n事项
+ ：\n理发吉日：易遇佳人\n来源：2026（农历）藏历火马年
+ 月历.pdf
+TRANSP:TRANSPARENT
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+UID:tibetan-fish-android-20261119@tibetan-calendar.local
+DTSTAMP:20260921T042059Z
+DTSTART;VALUE=DATE:20261119
+DTEND;VALUE=DATE:20261120
+SUMMARY:初十 莲师荟供日
+DESCRIPTION:公历：2026年11月19日 星期四\n藏历火马年：十月
+ 初十\n藏历月名：持众月\n农历丙午年：十月十一\n事项
+ ：\n莲师荟供日\n作何善恶成十万倍\n理发吉日：增上欢
+ 喜\n来源：2026（农历）藏历火马年月历.pdf
+TRANSP:TRANSPARENT
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+UID:tibetan-fish-android-20261120@tibetan-calendar.local
+DTSTAMP:20260921T042059Z
+DTSTART;VALUE=DATE:20261120
+DTEND;VALUE=DATE:20261121
+SUMMARY:十一
+DESCRIPTION:公历：2026年11月20日 星期五\n藏历火马年：十月
+ 十一\n藏历月名：持众月\n农历丙午年：十月十二\n事项
+ ：\n理发吉日：增上智慧和世聪\n来源：2026（农历）藏历
+ 火马年月历.pdf
+TRANSP:TRANSPARENT
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+UID:tibetan-fish-android-20261121@tibetan-calendar.local
+DTSTAMP:20260921T042059Z
+DTSTART;VALUE=DATE:20261121
+DTEND;VALUE=DATE:20261122
+SUMMARY:十二
+DESCRIPTION:公历：2026年11月21日 星期六\n藏历火马年：十月
+ 十二\n藏历月名：持众月\n农历丙午年：十月十三\n来源
+ ：2026（农历）藏历火马年月历.pdf
+TRANSP:TRANSPARENT
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+UID:tibetan-fish-android-20261122@tibetan-calendar.local
+DTSTAMP:20260921T042059Z
+DTSTART;VALUE=DATE:20261122
+DTEND;VALUE=DATE:20261123
+SUMMARY:十三
+DESCRIPTION:公历：2026年11月22日 星期日\n藏历火马年：十月
+ 十三\n藏历月名：持众月\n农历丙午年：十月十四\n事项
+ ：\n理发吉日：精进于佛法修持，最上\n小雪\n十斋日\n来
+ 源：2026（农历）藏历火马年月历.pdf
+TRANSP:TRANSPARENT
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+UID:tibetan-fish-android-20261123@tibetan-calendar.local
+DTSTAMP:20260921T042059Z
+DTSTART;VALUE=DATE:20261123
+DTEND;VALUE=DATE:20261124
+SUMMARY:十四
+DESCRIPTION:公历：2026年11月23日 星期一\n藏历火马年：十月
+ 十四\n藏历月名：持众月\n农历丙午年：十月十五\n事项
+ ：\n理发吉日：财物增多\n十斋日\n来源：2026（农历）藏
+ 历火马年月历.pdf
+TRANSP:TRANSPARENT
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+UID:tibetan-fish-android-20261124@tibetan-calendar.local
+DTSTAMP:20260921T042059Z
+DTSTART;VALUE=DATE:20261124
+DTEND;VALUE=DATE:20261125
+SUMMARY:十五 🐟
+DESCRIPTION:公历：2026年11月24日 星期二\n藏历火马年：十月
+ 十五\n藏历月名：持众月\n农历丙午年：十月十六\n事项
+ ：\n阿弥陀佛节日\n作何善恶成百万倍\n理发吉日：福报
+ 增上\n来源：2026（农历）藏历火马年月历.pdf
+TRANSP:TRANSPARENT
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+UID:tibetan-fish-android-20261125@tibetan-calendar.local
+DTSTAMP:20260921T042059Z
+DTSTART;VALUE=DATE:20261125
+DTEND;VALUE=DATE:20261126
+SUMMARY:十六
+DESCRIPTION:公历：2026年11月25日 星期三\n藏历火马年：十月
+ 十六\n藏历月名：持众月\n农历丙午年：十月十七\n来源
+ ：2026（农历）藏历火马年月历.pdf
+TRANSP:TRANSPARENT
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+UID:tibetan-fish-android-20261126@tibetan-calendar.local
+DTSTAMP:20260921T042059Z
+DTSTART;VALUE=DATE:20261126
+DTEND;VALUE=DATE:20261127
+SUMMARY:十七
+DESCRIPTION:公历：2026年11月26日 星期四\n藏历火马年：十月
+ 十七\n藏历月名：持众月\n农历丙午年：十月十八\n事项
+ ：\n十斋日\n感恩节\n来源：2026（农历）藏历火马年月历.
+ pdf
+TRANSP:TRANSPARENT
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+UID:tibetan-fish-android-20261127@tibetan-calendar.local
+DTSTAMP:20260921T042059Z
+DTSTART;VALUE=DATE:20261127
+DTEND;VALUE=DATE:20261128
+SUMMARY:十八
+DESCRIPTION:公历：2026年11月27日 星期五\n藏历火马年：十月
+ 十八\n藏历月名：持众月\n农历丙午年：十月十九\n事项
+ ：\n观音菩萨节日\n作何善恶成千万倍\n来源：2026（农历
+ ）藏历火马年月历.pdf
+TRANSP:TRANSPARENT
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+UID:tibetan-fish-android-20261128@tibetan-calendar.local
+DTSTAMP:20260921T042059Z
+DTSTART;VALUE=DATE:20261128
+DTEND;VALUE=DATE:20261129
+SUMMARY:十九
+DESCRIPTION:公历：2026年11月28日 星期六\n藏历火马年：十月
+ 十九\n藏历月名：持众月\n农历丙午年：十月二十\n事项
+ ：\n理发吉日：增胜善法\n飞幡日\n来源：2026（农历）藏
+ 历火马年月历.pdf
+TRANSP:TRANSPARENT
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+UID:tibetan-fish-android-20261129@tibetan-calendar.local
+DTSTAMP:20260921T042059Z
+DTSTART;VALUE=DATE:20261129
+DTEND;VALUE=DATE:20261130
+SUMMARY:二十
+DESCRIPTION:公历：2026年11月29日 星期日\n藏历火马年：十月
+ 二十\n藏历月名：持众月\n农历丙午年：十月廿一\n来源
+ ：2026（农历）藏历火马年月历.pdf
+TRANSP:TRANSPARENT
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+UID:tibetan-fish-android-20261130@tibetan-calendar.local
+DTSTAMP:20260921T042059Z
+DTSTART;VALUE=DATE:20261130
+DTEND;VALUE=DATE:20261201
+SUMMARY:廿二
+DESCRIPTION:公历：2026年11月30日 星期一\n藏历火马年：十月
+ 廿二\n藏历月名：持众月\n农历丙午年：十月廿二\n藏历
+ 备注：前一日为缺日\n来源：2026（农历）藏历火马年月
+ 历.pdf
+TRANSP:TRANSPARENT
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+UID:tibetan-fish-android-20261201@tibetan-calendar.local
+DTSTAMP:20260921T042059Z
+DTSTART;VALUE=DATE:20261201
+DTEND;VALUE=DATE:20261202
+SUMMARY:廿三
+DESCRIPTION:公历：2026年12月1日 星期二\n藏历火马年：十月
+ 廿三\n藏历月名：持众月\n农历丙午年：十月廿三\n事项
+ ：\n理发吉日：增上财富\n十斋日\n来源：2026（农历）藏
+ 历火马年月历.pdf
+TRANSP:TRANSPARENT
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+UID:tibetan-fish-android-20261202@tibetan-calendar.local
+DTSTAMP:20260921T042059Z
+DTSTART;VALUE=DATE:20261202
+DTEND;VALUE=DATE:20261203
+SUMMARY:廿四
+DESCRIPTION:公历：2026年12月2日 星期三\n藏历火马年：十月
+ 廿四\n藏历月名：持众月\n农历丙午年：十月廿四\n事项
+ ：\n十斋日\n来源：2026（农历）藏历火马年月历.pdf
+TRANSP:TRANSPARENT
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+UID:tibetan-fish-android-20261203@tibetan-calendar.local
+DTSTAMP:20260921T042059Z
+DTSTART;VALUE=DATE:20261203
+DTEND;VALUE=DATE:20261204
+SUMMARY:廿五 空行母荟供日
+DESCRIPTION:公历：2026年12月3日 星期四\n藏历火马年：十月
+ 廿五\n藏历月名：持众月\n农历丙午年：十月廿五\n事项
+ ：\n空行母荟供日\n宗喀巴大师圆寂日，燃灯节\n来源：20
+ 26（农历）藏历火马年月历.pdf
+TRANSP:TRANSPARENT
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+UID:tibetan-fish-android-20261204@tibetan-calendar.local
+DTSTAMP:20260921T042059Z
+DTSTART;VALUE=DATE:20261204
+DTEND;VALUE=DATE:20261205
+SUMMARY:廿六
+DESCRIPTION:公历：2026年12月4日 星期五\n藏历火马年：十月
+ 廿六\n藏历月名：持众月\n农历丙午年：十月廿六\n事项
+ ：\n理发吉日：增上安乐\n来源：2026（农历）藏历火马年
+ 月历.pdf
+TRANSP:TRANSPARENT
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+UID:tibetan-fish-android-20261205@tibetan-calendar.local
+DTSTAMP:20260921T042059Z
+DTSTART;VALUE=DATE:20261205
+DTEND;VALUE=DATE:20261206
+SUMMARY:廿七
+DESCRIPTION:公历：2026年12月5日 星期六\n藏历火马年：十月
+ 廿七\n藏历月名：持众月\n农历丙午年：十月廿七\n事项
+ ：\n理发吉日：诸事吉祥\n十斋日\n来源：2026（农历）藏
+ 历火马年月历.pdf
+TRANSP:TRANSPARENT
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+UID:tibetan-fish-android-20261206@tibetan-calendar.local
+DTSTAMP:20260921T042059Z
+DTSTART;VALUE=DATE:20261206
+DTEND;VALUE=DATE:20261207
+SUMMARY:廿八
+DESCRIPTION:公历：2026年12月6日 星期日\n藏历火马年：十月
+ 廿八\n藏历月名：持众月\n农历丙午年：十月廿八\n事项
+ ：\n十斋日\n来源：2026（农历）藏历火马年月历.pdf
+TRANSP:TRANSPARENT
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+UID:tibetan-fish-android-20261207@tibetan-calendar.local
+DTSTAMP:20260921T042059Z
+DTSTART;VALUE=DATE:20261207
+DTEND;VALUE=DATE:20261208
+SUMMARY:廿九
+DESCRIPTION:公历：2026年12月7日 星期一\n藏历火马年：十月
+ 廿九\n藏历月名：持众月\n农历丙午年：十月廿九\n事项
+ ：\n大雪\n十斋日\n来源：2026（农历）藏历火马年月历.pdf
+TRANSP:TRANSPARENT
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+UID:tibetan-fish-android-20261208@tibetan-calendar.local
+DTSTAMP:20260921T042059Z
+DTSTART;VALUE=DATE:20261208
+DTEND;VALUE=DATE:20261209
+SUMMARY:三十 🐟
+DESCRIPTION:公历：2026年12月8日 星期二\n藏历火马年：十月
+ 三十\n藏历月名：持众月\n农历丙午年：十月三十\n事项
+ ：\n释迦牟尼佛节日\n作何善恶成九亿倍\n十斋日\n来源：
+ 2026（农历）藏历火马年月历.pdf
+TRANSP:TRANSPARENT
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+UID:tibetan-fish-android-20261209@tibetan-calendar.local
+DTSTAMP:20260921T042059Z
+DTSTART;VALUE=DATE:20261209
+DTEND;VALUE=DATE:20261210
+SUMMARY:初一
+DESCRIPTION:公历：2026年12月9日 星期三\n藏历火马年：十一
+ 月初一\n藏历月名：庄严月\n农历丙午年：冬月初一\n事
+ 项：\n禅定胜王佛节日\n作何善恶成百倍\n十斋日\n来源：
+ 2026（农历）藏历火马年月历.pdf
+TRANSP:TRANSPARENT
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+UID:tibetan-fish-android-20261210@tibetan-calendar.local
+DTSTAMP:20260921T042059Z
+DTSTART;VALUE=DATE:20261210
+DTEND;VALUE=DATE:20261211
+SUMMARY:初二
+DESCRIPTION:公历：2026年12月10日 星期四\n藏历火马年：十一
+ 月初二\n藏历月名：庄严月\n农历丙午年：冬月初二\n来
+ 源：2026（农历）藏历火马年月历.pdf
+TRANSP:TRANSPARENT
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+UID:tibetan-fish-android-20261211@tibetan-calendar.local
+DTSTAMP:20260921T042059Z
+DTSTART;VALUE=DATE:20261211
+DTEND;VALUE=DATE:20261212
+SUMMARY:初三
+DESCRIPTION:公历：2026年12月11日 星期五\n藏历火马年：十一
+ 月初三\n藏历月名：庄严月\n农历丙午年：冬月初三\n事
+ 项：\n理发吉日：家族增长财富\n来源：2026（农历）藏历
+ 火马年月历.pdf
+TRANSP:TRANSPARENT
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+UID:tibetan-fish-android-20261212@tibetan-calendar.local
+DTSTAMP:20260921T042059Z
+DTSTART;VALUE=DATE:20261212
+DTEND;VALUE=DATE:20261213
+SUMMARY:闰初三
+DESCRIPTION:公历：2026年12月12日 星期六\n藏历火马年：十一
+ 月闰初三\n藏历月名：庄严月\n农历丙午年：冬月初四\n
+ 事项：\n理发吉日：家族增长财富\n来源：2026（农历）藏
+ 历火马年月历.pdf
+TRANSP:TRANSPARENT
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+UID:tibetan-fish-android-20261213@tibetan-calendar.local
+DTSTAMP:20260921T042059Z
+DTSTART;VALUE=DATE:20261213
+DTEND;VALUE=DATE:20261214
+SUMMARY:初四
+DESCRIPTION:公历：2026年12月13日 星期日\n藏历火马年：十一
+ 月初四\n藏历月名：庄严月\n农历丙午年：冬月初五\n事
+ 项：\n理发吉日：怀业增上，容光焕发\n飞幡日\n来源：20
+ 26（农历）藏历火马年月历.pdf
+TRANSP:TRANSPARENT
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+UID:tibetan-fish-android-20261214@tibetan-calendar.local
+DTSTAMP:20260921T042059Z
+DTSTART;VALUE=DATE:20261214
+DTEND;VALUE=DATE:20261215
+SUMMARY:初五
+DESCRIPTION:公历：2026年12月14日 星期一\n藏历火马年：十一
+ 月初五\n藏历月名：庄严月\n农历丙午年：冬月初六\n事
+ 项：\n理发吉日：聚集广大财富\n来源：2026（农历）藏历
+ 火马年月历.pdf
+TRANSP:TRANSPARENT
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+UID:tibetan-fish-android-20261215@tibetan-calendar.local
+DTSTAMP:20260921T042059Z
+DTSTART;VALUE=DATE:20261215
+DTEND;VALUE=DATE:20261216
+SUMMARY:初六
+DESCRIPTION:公历：2026年12月15日 星期二\n藏历火马年：十一
+ 月初六\n藏历月名：庄严月\n农历丙午年：冬月初七\n来
+ 源：2026（农历）藏历火马年月历.pdf
+TRANSP:TRANSPARENT
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+UID:tibetan-fish-android-20261216@tibetan-calendar.local
+DTSTAMP:20260921T042059Z
+DTSTART;VALUE=DATE:20261216
+DTEND;VALUE=DATE:20261217
+SUMMARY:初七
+DESCRIPTION:公历：2026年12月16日 星期三\n藏历火马年：十一
+ 月初七\n藏历月名：庄严月\n农历丙午年：冬月初八\n事
+ 项：\n十斋日\n来源：2026（农历）藏历火马年月历.pdf
+TRANSP:TRANSPARENT
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+UID:tibetan-fish-android-20261217@tibetan-calendar.local
+DTSTAMP:20260921T042059Z
+DTSTART;VALUE=DATE:20261217
+DTEND;VALUE=DATE:20261218
+SUMMARY:初八 🐟
+DESCRIPTION:公历：2026年12月17日 星期四\n藏历火马年：十一
+ 月初八\n藏历月名：庄严月\n农历丙午年：冬月初九\n事
+ 项：\n药师佛节日\n作何善恶成千倍\n理发吉日：长寿\n来
+ 源：2026（农历）藏历火马年月历.pdf
+TRANSP:TRANSPARENT
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+UID:tibetan-fish-android-20261218@tibetan-calendar.local
+DTSTAMP:20260921T042059Z
+DTSTART;VALUE=DATE:20261218
+DTEND;VALUE=DATE:20261219
+SUMMARY:初九
+DESCRIPTION:公历：2026年12月18日 星期五\n藏历火马年：十一
+ 月初九\n藏历月名：庄严月\n农历丙午年：冬月初十\n事
+ 项：\n理发吉日：易遇佳人\n来源：2026（农历）藏历火马
+ 年月历.pdf
+TRANSP:TRANSPARENT
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+UID:tibetan-fish-android-20261219@tibetan-calendar.local
+DTSTAMP:20260921T042059Z
+DTSTART;VALUE=DATE:20261219
+DTEND;VALUE=DATE:20261220
+SUMMARY:初十 莲师荟供日
+DESCRIPTION:公历：2026年12月19日 星期六\n藏历火马年：十一
+ 月初十\n藏历月名：庄严月\n农历丙午年：冬月十一\n事
+ 项：\n莲师荟供日\n作何善恶成十万倍\n理发吉日：增上
+ 欢喜\n来源：2026（农历）藏历火马年月历.pdf
+TRANSP:TRANSPARENT
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+UID:tibetan-fish-android-20261220@tibetan-calendar.local
+DTSTAMP:20260921T042059Z
+DTSTART;VALUE=DATE:20261220
+DTEND;VALUE=DATE:20261221
+SUMMARY:十一
+DESCRIPTION:公历：2026年12月20日 星期日\n藏历火马年：十一
+ 月十一\n藏历月名：庄严月\n农历丙午年：冬月十二\n事
+ 项：\n理发吉日：增上智慧和世聪\n来源：2026（农历）藏
+ 历火马年月历.pdf
+TRANSP:TRANSPARENT
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+UID:tibetan-fish-android-20261221@tibetan-calendar.local
+DTSTAMP:20260921T042059Z
+DTSTART;VALUE=DATE:20261221
+DTEND;VALUE=DATE:20261222
+SUMMARY:十二
+DESCRIPTION:公历：2026年12月21日 星期一\n藏历火马年：十一
+ 月十二\n藏历月名：庄严月\n农历丙午年：冬月十三\n来
+ 源：2026（农历）藏历火马年月历.pdf
+TRANSP:TRANSPARENT
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+UID:tibetan-fish-android-20261222@tibetan-calendar.local
+DTSTAMP:20260921T042059Z
+DTSTART;VALUE=DATE:20261222
+DTEND;VALUE=DATE:20261223
+SUMMARY:十三
+DESCRIPTION:公历：2026年12月22日 星期二\n藏历火马年：十一
+ 月十三\n藏历月名：庄严月\n农历丙午年：冬月十四\n事
+ 项：\n理发吉日：精进于佛法修持，最上\n冬至\n十斋日\n
+ 来源：2026（农历）藏历火马年月历.pdf
+TRANSP:TRANSPARENT
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+UID:tibetan-fish-android-20261223@tibetan-calendar.local
+DTSTAMP:20260921T042059Z
+DTSTART;VALUE=DATE:20261223
+DTEND;VALUE=DATE:20261224
+SUMMARY:十四
+DESCRIPTION:公历：2026年12月23日 星期三\n藏历火马年：十一
+ 月十四\n藏历月名：庄严月\n农历丙午年：冬月十五\n事
+ 项：\n萨迦班智达圆寂纪念日\n理发吉日：财物增多\n十
+ 斋日\n来源：2026（农历）藏历火马年月历.pdf
+TRANSP:TRANSPARENT
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+UID:tibetan-fish-android-20261224@tibetan-calendar.local
+DTSTAMP:20260921T042059Z
+DTSTART;VALUE=DATE:20261224
+DTEND;VALUE=DATE:20261225
+SUMMARY:十六
+DESCRIPTION:公历：2026年12月24日 星期四\n藏历火马年：十一
+ 月十六\n藏历月名：庄严月\n农历丙午年：冬月十六\n藏
+ 历备注：前一日为缺日\n事项：\n平安夜\n飞幡日\n来源：
+ 2026（农历）藏历火马年月历.pdf
+TRANSP:TRANSPARENT
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+UID:tibetan-fish-android-20261225@tibetan-calendar.local
+DTSTAMP:20260921T042059Z
+DTSTART;VALUE=DATE:20261225
+DTEND;VALUE=DATE:20261226
+SUMMARY:十七
+DESCRIPTION:公历：2026年12月25日 星期五\n藏历火马年：十一
+ 月十七\n藏历月名：庄严月\n农历丙午年：冬月十七\n事
+ 项：\n圣诞节\n来源：2026（农历）藏历火马年月历.pdf
+TRANSP:TRANSPARENT
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+UID:tibetan-fish-android-20261226@tibetan-calendar.local
+DTSTAMP:20260921T042059Z
+DTSTART;VALUE=DATE:20261226
+DTEND;VALUE=DATE:20261227
+SUMMARY:十八
+DESCRIPTION:公历：2026年12月26日 星期六\n藏历火马年：十一
+ 月十八\n藏历月名：庄严月\n农历丙午年：冬月十八\n事
+ 项：\n观音菩萨节日\n作何善恶成千万倍\n十斋日\n来源：
+ 2026（农历）藏历火马年月历.pdf
+TRANSP:TRANSPARENT
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+UID:tibetan-fish-android-20261227@tibetan-calendar.local
+DTSTAMP:20260921T042059Z
+DTSTART;VALUE=DATE:20261227
+DTEND;VALUE=DATE:20261228
+SUMMARY:十九
+DESCRIPTION:公历：2026年12月27日 星期日\n藏历火马年：十一
+ 月十九\n藏历月名：庄严月\n农历丙午年：冬月十九\n事
+ 项：\n理发吉日：增胜善法\n来源：2026（农历）藏历火马
+ 年月历.pdf
+TRANSP:TRANSPARENT
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+UID:tibetan-fish-android-20261228@tibetan-calendar.local
+DTSTAMP:20260921T042059Z
+DTSTART;VALUE=DATE:20261228
+DTEND;VALUE=DATE:20261229
+SUMMARY:二十
+DESCRIPTION:公历：2026年12月28日 星期一\n藏历火马年：十一
+ 月二十\n藏历月名：庄严月\n农历丙午年：冬月二十\n来
+ 源：2026（农历）藏历火马年月历.pdf
+TRANSP:TRANSPARENT
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+UID:tibetan-fish-android-20261229@tibetan-calendar.local
+DTSTAMP:20260921T042059Z
+DTSTART;VALUE=DATE:20261229
+DTEND;VALUE=DATE:20261230
+SUMMARY:廿一
+DESCRIPTION:公历：2026年12月29日 星期二\n藏历火马年：十一
+ 月廿一\n藏历月名：庄严月\n农历丙午年：冬月廿一\n事
+ 项：\n地藏王菩萨节日\n作何善恶成亿倍\n来源：2026（农
+ 历）藏历火马年月历.pdf
+TRANSP:TRANSPARENT
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+UID:tibetan-fish-android-20261230@tibetan-calendar.local
+DTSTAMP:20260921T042059Z
+DTSTART;VALUE=DATE:20261230
+DTEND;VALUE=DATE:20261231
+SUMMARY:廿二
+DESCRIPTION:公历：2026年12月30日 星期三\n藏历火马年：十一
+ 月廿二\n藏历月名：庄严月\n农历丙午年：冬月廿二\n来
+ 源：2026（农历）藏历火马年月历.pdf
+TRANSP:TRANSPARENT
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+UID:tibetan-fish-android-20261231@tibetan-calendar.local
+DTSTAMP:20260921T042059Z
+DTSTART;VALUE=DATE:20261231
+DTEND;VALUE=DATE:20270101
+SUMMARY:廿三
+DESCRIPTION:公历：2026年12月31日 星期四\n藏历火马年：十一
+ 月廿三\n藏历月名：庄严月\n农历丙午年：冬月廿三\n事
+ 项：\n理发吉日：增上财富\n十斋日\n来源：2026（农历）
+ 藏历火马年月历.pdf
+TRANSP:TRANSPARENT
+SEQUENCE:0
+END:VEVENT
+END:VCALENDAR

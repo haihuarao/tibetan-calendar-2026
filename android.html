@@ -4,7 +4,7 @@
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <meta name="theme-color" content="#8f2f1f">
-  <title>2026 藏历火马年日历订阅</title>
+  <title>2026 藏历火马年_v2_Android 日历订阅</title>
   <style>
     :root { color-scheme: light; --ink:#2d211d; --muted:#75645d; --red:#9f3825; --gold:#c9973f; --paper:#fbf7ef; --card:#fffdf8; }
     * { box-sizing: border-box; }
@@ -36,42 +36,34 @@
   <main>
     <div class="hero">
       <p class="eyebrow">2026 · 藏历火马年</p>
-      <h1>把藏历加入 iPhone 日历</h1>
-      <p class="subtitle">每天一条全天事件，包含公历、农历、藏历日期，以及 PDF 中的节日、修法日和择日提示。</p>
+      <h1>把带 🐟 的藏历加入 Android 日历</h1>
+      <p class="subtitle">藏历、农历、法会与祖师纪念日；萨嘎月整月每天加 🐟，其他月份在藏历初八、十五、三十加 🐟。</p>
     </div>
 
     <div class="actions">
       <button class="button primary" id="copy-subscription" type="button">复制 HTTPS 订阅地址</button>
-      <a class="button secondary" href="calendar-2026.ics" download>下载 ICS 文件</a>
+      <a class="button secondary" href="calendar-2026-fish-android.ics?v=2" download>下载 ICS 文件</a>
     </div>
 
     <section>
-      <h2>🐟 标记版</h2>
-      <p>如果你需要一版额外的鱼类标记日历：萨嘎月整月每天显示 🐟；其他月份在藏历初八、十五、三十显示 🐟。</p>
-      <p><a href="fish.html">打开独立的 🐟 订阅页</a></p>
-      <p><a href="android.html">打开 Android 版订阅页</a></p>
-      <p><a href="harmony.html">打开 HarmonyOS 版订阅页</a></p>
-    </section>
-
-    <section>
-      <h2>iPhone 添加方法（安全 HTTPS）</h2>
+      <h2>Android 添加方法</h2>
       <ol>
         <li>点击“复制 HTTPS 订阅地址”。</li>
-        <li>打开“设置 → 日历 → 账户 → 添加账户 → 其他 → 添加已订阅的日历”。</li>
-        <li>粘贴复制的 HTTPS 地址。</li>
-        <li>保存后在账户中确认日历已启用。</li>
+        <li>用浏览器打开 Google Calendar 网页版，左侧“其他日历”点击 +，选择“通过网址添加”。</li>
+        <li>粘贴复制出的 HTTPS 地址并确认。</li>
+        <li>回到 Android 的 Google Calendar App，等待同步后即可显示。</li>
       </ol>
     
-      <p class="note">不要使用 webcal:// 链接；部分 iPhone 版本会把它当作非加密连接并提示“不安全连接”。请始终使用 HTTPS 地址。</p>
+      <p class="note">不要使用 webcal:// 链接；部分日历客户端会把它当作非加密连接并提示“不安全连接”。长期订阅请使用这个稳定的 HTTPS 地址。Google Calendar 会按自己的刷新周期同步；以后更新同一个文件即可。</p>
     </section>
 
     <section>
-      <h2>也可以手动添加</h2>
+      <h2>Google Calendar 网页版</h2>
       <ol>
-        <li>打开“设置 → 日历 → 账户 → 添加账户 → 其他”。</li>
-        <li>选择“添加已订阅的日历”。</li>
-        <li>服务器地址填入 <code id="ics-url">https://haihuarao.github.io/tibetan-calendar-2026/calendar-2026.ics</code>。</li>
-        <li>点击“下一步”并保存。</li>
+        <li>电脑或手机浏览器打开 Google Calendar 网页版。</li>
+        <li>左侧“其他日历”点击 +，选择“通过网址添加”。</li>
+        <li>服务器地址填入 <code id="ics-url">https://haihuarao.github.io/tibetan-calendar-2026/calendar-2026-fish-android.ics</code>。</li>
+        <li>确认添加并等待 Android App 同步。</li>
       </ol>
     </section>
 
@@ -81,14 +73,16 @@
         <div class="date-card"><b>每日藏历</b>Phugpa 传承月日与闰日/重复日</div>
         <div class="date-card"><b>每日农历</b>公历对应的农历日期</div>
         <div class="date-card"><b>佛菩萨节日</b>阿弥陀佛、观音、地藏、莲师等纪念日</div>
+        <div class="date-card"><b>法会与祖师纪念日</b>随念本师、金刚萨埵、地藏、极乐、大藏经、三祖师涅槃等九项，全年 55 天</div>
         <div class="date-card"><b>节气与传统节日</b>春节、元宵、清明、中秋、冬至等</div>
+        <div class="date-card"><b>🐟 标记</b>萨嘎月整月每天标注；其他月份在藏历初八、十五、三十标注</div>
       </div>
     </section>
 
     <section>
       <h2>刷新频率</h2>
-      <p>ICS 文件包含每日刷新提示。以后若更新该文件，iPhone 会在联网时自动获取最新版本。</p>
-      <p class="note">当前版本覆盖 2026-01-01 至 2026-12-31，共 365 个全天事件。</p>
+      <p>ICS 文件包含每日刷新提示。以后若更新该文件，日历服务会按自己的刷新周期同步最新版本。</p>
+      <p class="note">当前版本覆盖 2026-01-01 至 2026-12-31，共 365 个全天事件，含 63 天 🐟 与 55 天法会标注；这是独立的 🐟 订阅。</p>
     </section>
 
     <footer>数据来源：用户提供的《2026（农历）藏历火马年月历.pdf》</footer>
@@ -98,7 +92,7 @@
       if (location.protocol !== 'http:' && location.protocol !== 'https:') return;
       var base = location.href.replace(/index\.html(?:[?#].*)?$/, '').replace(/[?#].*$/, '');
       if (!base.endsWith('/')) base += '/';
-      var httpsUrl = base + 'calendar-2026.ics';
+      var httpsUrl = 'https://haihuarao.github.io/tibetan-calendar-2026/calendar-2026-fish-android.ics';
       document.getElementById('ics-url').textContent = httpsUrl;
       var copyButton = document.getElementById('copy-subscription');
       copyButton.addEventListener('click', async function () {

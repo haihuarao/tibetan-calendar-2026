@@ -65,3 +65,35 @@ https://haihuarao.github.io/tibetan-calendar-2026/calendar-2026-fish.ics
 ```powershell
 python generate_ics.py --fish --output calendar-2026-fish.ics
 ```
+
+## Android 版订阅
+
+Android 订阅使用独立文件和独立 UID，内容与 iOS internal v2 相同：
+
+```text
+https://haihuarao.github.io/tibetan-calendar-2026/calendar-2026-fish-android.ics
+```
+
+页面：
+
+```text
+https://haihuarao.github.io/tibetan-calendar-2026/android.html
+```
+
+日历名称为 `2026 藏历火马年_v2_Android`。Android 的 Google Calendar App 通常不直接支持 ICS URL，可在 Google Calendar 网页版中通过“其他日历 → 通过网址添加”订阅。
+
+## HarmonyOS 版订阅
+
+HarmonyOS 订阅使用独立文件和独立 UID，内容与 iOS internal v2 相同：
+
+```text
+https://haihuarao.github.io/tibetan-calendar-2026/calendar-2026-fish-harmony.ics
+```
+
+页面：
+
+```text
+https://haihuarao.github.io/tibetan-calendar-2026/harmony.html
+```
+
+日历名称为 `2026 藏历火马年_v2_HarmonyOS`。HarmonyOS 的设备日历是否直接支持 URL 订阅取决于版本；如果没有“订阅日历/通过网址添加”入口，可使用支持 ICS URL 的第三方日历应用，或先在 Google Calendar 网页版添加后同步查看。

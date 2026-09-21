@@ -129,16 +129,16 @@ def description_for(entry: dict) -> str:
     return "\n".join(lines)
 
 
-def build_calendar(data_path: Path, output_path: Path, *, fish: bool = False) -> None:
+def build_calendar(data_path: Path, output_path: Path, *, fish: bool = False, calendar_name: str | None = None, uid_prefix: str | None = None, calendar_description: str | None = None) -> None:
     payload = json.loads(data_path.read_text(encoding="utf-8"))
     entries = payload["entries"]
     if len(entries) != 365:
         raise ValueError(f"Expected 365 entries, got {len(entries)}")
 
     stamp = dt.datetime.now(dt.timezone.utc).strftime("%Y%m%dT%H%M%SZ")
-    calendar_name = "2026 藏历火马年_v2" if fish else "2026 藏历火马年"
-    uid_prefix = "tibetan-2026-fish" if fish else "tibetan-2026"
-    calendar_description = (
+    calendar_name = calendar_name or ("2026 藏历火马年_v2" if fish else "2026 藏历火马年")
+    uid_prefix = uid_prefix or ("tibetan-2026-fish" if fish else "tibetan-2026")
+    calendar_description = calendar_description or (
         "2026 藏历火马年（萨嘎月整月及每月藏历初八、十五、三十标记 🐟，详情保留第一版信息）"
         if fish
         else payload["title"] + "（公历、农历、藏历对照，来源为用户提供的月历 PDF）"
@@ -190,8 +190,11 @@ def main() -> None:
     parser.add_argument("--data", type=Path, default=DEFAULT_DATA)
     parser.add_argument("--output", type=Path, default=DEFAULT_OUTPUT)
     parser.add_argument("--fish", action="store_true", help="Add 🐟 markers for Sagadawa month and Tibetan days 8, 15, and 30")
+    parser.add_argument("--calendar-name")
+    parser.add_argument("--uid-prefix")
+    parser.add_argument("--calendar-description")
     args = parser.parse_args()
-    build_calendar(args.data, args.output, fish=args.fish)
+    build_calendar(args.data, args.output, fish=args.fish, calendar_name=args.calendar_name, uid_prefix=args.uid_prefix, calendar_description=args.calendar_description)
 
 
 if __name__ == "__main__":
