@@ -52,22 +52,65 @@ def tibetan_day_short(display: str) -> str:
     return display.split("月", 1)[-1]
 
 
-def summary_for(entry: dict, fish: bool = False) -> str:
+def special_events(entry: dict, entries: list[dict]) -> list[str]:
+    t = entry["tibetan"]
+    month = t.get("month")
+    day = t.get("day")
+    events: list[str] = []
+
+    if t.get("month_name") == "萨嘎月":
+        if day in {7, 8, 15}:
+            events.append("随念本师法会")
+        if day is not None and 9 <= day <= 14:
+            events.append("金刚萨埵法会")
+        sagadawa_days = sorted(
+            {e["tibetan"].get("day") for e in entries if e["tibetan"].get("month_name") == "萨嘎月"}
+        )
+        last_three = sagadawa_days[-3:]
+        nirvana_names = [
+            "三祖师涅槃法会-法王如意宝",
+            "三祖师涅槃法会-麦彭仁波切",
+            "三祖师涅槃法会-白玛邓灯尊者",
+        ]
+        if day in last_three:
+            events.append(nirvana_names[last_three.index(day)])
+
+    if month == 6 and day in {1, 2, 3}:
+        events.append("地藏法会")
+    if month == 9 and day is not None and 15 <= day <= 22:
+        events.append("极乐法会")
+    if (month == 6 and day is not None and day >= 4) or (month == 7 and day is not None and day < 4):
+        events.append("大藏经法会")
+    if month == 11 and day == 15:
+        events.append("法王涅槃日")
+    if month == 7 and day == 8:
+        events.append("大恩上师诞辰")
+    if month == 8 and day == 25:
+        events.append("嘎瓦上师诞辰")
+    return events
+
+
+def summary_for(entry: dict, fish: bool = False, entries: list[dict] | None = None) -> str:
+
     day = tibetan_day_short(entry["tibetan"]["display"])
     gatherings = [
         note
         for note in entry["notes"]
         if note in {"莲师荟供日", "空行母荟供日"}
     ]
-    result = f"{day} {'、'.join(gatherings)}" if gatherings else day
+    parts = [day]
+    if gatherings:
+        parts.append("、".join(gatherings))
+    if entries is not None:
+        parts.extend(special_events(entry, entries))
     # 萨嘎月整月标记；其他月份只在藏历初八、十五、三十标记。
     should_mark_fish = (
         entry["tibetan"].get("month_name") == "萨嘎月"
         or entry["tibetan"].get("day") in {8, 15, 30}
     )
     if fish and should_mark_fish:
-        result += " 🐟"
-    return result
+        parts.append("🐟")
+    return " ".join(parts)
 
 def description_for(entry: dict) -> str:
     date = dt.date.fromisoformat(entry["date"])
@@ -124,7 +167,7 @@ def build_calendar(data_path: Path, output_path: Path, *, fish: bool = False) ->
             f"DTSTAMP:{stamp}",
             f"DTSTART;VALUE=DATE:{start:%Y%m%d}",
             f"DTEND;VALUE=DATE:{end:%Y%m%d}",
-            f"SUMMARY:{ics_escape(summary_for(entry, fish=fish))}",
+            f"SUMMARY:{ics_escape(summary_for(entry, fish=fish, entries=entries))}",
             f"DESCRIPTION:{ics_escape(description_for(entry))}",
             "TRANSP:TRANSPARENT",
             "SEQUENCE:0",

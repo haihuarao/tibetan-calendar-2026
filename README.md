@@ -55,7 +55,7 @@ python generate_ics.py
 在保留原订阅的同时，额外提供独立的鱼类标记日历：
 
 ```text
-https://haihuarao.github.io/tibetan-calendar-2026/calendar-2026-fish.ics?v=2
+https://haihuarao.github.io/tibetan-calendar-2026/calendar-2026-fish.ics
 ```
 
 规则：萨嘎月整月每天显示 🐟；其他月份只在藏历初八、十五、三十显示 🐟。
