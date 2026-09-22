@@ -75,6 +75,8 @@ def special_events(entry: dict, entries: list[dict]) -> list[str]:
         if day in last_three:
             events.append(nirvana_names[last_three.index(day)])
 
+    if month == 1 and day == 3:
+        events.append("法王如意宝诞辰纪念日")
     if month == 6 and day in {1, 2, 3}:
         events.append("地藏法会")
     if month == 9 and day is not None and 15 <= day <= 22:
@@ -99,7 +101,7 @@ def summary_for(entry: dict, fish: bool = False, entries: list[dict] | None = No
         if note in {"莲师荟供日", "空行母荟供日"}
     ]
     parts = [day]
-    if entries is not None:
+    if entries is not None and fish:
         parts.extend(special_events(entry, entries))
     if gatherings:
         parts.append("、".join(gatherings))
